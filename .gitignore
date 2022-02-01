@@ -1,11 +1,15 @@
 serverDZ.cfg
 dayz.gproj
+STARTER.bat
+
+
 /addons
 /battleye
 /bliss
 /docs
 /dta
+
+
 **/*.adm
 **/*.rpt
 **/*.log
-**/*.bat
