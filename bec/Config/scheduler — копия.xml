@@ -1,0 +1,392 @@
+﻿<?xml version="1.0"?>
+
+<!-- 
+This file is only provided as an example file and is not practical to use in real life.
+Make sure you take a copy of this file rename it and keep the orginale intact for orginale refrance.
+And Start using your new file Now!!
+
+Web Doc : http://www.ibattle.org/install-and-configure/setting-up-the-scheduler/
+
+BE Commands supported by the scheduler system are:
+
+say -1 some text
+loadbans
+loadscripts
+loadevents
+writebans
+maxping 250
+#shutdown
+#restart
+#reassign
+#lock
+#unlock
+#mission filename (without the .pbo extension)
+
+
+*****************************************************************************************************
+Description:
+*****************************************************************************************************
+
+Schedules are createad by adding a job with id.
+The first schedule should always start with id="0"
+
+<Scheduler>
+	<job id="0">
+		<time></time>
+		<delay></delay>
+		<day></day>
+		<loop></loop>
+		<cmd></cmd>
+		<cmdtype></cmdtype>
+	</job>
+	<job id="1">
+		<time></time>
+		<delay></delay>
+		<day></day>
+		<loop></loop>
+		<cmd></cmd>
+		<cmdtype></cmdtype>
+	</job>
+</Scheduler>	
+
+The job tag has 6 sub tags.
+starting with:
+
+
+<time>......</time> 
+This tag may have one of tow input format.
+
+Format 1:
+Contains 3 segments where each segment is a size of 2 in range of 00 - 99
+Hour Min  Sec
+[nn] [nn] [nn]
+nnnnnn
+Max value is 999999
+
+<time>000090</time>
+This will make the schedule execute 90 secounds after bec has started up.
+Note that:
+
+<time>000130</time>
+Will also make the schedule execute 90 secounds after bec has started up.
+as 90 sec is the same as 1 min and 30 sec
+
+ 
+Format 2:
+Contains 2 segments where each segment is a size of 2 in range of 00 - (23&59) and each segment is seperated by ':'
+
+Hour   Min    Sec
+[nn] : [nn] : [nn]
+
+<time>23:05:30</time>
+This will make the schedule execute precice at 23:05:30
+
+To execute a schedule at midnight use:
+<time>00:00:00</time>
+
+To execute a schedule at noon use:
+<time>12:00:00</time>
+
+
+<delay>......</delay>
+This tag uses the same format as the <time> tag format 1, it also only work when the <time> tag format is 1!
+<delay>nnnnnn</delay>
+
+
+<day>.../day>
+
+The day of the week the schedule should run on.
+Days are seperated by ',' 
+<day>n</day> or <day>n,n+</day>
+
+Monday starts with 1!
+
+All days
+<day>1,2,3,4,5,6,7</day>
+
+Monday and Friday only.
+<day>1,5</day>
+
+
+Set if the command is to loop or not..
+<loop>1</loop> 
+
+Set the command that is to be executed.
+<cmd>loadscripts</cmd>
+
+Set 0 if its a internal command and 1 if its a external *.bat or *.cmd script.
+<cmdtype>0</cmdtype>
+
+-->
+
+
+<!-- 
+Помощь на русском!!!
+day - дни, в которые будет запускаться задача
+time - время первого запуска задачи от старта BEC
+delay - частота повторения команды по времени в формате ччммсс
+loop - количество повторения команды (0 - значит 1 раз, 1 - значит 2 раза, и т.п.)
+cmd - сама команда на battleye
+cmdtype - указание запуска внутренней комманды или внешнего файла. 0, если внутренняя команда battleye, 1 если внешняя команда на стратр файла.
+
+Battleye команды
+say -1 some text - вывести в чат информацию
+maxping 250 - установить максимально допустимый пинг на сервере
+#shutdown - выключить сервер
+#restart - запустить рестарт (без перезапуска сервера целиком)
+#lock - закрыть сервер
+#unlock - открыть сервер
+#mission filename (без расширения the .pbo) - запустить на сервере новую миссию из mpmission
+systime - показать системное время в чат
+uptime - показать время работы сервера в чат
+	
+Пример работы шедулера с разъяснениями:
+	<job id="0">
+		<day>1,2,3,4,5,6,7</day>
+		<time>003000</start>
+		<delay>010000</runtime>
+		<loop>3</loop> 
+		<cmd>say -1 Заходите в нашу группу: vk.com/...</cmd>
+		<cmdtype>0</cmdtype>
+	</job>
+Данная задача означает, что:
+1. Она будет запускаться все 7 дней в неделю
+2. Запустится спустя 30 минут после старта BEC
+3. Будет повторяться каждый 1 час
+4. Будет повторяться 4 раза
+5. Выведет в чат "Заходите в нашу группу: vk.com/..."
+
+Пример 2 работы шедулера с разъяснениями:
+	<job id="8">
+		<day>1,2,3,4,5,6,7</day>
+		<time>23:30:00</start>
+		<delay>040000</runtime>
+		<loop>-1</loop> 
+		<cmd>say -1 Рестарт произойдёт через 30 минут.</cmd>
+		<cmdtype>0</cmdtype>		
+	</job>
+Данная задача означает, что:
+1. Она будет запускаться все 7 дней в неделю
+2. Запустится в 23:30:00
+3. Будет повторяться каждые 4 часа
+4. Будет повторяться бесконечно
+5. Выведет в чат "Рестарт произойдёт через 30 минут."
+
+Пример 3 работы шедулера с разъяснениями:
+	<job id="14">
+		<day>1,2,3,4,5,6,7</day>
+		<time>00:00:00</start>
+		<delay>040000</runtime>
+		<loop>-1</loop> 
+		<cmd>#shutdown</cmd>	
+		<cmdtype>0</cmdtype>		
+	</job>
+Данная задача означает, что:
+1. Она будет запускаться все 7 дней в неделю
+2. Запустится в 00:00:00
+3. Будет повторяться каждые 4 часа
+4. Будет повторяться бесконечно
+5. Произведёт выключение сервера
+
+Буьте внимательны при редактировании!
+Должна соблюдаться нумерация job id, и должна начинаться с 0 без повторений!
+-->
+
+<Scheduler>
+
+	<!-- *** РЕСТАРТЫ *** -->
+	<!-- Сообщения о рестартах + сам рестарт -->
+	<job id="0">
+		<time>03:45:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 15 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="1">
+		<time>03:55:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 5 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="2">
+		<time>03:59:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 1 минуту.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="3">
+		<time>04:00:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>1</loop> 
+        <cmd>#shutdown</cmd>	
+        <cmdtype>0</cmdtype>			
+	</job>
+	<job id="4">
+		<time>07:45:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 15 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="5">
+		<time>07:55:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 5 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="6">
+		<time>07:59:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 1 минуту.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="7">
+		<time>08:00:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>1</loop> 
+        <cmd>#shutdown</cmd>	
+        <cmdtype>0</cmdtype>			
+	</job>
+	<job id="8">
+		<time>11:45:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 15 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="9">
+		<time>11:55:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 5 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="10">
+		<time>11:59:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 1 минуту.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="11">
+		<time>12:00:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>1</loop> 
+        <cmd>#shutdown</cmd>	
+        <cmdtype>0</cmdtype>			
+	</job>
+	<job id="12">
+		<time>15:45:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 15 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="13">
+		<time>15:55:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 5 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="14">
+		<time>15:59:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 1 минуту.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="15">
+		<time>16:00:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>1</loop> 
+        <cmd>#shutdown</cmd>	
+        <cmdtype>0</cmdtype>			
+	</job>
+	<job id="16">
+		<time>19:45:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 15 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="17">
+		<time>19:55:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 5 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="18">
+		<time>19:59:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 1 минуту.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="19">
+		<time>20:00:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>1</loop> 
+        <cmd>#shutdown</cmd>	
+        <cmdtype>0</cmdtype>			
+	</job>
+	<job id="20">
+		<time>23:45:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 15 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="21">
+		<time>23:55:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 5 минут.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="22">
+		<time>23:59:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>0</loop> 
+		<cmd>say -1 Рестарт произойдёт через 1 минуту.</cmd>
+		<cmdtype>0</cmdtype>			
+	</job>
+	<job id="23">
+		<time>00:00:00</time>
+		<delay>000000</delay>
+		<day>1,2,3,4,5,6,7</day>
+		<loop>1</loop> 
+        <cmd>#shutdown</cmd>	
+        <cmdtype>0</cmdtype>			
+	</job>
+	
+</Scheduler>

@@ -7,3 +7,6 @@ serverDZ.cfg
 /keys
 *.exe
 *.dll
+*.adm
+*.rpt
+*.log
