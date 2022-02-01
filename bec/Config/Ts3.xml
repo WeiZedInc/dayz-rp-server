@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!--
+
+Bec will collect ts3 info each 30 seconds.
+Due to this, if you have clientrequiredts3 set to 1,  the (clientrequiredts3_warnings) tag should be set to minimum 2 or more.
+To ensure that the player gets atleast one warning sent thought, there are times when the player can connect when the ts3 collect loop is on example its 28 second,
+this would not give the client time to connect to the ts3 server as he would only have 2 sec on him. and he would be queued up for a kick.
+
+Read the comments on each tag to get a understanding on what they do!
+
+-->
+
+<Ts3>
+
+	<!-- 
+	Note: keep <..id= > in order for your admin block. else parsing the file will cause errors. start it at 0 and increment it by 1 for each admin you add.
+	-->
+	<Ts3Admins>
+		
+		<admin id="0">
+			
+			<!-- name of the admin.. do not need to match ts name -->
+			<name>nux</name>
+			
+			<!-- Ts3 Uid to the admin . note. do not confuse this with arma guid, this is the admins ts3-client Uid "unique identifyer" -->
+			<uid>zRiiNKARbMWXdbiL8JTZ8NuLxmY=</uid>
+			
+			<!-- Notify Admin with pm on kick | 0 means No, 1 means Yes -->
+			<nok>1</nok>
+			
+			<!-- Notify Admin with pm on ban | 0 means No, 1 means Yes -->
+			<nob>1</nob>
+			
+			<!-- Notify Admin with pm on Hack | 0 means No, 1 means Yes -->
+			<noh>1</noh>
+			
+			<!-- Notification from a player/user. | 0 means No, 1 means Yes  -->
+			<nfu>1</nfu>			
+			
+		</admin>
+
+		<admin id="1">
+			<name>Alfred</name>
+			<uid>BT2tgETrPBycDudfR/5aMuJU+/A=</uid>
+			<nok>0</nok>
+			<nob>1</nob>
+			<noh>0</noh>
+			<nfu>1</nfu>
+		</admin>	
+	
+	
+		<admin id="2"><name>Nils Pils</name><uid>VFw4EQnt1uZbHy9U7/TG/40sWp4=</uid><nok>1</nok><nob>0</nob><noh>1</noh><nfu>1</nfu></admin>
+	</Ts3Admins>
+	
+	
+	
+	<!-- General Ts3 Settings. -->
+	<Ts3Settings>
+		
+		<!-- Ip address to your ts3 server -->
+		<address>127.0.0.1</address>
+		
+		
+		<!-- Query port -->
+		<port>10011</port>
+		
+		
+		<!-- The virtual server the queryer will use -->
+		<virtualserver>1</virtualserver>
+		
+		
+		<!-- ts3 server query user -->
+		<username>serveradmin</username>
+
+		
+		<!-- password to log in the user -->
+		<password>secret</password>
+
+		
+		<!-- 
+			Set the name on the query client
+			Note. if you have more than one Bec running and they both are using the Ts3Query and connected to the same server..
+			They can/should not use the same query name. In this case make a copy of the Ts3.xml 
+			so you have one file for each bec-server and use diffrent name in each file. example:
+			BotMania_Server1, BotMania_Server2 so on.
+		-->
+		<queryname>BecObot</queryname>		
+		
+		
+		<!-- 
+			Send warning message through BE if clients are not on Ts3.
+		-->
+		<clientrequiredts3>1</clientrequiredts3>
+		
+		
+		<!-- 
+			The channel id the player must be in. Leave this Empty for ALL channels. 
+			You can open the database.sql file to get the Channel id or use a Ts3queryer such as YaTQA
+			http://addons.teamspeak.com/directory/tools/administration/YaTQA-Query-Admin-Tool-%28German%29.html
+		
+			If you set multiple channels, do seperate them by ","
+			Note. this tag works in two ways.
+			Example: 2,6,8,11,12 players must be in one of thouse channels
+			or
+			Example: !2,!6,!8,!11,!12 this will allow players to be in any channel except thouse defined.
+			
+			Do not mix the two methods.
+			Example: !2,3,5,!4 will not work.
+		-->
+		<clientrequirets3_channel>2,8</clientrequirets3_channel>
+		
+		
+		<!-- Set how many warning a player should get before he gets kicked. -->
+		<clientrequiredts3_warnings>2</clientrequiredts3_warnings>
+		
+		
+		<!-- Send this message N = (clientwarnings) times through BE when clients are not connected to the ts3server : -->
+		<clientrequiredts3_warningmessage>Connect to our TS3 server @ ts3.domain.com and join one of these channels : (Bluefor,Opfor)</clientrequiredts3_warningmessage>
+		
+		
+		<!-- Send this message through BE when clients gets kicked from the game server for not being on the Ts3 server MAXLENGHT = 64Chars -->
+		<clientrequiredts3_kickmessage>Absent from our Ts3server is not allowed, join : ts3.domain.com</clientrequiredts3_kickmessage>
+
+	</Ts3Settings>
+</Ts3>

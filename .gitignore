@@ -6,6 +6,6 @@ serverDZ.cfg
 /dta
 *.exe
 *.dll
-*.ADM
-*.RPC
+*.adm
+*.rpt
 *.log
