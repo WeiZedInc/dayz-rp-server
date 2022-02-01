@@ -1,0 +1,494 @@
+﻿00:00:01 : Player #22 Julia disconnected
+﻿00:00:04 : Lost Connection!
+﻿00:00:04 : Closing socket & exiting!
+﻿00:00:25 : Rcon client logging in
+﻿00:01:00 : RCon admin #0 (127.0.0.1:60619) logged in
+﻿00:01:00 : RCon admin #0: (Global) Initializing Bec
+﻿00:01:01 : RCon admin #1 (217.19.216.236:54046) logged in
+﻿00:01:01 : Player #0 Julia (46.61.67.101:2304) connected
+﻿00:01:01 : Player #1 Malinka (217.19.216.236:2304) connected
+﻿00:01:03 : Player #0 Julia - BE GUID: 98aa829351917f6015276683f35045ec
+﻿00:01:03 : Player #1 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿00:01:03 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #1 Malinka
+﻿00:01:03 : Verified GUID (98aa829351917f6015276683f35045ec) of player #0 Julia
+﻿00:01:15 : Player #2 AtomPlay (164.138.35.71:2304) connected
+﻿00:01:16 : Player #2 AtomPlay - BE GUID: 468ce0e130a5a1506dc5bf965b1ecd54
+﻿00:01:17 : Verified GUID (468ce0e130a5a1506dc5bf965b1ecd54) of player #2 AtomPlay
+﻿00:02:29 : Player #3 KOT_KOKOS (93.84.237.221:2304) connected
+﻿00:02:34 : Player #4 HAXAJIEHOK91 (176.213.151.174:2304) connected
+﻿00:02:42 : Player #3 KOT_KOKOS - BE GUID: 99fe4c6e540a10818bcaae273b798729
+﻿00:02:43 : Verified GUID (99fe4c6e540a10818bcaae273b798729) of player #3 KOT_KOKOS
+﻿00:02:50 : Player #4 HAXAJIEHOK91 - BE GUID: 16d83f859d4acc13f8a1169cc86e8e84
+﻿00:02:50 : Verified GUID (16d83f859d4acc13f8a1169cc86e8e84) of player #4 HAXAJIEHOK91
+﻿00:02:50 : Player #5 Outlaw35 (94.45.221.240:2304) connected
+﻿00:02:52 : Player #5 Outlaw35 - BE GUID: bd91f0b93b649e4852020d55c4912ca2
+﻿00:02:52 : Player #6 Dmitril (188.233.22.168:2304) connected
+﻿00:02:52 : Verified GUID (bd91f0b93b649e4852020d55c4912ca2) of player #5 Outlaw35
+﻿00:02:54 : Player #6 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿00:02:55 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #6 Dmitril
+﻿00:03:07 : Player #7 Teamix228 (91.122.56.123:2304) connected
+﻿00:03:08 : Player #7 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿00:03:09 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #7 Teamix228
+﻿00:06:09 : Player #2 AtomPlay disconnected
+﻿00:07:02 : Player #8 AtomPlay (164.138.35.71:2304) connected
+﻿00:07:03 : Player #8 AtomPlay - BE GUID: 468ce0e130a5a1506dc5bf965b1ecd54
+﻿00:09:02 : Player #8 AtomPlay disconnected
+﻿00:10:02 : Player #7 Teamix228 disconnected
+﻿00:10:07 : Player #7 Teamix228 (91.122.56.123:2304) connected
+﻿00:10:08 : Player #7 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿00:10:09 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #7 Teamix228
+﻿00:11:09 : Player #8 AtomPlay (164.138.35.71:2304) connected
+﻿00:11:10 : Player #8 AtomPlay - BE GUID: 468ce0e130a5a1506dc5bf965b1ecd54
+﻿00:11:11 : Verified GUID (468ce0e130a5a1506dc5bf965b1ecd54) of player #8 AtomPlay
+﻿00:16:22 : Player #1 Malinka disconnected
+﻿00:16:48 : Player #9 Malinka (217.19.216.236:2304) connected
+﻿00:16:50 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:4
+﻿00:16:50 : Player #9 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿00:16:51 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #9 Malinka
+﻿00:17:18 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:3
+﻿00:19:46 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:2
+﻿00:20:21 : Player #10 Outlaw35 (2) (94.45.221.204:2304) connected
+﻿00:20:23 : Player #5 Outlaw35 disconnected
+﻿00:20:24 : Player #10 Outlaw35 (2) - BE GUID: bd91f0b93b649e4852020d55c4912ca2
+﻿00:20:24 : Verified GUID (bd91f0b93b649e4852020d55c4912ca2) of player #10 Outlaw35 (2)
+﻿00:21:00 : Player #6 Dmitril disconnected
+﻿00:21:02 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:1
+﻿00:22:26 : Player #11 Dmitril (188.233.22.168:2304) connected
+﻿00:22:28 : Player #11 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿00:22:29 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #11 Dmitril
+﻿00:23:56 : Player #0 Julia disconnected
+﻿00:24:05 : Player #12 Julia (46.61.67.101:2304) connected
+﻿00:24:07 : Player #12 Julia - BE GUID: 98aa829351917f6015276683f35045ec
+﻿00:24:08 : Verified GUID (98aa829351917f6015276683f35045ec) of player #12 Julia
+﻿00:25:46 : Player #12 Julia disconnected
+﻿00:27:05 : Player #12 Julia (46.61.67.101:2304) connected
+﻿00:27:06 : Player #12 Julia - BE GUID: 98aa829351917f6015276683f35045ec
+﻿00:27:07 : Verified GUID (98aa829351917f6015276683f35045ec) of player #12 Julia
+﻿00:29:25 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:4
+﻿00:29:37 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:3
+﻿00:29:55 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:2
+﻿00:30:03 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:1
+﻿00:30:30 : RCon admin #0: (To Julia) Do not use Global chat. No Warnings left, Next Global message will result in kick
+﻿00:31:17 : Player #12 Julia (98aa829351917f6015276683f35045ec) has been kicked by BattlEye: Admin Kick (BEC : Violation of global chat restriction)
+﻿00:31:25 : Player #12 Julia (46.61.67.101:2304) connected
+﻿00:31:27 : Player #12 Julia - BE GUID: 98aa829351917f6015276683f35045ec
+﻿00:31:27 : Verified GUID (98aa829351917f6015276683f35045ec) of player #12 Julia
+﻿00:36:16 : Player #13 Viktor(Myrzik) (37.230.147.72:37526) connected
+﻿00:36:28 : Player #13 Viktor(Myrzik) disconnected
+﻿00:39:31 : Player #13 Viktor(Myrzik) (37.230.147.72:37526) connected
+﻿00:39:43 : Player #13 Viktor(Myrzik) disconnected
+﻿00:42:22 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:4
+﻿00:43:03 : RCon admin #1: (Global) [Сидорович] Вижу помогаете друг другу.
+﻿00:43:03 : RCon admin #1: (Global) [Сидорович] Вижу помогаете друг другу.
+﻿00:43:08 : RCon admin #1: (Global) [Сидорович] Приятно видеть.
+﻿00:43:34 : RCon admin #1: (Global) [Сидорович] Взимопомощь залог выживания!!!
+﻿00:44:05 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:3
+﻿00:46:11 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:2
+﻿00:46:17 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:1
+﻿00:48:36 : RCon admin #0: (To Julia) Do not use Global chat. No Warnings left, Next Global message will result in kick
+﻿00:52:26 : Player #11 Dmitril (5c20d69489a99d51893edff48bb045cc) has been kicked by BattlEye: Query Timeout
+﻿00:52:47 : Player #13 Dmitril (188.233.22.168:2304) connected
+﻿00:52:49 : Player #13 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿00:52:49 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #13 Dmitril
+﻿00:55:15 : Player #12 Julia (98aa829351917f6015276683f35045ec) has been kicked by BattlEye: Admin Kick (BEC : Violation of global chat restriction)
+﻿00:55:21 : Player #14 Julia (46.61.67.101:2304) connected
+﻿00:55:23 : Player #14 Julia - BE GUID: 98aa829351917f6015276683f35045ec
+﻿00:55:23 : Verified GUID (98aa829351917f6015276683f35045ec) of player #14 Julia
+﻿00:56:42 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:4
+﻿01:00:51 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:3
+﻿01:01:03 : Player #13 Dmitril disconnected
+﻿01:01:39 : Player #15 Dmitril (188.233.22.168:2304) connected
+﻿01:01:42 : Player #15 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿01:01:42 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #15 Dmitril
+﻿01:03:18 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:2
+﻿01:03:55 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:1
+﻿01:04:21 : RCon admin #0: (To Julia) Do not use Global chat. No Warnings left, Next Global message will result in kick
+﻿01:06:38 : Player #15 Dmitril (5c20d69489a99d51893edff48bb045cc) has been kicked by BattlEye: Client not responding
+﻿01:07:02 : Player #15 Dmitril (188.233.22.168:2304) connected
+﻿01:07:07 : Player #15 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿01:07:07 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #15 Dmitril
+﻿01:10:56 : Player #15 Dmitril disconnected
+﻿01:11:23 : Player #15 Dmitril (188.233.22.168:2304) connected
+﻿01:11:30 : Player #15 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿01:11:30 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #15 Dmitril
+﻿01:23:31 : Player #15 Dmitril disconnected
+﻿01:28:50 : Player #15 Dmitril (188.233.22.168:2304) connected
+﻿01:28:52 : Player #15 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿01:28:53 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #15 Dmitril
+﻿01:35:14 : Player #15 Dmitril disconnected
+﻿01:36:51 : Player #15 Dmitril (188.233.22.168:2304) connected
+﻿01:36:53 : Player #15 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿01:36:54 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #15 Dmitril
+﻿01:38:15 : Player #7 Teamix228 disconnected
+﻿01:38:26 : Player #16 Myrzik(Viktor) (37.230.147.72:37537) connected
+﻿01:38:30 : Player #16 Myrzik(Viktor) disconnected
+﻿01:40:37 : Player #16 Teamix228 (91.122.56.123:2304) connected
+﻿01:40:38 : Player #16 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿01:40:39 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #16 Teamix228
+﻿01:41:22 : Player #17 Myrzik(Viktor) (37.230.147.72:37537) connected
+﻿01:41:25 : Player #17 Myrzik(Viktor) disconnected
+﻿01:48:38 : Player #17 Myrzik(Viktor) (37.230.147.72:37537) connected
+﻿01:48:44 : Player #17 Myrzik(Viktor) - BE GUID: 8e079f7bb183209b8a099430cb285d5a
+﻿01:48:44 : Verified GUID (8e079f7bb183209b8a099430cb285d5a) of player #17 Myrzik(Viktor)
+﻿02:02:55 : Player #18 Freak (92.243.190.212:2304) connected
+﻿02:02:57 : Player #18 Freak - BE GUID: 7162954895375ea6b1c94212cf18746a
+﻿02:02:57 : Verified GUID (7162954895375ea6b1c94212cf18746a) of player #18 Freak
+﻿02:03:21 : Player #15 Dmitril disconnected
+﻿02:04:59 : Player #19 Dmitril (188.233.22.168:2304) connected
+﻿02:05:01 : Player #19 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿02:05:01 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #19 Dmitril
+﻿02:12:53 : Player #18 Freak disconnected
+﻿02:14:19 : Player #10 Outlaw35 (2) disconnected
+﻿02:30:09 : RCon admin #1 (217.19.216.236:51997) logged in
+﻿02:33:11 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:13 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:14 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:14 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:15 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:16 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:17 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:17 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:18 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:18 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:19 : RCon admin #1: (Global) [Сидорович] Обновился мод FS. 10 минут на тех. работы. 
+﻿02:33:50 : Player #17 Myrzik(Viktor) disconnected
+﻿02:33:55 : Player #3 KOT_KOKOS disconnected
+﻿02:33:57 : Player #19 Dmitril disconnected
+﻿02:34:28 : Player #4 HAXAJIEHOK91 disconnected
+﻿02:34:29 : Player #9 Malinka disconnected
+﻿02:34:31 : Player #14 Julia disconnected
+﻿02:34:36 : Player #16 Teamix228 disconnected
+﻿02:34:40 : Player #8 AtomPlay disconnected
+﻿02:39:50 : Lost Connection!
+﻿02:39:50 : Closing socket & exiting!
+﻿02:52:27 : Rcon client logging in
+﻿02:53:00 : RCon admin #0 (127.0.0.1:51249) logged in
+﻿02:53:01 : RCon admin #0: (Global) Initializing Bec
+﻿02:53:17 : Player #0 Teamix228 (91.122.56.123:2304) connected
+﻿02:53:18 : Player #0 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿02:53:19 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #0 Teamix228
+﻿02:53:38 : Player #1 Myrzik(Viktor) (37.230.147.72:37538) connected
+﻿02:53:45 : Player #1 Myrzik(Viktor) - BE GUID: 8e079f7bb183209b8a099430cb285d5a
+﻿02:53:45 : Verified GUID (8e079f7bb183209b8a099430cb285d5a) of player #1 Myrzik(Viktor)
+﻿02:54:11 : Player #2 Malinka (217.19.216.236:2304) connected
+﻿02:54:12 : Player #2 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿02:54:12 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #2 Malinka
+﻿02:54:48 : Player #3 Julia (46.61.67.101:2304) connected
+﻿02:54:50 : Player #3 Julia - BE GUID: 98aa829351917f6015276683f35045ec
+﻿02:54:50 : Verified GUID (98aa829351917f6015276683f35045ec) of player #3 Julia
+﻿02:54:53 : Player #4 AtomPlay (164.138.35.71:2304) connected
+﻿02:54:54 : Player #4 AtomPlay - BE GUID: 468ce0e130a5a1506dc5bf965b1ecd54
+﻿02:54:55 : Verified GUID (468ce0e130a5a1506dc5bf965b1ecd54) of player #4 AtomPlay
+﻿02:55:34 : RCon admin #1 (217.19.216.236:55624) logged in
+﻿02:55:53 : Player #5 Kraken (217.19.216.236:53732) connected
+﻿02:55:54 : Player #5 Kraken - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿02:55:55 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #5 Kraken
+﻿02:55:56 : Player #6 HAXAJIEHOK91 (176.213.151.174:2304) connected
+﻿02:56:11 : Player #6 HAXAJIEHOK91 - BE GUID: 16d83f859d4acc13f8a1169cc86e8e84
+﻿02:56:28 : Player #7 Dmitril (188.233.22.168:2304) connected
+﻿02:56:30 : Player #7 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿02:56:31 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #7 Dmitril
+﻿02:56:50 : Player #8 KOT_KOKOC (93.84.237.221:2304) connected
+﻿02:57:04 : Player #8 KOT_KOKOC - BE GUID: 99fe4c6e540a10818bcaae273b798729
+﻿02:57:04 : Verified GUID (99fe4c6e540a10818bcaae273b798729) of player #8 KOT_KOKOC
+﻿02:57:29 : RCon admin #2 (217.19.216.236:63153) logged in
+﻿02:57:33 : Verified GUID (16d83f859d4acc13f8a1169cc86e8e84) of player #6 HAXAJIEHOK91
+﻿03:00:28 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:4
+﻿03:01:14 : Player #3 Julia disconnected
+﻿03:03:33 : Player #7 Dmitril disconnected
+﻿03:05:22 : Player #9 Dmitril (188.233.22.168:2304) connected
+﻿03:05:24 : Player #9 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿03:05:25 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #9 Dmitril
+﻿03:06:03 : Player #10 Julia (46.61.67.101:2304) connected
+﻿03:06:05 : Player #10 Julia - BE GUID: 98aa829351917f6015276683f35045ec
+﻿03:06:05 : Verified GUID (98aa829351917f6015276683f35045ec) of player #10 Julia
+﻿03:08:12 : Player #10 Julia (98aa829351917f6015276683f35045ec) has been kicked by BattlEye: Client not responding
+﻿03:08:36 : Player #10 Julia (46.61.67.101:2304) connected
+﻿03:08:37 : Player #10 Julia - BE GUID: 98aa829351917f6015276683f35045ec
+﻿03:08:38 : Verified GUID (98aa829351917f6015276683f35045ec) of player #10 Julia
+﻿03:09:57 : Player #2 Malinka disconnected
+﻿03:11:02 : Player #11 Malinka (217.19.216.236:2304) connected
+﻿03:11:03 : Player #11 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿03:11:03 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #11 Malinka
+﻿03:12:58 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:4
+﻿03:13:36 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:3
+﻿03:14:09 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:2
+﻿03:19:37 : RCon admin #0: (To Julia) Do not use Global chat. Warnings left:1
+﻿03:29:47 : Player #1 Myrzik(Viktor) disconnected
+﻿03:30:33 : Player #9 Dmitril (5c20d69489a99d51893edff48bb045cc) has been kicked by BattlEye: Query Timeout
+﻿03:30:51 : Player #12 Dmitril (188.233.22.168:2304) connected
+﻿03:30:54 : Player #12 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿03:30:54 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #12 Dmitril
+﻿03:40:57 : Player #12 Dmitril disconnected
+﻿03:42:42 : Player #12 Dmitril (188.233.22.168:2304) connected
+﻿03:42:44 : Player #12 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿03:42:44 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #12 Dmitril
+﻿03:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿03:46:19 : Player #8 KOT_KOKOC disconnected
+﻿03:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿03:55:50 : Player #13 Sat-Ok(����) (78.157.240.251:2304) connected
+﻿03:55:51 : Player #13 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿03:55:51 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #13 Sat-Ok(����)
+﻿03:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿04:00:01 : Player #12 Dmitril disconnected
+﻿04:00:04 : Lost Connection!
+﻿04:00:04 : Closing socket & exiting!
+﻿04:00:25 : Rcon client logging in
+﻿04:00:58 : RCon admin #0 (127.0.0.1:56391) logged in
+﻿04:00:58 : RCon admin #0: (Global) Initializing Bec
+﻿04:00:59 : Player #0 Julia (46.61.67.101:2304) connected
+﻿04:00:59 : Player #1 Malinka (217.19.216.236:2304) connected
+﻿04:00:59 : Player #2 Sat-Ok(����) (78.157.240.251:2304) connected
+﻿04:01:00 : Player #1 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿04:01:00 : Player #2 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿04:01:00 : Player #0 Julia - BE GUID: 98aa829351917f6015276683f35045ec
+﻿04:01:01 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #1 Malinka
+﻿04:01:01 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #2 Sat-Ok(����)
+﻿04:01:01 : Verified GUID (98aa829351917f6015276683f35045ec) of player #0 Julia
+﻿04:01:02 : Player #3 Teamix228 (91.122.56.123:2304) connected
+﻿04:01:04 : Player #3 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿04:01:04 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #3 Teamix228
+﻿04:01:14 : Player #4 AtomPlay (164.138.35.71:2304) connected
+﻿04:01:15 : Player #4 AtomPlay - BE GUID: 468ce0e130a5a1506dc5bf965b1ecd54
+﻿04:01:16 : Verified GUID (468ce0e130a5a1506dc5bf965b1ecd54) of player #4 AtomPlay
+﻿04:02:02 : Player #5 Dmitril (188.233.22.168:2304) connected
+﻿04:02:04 : Player #5 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿04:02:04 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #5 Dmitril
+﻿04:02:32 : RCon admin #1 (217.19.216.236:61628) logged in
+﻿04:02:38 : Player #6 Kraken (217.19.216.236:53732) connected
+﻿04:02:39 : Player #6 Kraken - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿04:02:39 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #6 Kraken
+﻿04:03:05 : RCon admin #2 (217.19.216.236:62000) logged in
+﻿04:04:02 : Player #7 HAXAJIEHOK91 (176.213.151.174:2304) connected
+﻿04:04:18 : Player #7 HAXAJIEHOK91 - BE GUID: 16d83f859d4acc13f8a1169cc86e8e84
+﻿04:04:18 : Verified GUID (16d83f859d4acc13f8a1169cc86e8e84) of player #7 HAXAJIEHOK91
+﻿04:07:22 : Player #8 URAGANss (85.31.36.85:2304) connected
+﻿04:07:24 : Player #8 URAGANss - BE GUID: 8af63072e98a547097b1e7d76cd0e0e4
+﻿04:07:24 : Verified GUID (8af63072e98a547097b1e7d76cd0e0e4) of player #8 URAGANss
+﻿04:08:56 : Player #5 Dmitril (5c20d69489a99d51893edff48bb045cc) has been kicked by BattlEye: Client not responding
+﻿04:08:56 : Player #1 Malinka (61439fb3d1a7ec3ff8d673fa8c6773e8) has been kicked by BattlEye: Client not responding
+﻿04:08:56 : Player #0 Julia (98aa829351917f6015276683f35045ec) has been kicked by BattlEye: Client not responding
+﻿04:08:56 : Player #2 Sat-Ok(����) (8c1150f7bbf4e047782663bde0a70ce5) has been kicked by BattlEye: Client not responding
+﻿04:08:57 : Player #4 AtomPlay (468ce0e130a5a1506dc5bf965b1ecd54) has been kicked by BattlEye: Client not responding
+﻿04:08:59 : Player #8 URAGANss (8af63072e98a547097b1e7d76cd0e0e4) has been kicked by BattlEye: Client not responding
+﻿04:08:59 : Player #3 Teamix228 (fff1236d5a643c5163f63a92a6f4bd0a) has been kicked by BattlEye: Client not responding
+﻿04:09:00 : Player #6 Kraken (8e71eebdeb37718c4c2c169aa3c680a2) has been kicked by BattlEye: Client not responding
+﻿04:09:00 : Player #7 HAXAJIEHOK91 (16d83f859d4acc13f8a1169cc86e8e84) has been kicked by BattlEye: Client not responding
+﻿04:09:10 : Could not connect to BE Master
+﻿04:09:10 : Disconnected from BE Master
+﻿04:09:45 : RCon admin #1 (217.19.216.236:60505) logged in
+﻿04:09:53 : Player #1 Sat-Ok(����) (78.157.240.251:2304) connected
+﻿04:09:54 : Player #2 Teamix228 (91.122.56.123:2304) connected
+﻿04:09:55 : Player #1 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿04:09:55 : Player #2 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿04:09:57 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #2 Teamix228
+﻿11:47:45 : Rcon client logging in
+﻿11:48:20 : RCon admin #0 (176.57.75.42:3359) logged in
+﻿11:48:21 : RCon admin #1 (127.0.0.1:59937) logged in
+﻿11:48:21 : RCon admin #1: (Global) Initializing Bec
+﻿11:49:01 : Player #0 Kraken (217.19.216.236:2304) connected
+﻿11:49:03 : Player #0 Kraken - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿11:49:03 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #0 Kraken
+﻿11:55:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿11:59:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿12:00:01 : Player #0 Kraken disconnected
+﻿12:00:04 : Lost Connection!
+﻿12:00:04 : Closing socket & exiting!
+﻿12:00:29 : Rcon client logging in
+﻿12:01:02 : RCon admin #0 (176.57.75.42:3367) logged in
+﻿12:01:03 : RCon admin #1 (127.0.0.1:60533) logged in
+﻿12:01:03 : RCon admin #1: (Global) Initializing Bec
+﻿12:02:34 : Player #0 Kraken (217.19.216.236:2304) connected
+﻿12:02:36 : Player #0 Kraken - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿12:02:36 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #0 Kraken
+﻿12:36:21 : Player #1 Aleksandrhmc (91.195.91.249:2304) connected
+﻿12:36:22 : Player #1 Aleksandrhmc - BE GUID: b9cd08a5235b22ef4943a7db707a6c41
+﻿12:36:22 : Verified GUID (b9cd08a5235b22ef4943a7db707a6c41) of player #1 Aleksandrhmc
+﻿12:48:20 : Player #0 Kraken disconnected
+﻿12:48:33 : Player #1 Aleksandrhmc disconnected
+﻿12:48:36 : Lost Connection!
+﻿12:48:36 : Closing socket & exiting!
+﻿12:48:58 : Rcon client logging in
+﻿12:49:31 : RCon admin #0 (127.0.0.1:57540) logged in
+﻿12:49:31 : RCon admin #0: (Global) Initializing Bec
+﻿12:49:31 : RCon admin #1 (176.57.75.42:3373) logged in
+﻿12:49:32 : Player #0 [OTK]TuneR (31.13.144.88:41570) connected
+﻿12:49:33 : Player #0 [OTK]TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿12:49:34 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #0 [OTK]TuneR
+﻿12:52:14 : Player #1 DysT (5.164.230.246:2304) connected
+﻿12:52:16 : Player #1 DysT - BE GUID: bbfea1dfbead4d3c31b660ad80ed89bc
+﻿12:52:16 : Verified GUID (bbfea1dfbead4d3c31b660ad80ed89bc) of player #1 DysT
+﻿12:52:25 : Player #2 Arted (145.255.3.148:2304) connected
+﻿12:52:26 : Player #2 Arted - BE GUID: 67ab2826a2555c2d1a445280c6d2615c
+﻿12:52:26 : Verified GUID (67ab2826a2555c2d1a445280c6d2615c) of player #2 Arted
+﻿12:52:27 : Player #3 Sat-Ok(����) (78.157.240.251:2304) connected
+﻿12:52:29 : Player #3 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿12:52:29 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #3 Sat-Ok(����)
+﻿12:52:58 : Player #4 Aleksandrhmc (91.195.91.249:2304) connected
+﻿12:52:59 : Player #4 Aleksandrhmc - BE GUID: b9cd08a5235b22ef4943a7db707a6c41
+﻿12:52:59 : Verified GUID (b9cd08a5235b22ef4943a7db707a6c41) of player #4 Aleksandrhmc
+﻿12:57:54 : Player #5 Suhoy (178.120.166.2:2304) connected
+﻿12:57:55 : Player #5 Suhoy - BE GUID: 23674773a76f1b0d15cbc2d15d5d017a
+﻿12:57:56 : Verified GUID (23674773a76f1b0d15cbc2d15d5d017a) of player #5 Suhoy
+﻿12:58:47 : Player #6 Myrzik(Viktor) (37.230.147.72:37710) connected
+﻿12:58:53 : Player #6 Myrzik(Viktor) - BE GUID: 8e079f7bb183209b8a099430cb285d5a
+﻿12:58:53 : Verified GUID (8e079f7bb183209b8a099430cb285d5a) of player #6 Myrzik(Viktor)
+﻿13:03:14 : Player #1 DysT disconnected
+﻿13:14:09 : Player #6 Myrzik(Viktor) disconnected
+﻿13:14:31 : RCon admin #1 (176.57.75.42:3375) logged in
+﻿13:16:08 : Player #6 DysT (5.164.230.246:2304) connected
+﻿13:16:10 : Player #6 DysT - BE GUID: bbfea1dfbead4d3c31b660ad80ed89bc
+﻿13:16:10 : Verified GUID (bbfea1dfbead4d3c31b660ad80ed89bc) of player #6 DysT
+﻿13:21:22 : Player #7 HAXAJIEHOK91 (176.213.151.174:2304) connected
+﻿13:21:37 : Player #7 HAXAJIEHOK91 - BE GUID: 16d83f859d4acc13f8a1169cc86e8e84
+﻿13:21:37 : Verified GUID (16d83f859d4acc13f8a1169cc86e8e84) of player #7 HAXAJIEHOK91
+﻿13:22:10 : Player #7 HAXAJIEHOK91 disconnected
+﻿13:22:11 : Player #6 DysT disconnected
+﻿13:22:12 : Lost Connection!
+﻿13:22:12 : Closing socket & exiting!
+﻿13:22:36 : Rcon client logging in
+﻿13:23:09 : RCon admin #0 (127.0.0.1:65195) logged in
+﻿13:23:09 : RCon admin #0: (Global) Initializing Bec
+﻿13:23:10 : Player #0 [OTK]TuneR (31.13.144.88:41570) connected
+﻿13:23:12 : Player #0 [OTK]TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿13:23:12 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #0 [OTK]TuneR
+﻿13:23:21 : Player #1 Suhoy (178.120.166.2:2304) connected
+﻿13:23:22 : Player #1 Suhoy - BE GUID: 23674773a76f1b0d15cbc2d15d5d017a
+﻿13:23:23 : Verified GUID (23674773a76f1b0d15cbc2d15d5d017a) of player #1 Suhoy
+﻿13:23:23 : Player #2 Arted (145.255.3.148:2304) connected
+﻿13:23:24 : Player #2 Arted - BE GUID: 67ab2826a2555c2d1a445280c6d2615c
+﻿13:23:24 : Verified GUID (67ab2826a2555c2d1a445280c6d2615c) of player #2 Arted
+﻿13:23:27 : Player #3 Sat-Ok(����) (78.157.240.251:2304) connected
+﻿13:23:29 : Player #3 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿13:23:29 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #3 Sat-Ok(����)
+﻿13:23:47 : Player #4 DysT (5.164.230.246:2304) connected
+﻿13:23:49 : Player #4 DysT - BE GUID: bbfea1dfbead4d3c31b660ad80ed89bc
+﻿13:23:49 : Verified GUID (bbfea1dfbead4d3c31b660ad80ed89bc) of player #4 DysT
+﻿13:23:51 : RCon admin #1 (217.19.216.236:51070) logged in
+﻿13:24:00 : Player #5 HAXAJIEHOK91 (176.213.151.174:2304) connected
+﻿13:24:06 : RCon admin #2 (217.19.216.236:55030) logged in
+﻿13:24:10 : RCon admin #3 (217.19.216.236:57179) logged in
+﻿13:24:15 : Player #5 HAXAJIEHOK91 - BE GUID: 16d83f859d4acc13f8a1169cc86e8e84
+﻿13:24:15 : Verified GUID (16d83f859d4acc13f8a1169cc86e8e84) of player #5 HAXAJIEHOK91
+﻿13:24:15 : RCon admin #4 (217.19.216.236:55033) logged in
+﻿13:24:16 : Player #5 HAXAJIEHOK91 disconnected
+﻿13:24:33 : Player #5 HAXAJIEHOK91 (176.213.151.174:2304) connected
+﻿13:24:48 : Player #5 HAXAJIEHOK91 - BE GUID: 16d83f859d4acc13f8a1169cc86e8e84
+﻿13:24:48 : Verified GUID (16d83f859d4acc13f8a1169cc86e8e84) of player #5 HAXAJIEHOK91
+﻿13:25:48 : Player #6 Aleksandrhmc (91.195.91.249:2304) connected
+﻿13:25:49 : Player #6 Aleksandrhmc - BE GUID: b9cd08a5235b22ef4943a7db707a6c41
+﻿13:25:49 : Verified GUID (b9cd08a5235b22ef4943a7db707a6c41) of player #6 Aleksandrhmc
+﻿14:06:00 : Player #1 Suhoy disconnected
+﻿14:19:15 : RCon admin #4: (Global) [Сидорович] тех. рестарт
+﻿14:19:30 : Player #4 DysT disconnected
+﻿14:19:30 : Player #3 Sat-Ok(����) disconnected
+﻿14:19:34 : Lost Connection!
+﻿14:19:34 : Closing socket & exiting!
+﻿14:19:56 : Rcon client logging in
+﻿14:20:29 : RCon admin #0 (217.19.216.236:59518) logged in
+﻿14:20:29 : RCon admin #1 (127.0.0.1:52421) logged in
+﻿14:20:30 : RCon admin #1: (Global) Initializing Bec
+﻿14:20:41 : Player #0 [OTK]TuneR (31.13.144.88:41570) connected
+﻿14:20:43 : Player #0 [OTK]TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿14:20:43 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #0 [OTK]TuneR
+﻿14:21:09 : Player #1 Aleksandrhmc (91.195.91.249:2304) connected
+﻿14:21:10 : Player #1 Aleksandrhmc - BE GUID: b9cd08a5235b22ef4943a7db707a6c41
+﻿14:21:10 : Verified GUID (b9cd08a5235b22ef4943a7db707a6c41) of player #1 Aleksandrhmc
+﻿14:25:10 : Player #2 DysT (5.164.230.246:2304) connected
+﻿14:25:12 : Player #2 DysT - BE GUID: bbfea1dfbead4d3c31b660ad80ed89bc
+﻿14:25:12 : Verified GUID (bbfea1dfbead4d3c31b660ad80ed89bc) of player #2 DysT
+﻿14:25:24 : Player #3 HAXAJIEHOK91 (176.213.151.174:2304) connected
+﻿14:25:39 : Player #3 HAXAJIEHOK91 - BE GUID: 16d83f859d4acc13f8a1169cc86e8e84
+﻿14:25:39 : Verified GUID (16d83f859d4acc13f8a1169cc86e8e84) of player #3 HAXAJIEHOK91
+﻿14:28:30 : Player #4 Sat-Ok(����) (78.157.240.251:2304) connected
+﻿14:28:31 : Player #4 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿14:28:32 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #4 Sat-Ok(����)
+﻿14:33:41 : Player #5 Arted (145.255.3.148:2304) connected
+﻿14:33:42 : Player #5 Arted - BE GUID: 67ab2826a2555c2d1a445280c6d2615c
+﻿14:33:42 : Verified GUID (67ab2826a2555c2d1a445280c6d2615c) of player #5 Arted
+﻿14:51:21 : Player #3 HAXAJIEHOK91 disconnected
+﻿14:52:41 : Player #6 URAGANss (85.31.36.85:2304) connected
+﻿14:52:43 : Player #6 URAGANss - BE GUID: 8af63072e98a547097b1e7d76cd0e0e4
+﻿14:52:43 : Verified GUID (8af63072e98a547097b1e7d76cd0e0e4) of player #6 URAGANss
+﻿15:04:26 : Player #5 Arted disconnected
+﻿15:10:58 : Player #6 URAGANss disconnected
+﻿15:19:46 : Player #1 Aleksandrhmc (b9cd08a5235b22ef4943a7db707a6c41) has been kicked by BattlEye: Client not responding
+﻿15:24:16 : Player #5 Davis (178.205.100.4:2304) connected
+﻿15:24:19 : Player #5 Davis - BE GUID: 318bfa6e2973d415b1c5869b681db648
+﻿15:24:20 : Verified GUID (318bfa6e2973d415b1c5869b681db648) of player #5 Davis
+﻿15:25:00 : Player #6 Aleksandrhmc (91.195.91.249:2304) connected
+﻿15:25:01 : Player #6 Aleksandrhmc - BE GUID: b9cd08a5235b22ef4943a7db707a6c41
+﻿15:25:02 : Verified GUID (b9cd08a5235b22ef4943a7db707a6c41) of player #6 Aleksandrhmc
+﻿15:31:49 : Player #7 Dgoni (79.105.215.187:2304) connected
+﻿15:31:52 : Player #7 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿15:31:52 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #7 Dgoni
+﻿15:34:29 : Player #0 [OTK]TuneR disconnected
+﻿15:34:43 : Player #8 [OTK]TuneR (31.13.144.88:41570) connected
+﻿15:34:44 : Player #8 [OTK]TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿15:34:45 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #8 [OTK]TuneR
+﻿15:45:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿15:50:36 : Player #9 Vakosso (188.186.0.150:2304) connected
+﻿15:50:37 : Player #9 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿15:50:37 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #9 Vakosso
+﻿15:55:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿15:55:05 : Player #10 HAXAJIEHOK91 (176.213.151.174:2304) connected
+﻿15:55:20 : Player #10 HAXAJIEHOK91 - BE GUID: 16d83f859d4acc13f8a1169cc86e8e84
+﻿15:55:20 : Verified GUID (16d83f859d4acc13f8a1169cc86e8e84) of player #10 HAXAJIEHOK91
+﻿15:57:18 : Player #2 DysT disconnected
+﻿15:59:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿16:00:01 : Player #4 Sat-Ok(����) disconnected
+﻿16:00:03 : Lost Connection!
+﻿16:00:03 : Closing socket & exiting!
+﻿16:00:29 : Rcon client logging in
+﻿16:01:02 : RCon admin #0 (217.19.216.236:58392) logged in
+﻿16:01:03 : RCon admin #1 (127.0.0.1:51715) logged in
+﻿16:01:03 : RCon admin #1: (Global) Initializing Bec
+﻿16:01:03 : Player #0 Vakosso (188.186.0.150:2304) connected
+﻿16:01:03 : Player #1 Dmitril (188.233.22.168:2304) connected
+﻿16:01:04 : Player #2 [OTK]TuneR (31.13.144.88:41570) connected
+﻿16:01:05 : Player #0 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿16:01:05 : Player #3 Aleksandrhmc (91.195.91.249:2304) connected
+﻿16:01:05 : Player #2 [OTK]TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿16:01:05 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #0 Vakosso
+﻿16:01:05 : Player #1 Dmitril - BE GUID: 5c20d69489a99d51893edff48bb045cc
+﻿16:01:06 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #2 [OTK]TuneR
+﻿16:01:06 : Verified GUID (5c20d69489a99d51893edff48bb045cc) of player #1 Dmitril
+﻿16:01:06 : Player #3 Aleksandrhmc - BE GUID: b9cd08a5235b22ef4943a7db707a6c41
+﻿16:01:06 : Verified GUID (b9cd08a5235b22ef4943a7db707a6c41) of player #3 Aleksandrhmc
+﻿16:02:07 : Player #4 HAXAJIEHOK91 (176.213.151.174:2304) connected
+﻿16:02:22 : Player #4 HAXAJIEHOK91 - BE GUID: 16d83f859d4acc13f8a1169cc86e8e84
+﻿16:02:22 : Verified GUID (16d83f859d4acc13f8a1169cc86e8e84) of player #4 HAXAJIEHOK91
+﻿16:03:10 : Player #5 DysT (5.164.230.246:2304) connected
+﻿16:03:11 : Player #6 Davis (178.205.100.4:2304) connected
+﻿16:03:11 : Player #5 DysT - BE GUID: bbfea1dfbead4d3c31b660ad80ed89bc
+﻿16:03:12 : Verified GUID (bbfea1dfbead4d3c31b660ad80ed89bc) of player #5 DysT
+﻿16:03:13 : Player #6 Davis - BE GUID: 318bfa6e2973d415b1c5869b681db648
+﻿16:03:14 : Verified GUID (318bfa6e2973d415b1c5869b681db648) of player #6 Davis
+﻿16:03:47 : Player #5 DysT disconnected
+﻿16:05:34 : Player #7 Dgoni (79.105.215.187:2304) connected
+﻿16:05:46 : Player #7 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿16:05:46 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #7 Dgoni
+﻿16:06:37 : Player #8 DysT (5.164.230.246:2304) connected
+﻿16:06:39 : Player #8 DysT - BE GUID: bbfea1dfbead4d3c31b660ad80ed89bc
+﻿16:06:39 : Verified GUID (bbfea1dfbead4d3c31b660ad80ed89bc) of player #8 DysT
+﻿16:16:01 : RCon admin #1: (To Davis) Do not use Global chat. Warnings left:4
+﻿16:28:03 : Player #0 Vakosso disconnected
+﻿16:29:56 : Player #9 Vakosso (188.186.0.150:2304) connected
+﻿16:29:57 : Player #9 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿16:29:58 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #9 Vakosso
+﻿16:34:21 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:22 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:22 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:23 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:24 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:24 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:25 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:26 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:26 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:27 : RCon admin #0: (Global) [Сидорович] тех. работы
+﻿16:34:30 : Player #3 Aleksandrhmc disconnected
+﻿16:34:55 : Player #7 Dgoni disconnected
+﻿16:35:05 : Player #8 DysT disconnected
+﻿16:35:10 : Player #4 HAXAJIEHOK91 disconnected
+﻿16:35:18 : Player #1 Dmitril disconnected
+﻿16:35:31 : Player #2 [OTK]TuneR disconnected

@@ -1,0 +1,878 @@
+﻿16:36:10 : Rcon client logging in
+﻿16:36:29 : RCon admin #0 (127.0.0.1:50950) logged in
+﻿16:36:29 : RCon admin #0: (Global) Initializing Bec
+﻿16:43:15 : Rcon client logging in
+﻿16:43:35 : RCon admin #0 (127.0.0.1:56177) logged in
+﻿16:43:35 : RCon admin #0: (Global) Initializing Bec
+﻿16:43:47 : Player #0 Inspection (91.218.45.50:64627) connected
+﻿16:43:47 : Player #0 Inspection - BE GUID: 2652f093f48536578d31d7c1520947ea
+﻿16:43:48 : Verified GUID (2652f093f48536578d31d7c1520947ea) of player #0 Inspection
+﻿16:43:52 : Player #0 Inspection disconnected
+﻿16:44:22 : Lost Connection!
+﻿16:44:22 : Closing socket & exiting!
+﻿16:44:57 : Rcon client logging in
+﻿16:45:17 : RCon admin #0 (127.0.0.1:54275) logged in
+﻿16:45:17 : RCon admin #0: (Global) Initializing Bec
+﻿16:45:30 : Player #0 Inspection (91.218.45.50:61620) connected
+﻿16:45:31 : Player #0 Inspection - BE GUID: 2652f093f48536578d31d7c1520947ea
+﻿16:45:31 : Verified GUID (2652f093f48536578d31d7c1520947ea) of player #0 Inspection
+﻿16:46:50 : Rcon client logging in
+﻿16:46:50 : RCon admin #1 (127.0.0.1:57540) logged in
+﻿16:46:51 : RCon admin #1: (Global) Initializing Bec
+﻿17:00:55 : Rcon client logging in
+﻿17:01:15 : RCon admin #0 (127.0.0.1:52867) logged in
+﻿17:01:16 : RCon admin #0: (Global) Initializing Bec
+﻿17:01:21 : Player #0 Inspection (91.218.45.50:57797) connected
+﻿17:01:21 : Player #0 Inspection - BE GUID: 2652f093f48536578d31d7c1520947ea
+﻿17:01:22 : Verified GUID (2652f093f48536578d31d7c1520947ea) of player #0 Inspection
+﻿17:02:15 : Player #1 Survivor (37.79.47.120:2845) connected
+﻿17:02:15 : Player #1 Survivor - BE GUID: 97f4d75e270e18e804ee2b425bacbccf
+﻿17:02:15 : Verified GUID (97f4d75e270e18e804ee2b425bacbccf) of player #1 Survivor
+﻿17:03:00 : RCon admin #0: (Global) BEC : Рестарт произойдёт через 15 минут.
+﻿17:04:00 : RCon admin #0: (Global) BEC : Рестарт произойдёт через 5 минут.
+﻿17:05:00 : RCon admin #0: (Global) BEC : Рестарт произойдёт через 1 минуту.
+﻿17:06:01 : Player #1 Survivor disconnected
+﻿17:06:02 : Lost Connection!
+﻿17:06:02 : Closing socket & exiting!
+﻿17:08:16 : Rcon client logging in
+﻿17:08:41 : RCon admin #0 (127.0.0.1:55464) logged in
+﻿17:08:42 : RCon admin #0: (Global) Initializing Bec
+﻿17:08:42 : RCon admin #1 (127.0.0.1:55466) logged in
+﻿17:21:58 : Rcon client logging in
+﻿17:22:18 : RCon admin #0 (127.0.0.1:61865) logged in
+﻿17:22:18 : RCon admin #1 (127.0.0.1:61028) logged in
+﻿17:22:19 : RCon admin #1: (Global) Initializing Bec
+﻿17:26:47 : Player #0 VoXSC (95.84.172.136:2304) connected
+﻿17:26:48 : Player #0 VoXSC - BE GUID: 00d538669687cbd80985af1ea3fb641a
+﻿17:26:48 : Verified GUID (00d538669687cbd80985af1ea3fb641a) of player #0 VoXSC
+﻿17:27:05 : Player #1 Inspection (91.218.45.50:50499) connected
+﻿17:27:06 : Player #1 Inspection - BE GUID: 2652f093f48536578d31d7c1520947ea
+﻿17:27:06 : Verified GUID (2652f093f48536578d31d7c1520947ea) of player #1 Inspection
+﻿17:27:21 : Player #2 Inochitory (178.44.0.168:2404) connected
+﻿17:27:23 : Player #2 Inochitory - BE GUID: c81e6dbc29eebc493eb6c2fff5b05040
+﻿17:27:23 : Verified GUID (c81e6dbc29eebc493eb6c2fff5b05040) of player #2 Inochitory
+﻿17:43:16 : Player #3 Survivor (178.92.124.123:2304) connected
+﻿19:36:13 : Player #3 Survivor - BE GUID: 4a7173d560f6598b8826d79f4c311855
+﻿19:36:58 : No Valid response. Trying to reconnect.!
+﻿19:36:58 : Rcon client logging in
+﻿19:36:58 : RCon admin #1 (127.0.0.1:61028) logged in
+﻿19:37:49 : Player #45 Survivor (6) (31.56.191.110:54851) connected
+﻿19:37:51 : Player #45 Survivor (6) - BE GUID: a4571983e74732f2629fca2226cb05e0
+﻿19:37:52 : Verified GUID (a4571983e74732f2629fca2226cb05e0) of player #45 Survivor (6)
+﻿19:40:28 : Player #42 MEWED disconnected
+﻿19:41:38 : Player #46 Survivor (7) (37.110.112.88:2304) connected
+﻿19:41:38 : Player #46 Survivor (7) - BE GUID: 37619a1b2c5ed60aa36b1064d480c71c
+﻿19:41:39 : Verified GUID (37619a1b2c5ed60aa36b1064d480c71c) of player #46 Survivor (7)
+﻿19:42:28 : Player #46 Survivor (7) disconnected
+﻿19:43:30 : Player #46 Survivor (7) (37.110.112.88:2304) connected
+﻿19:43:31 : Player #46 Survivor (7) - BE GUID: 37619a1b2c5ed60aa36b1064d480c71c
+﻿19:43:31 : Verified GUID (37619a1b2c5ed60aa36b1064d480c71c) of player #46 Survivor (7)
+﻿19:45:00 : RCon admin #1: (Global) BEC : Рестарт произойдёт через 15 минут.
+﻿19:48:10 : Player #47 MEWED (93.185.30.188:34211) connected
+﻿19:48:10 : Player #47 MEWED - BE GUID: cf6f407c7107be7020e35d4ece05fc98
+﻿19:48:10 : Verified GUID (cf6f407c7107be7020e35d4ece05fc98) of player #47 MEWED
+﻿19:49:15 : Player #47 MEWED disconnected
+﻿19:49:40 : Player #44 Survivor (5) disconnected
+﻿19:49:42 : Player #43 Galanowen disconnected
+﻿19:49:53 : Player #47 Galanowen (212.96.109.97:64453) connected
+﻿19:49:53 : Player #48 Survivor (5) (86.57.217.251:2304) connected
+﻿19:49:53 : Player #47 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿19:49:53 : Player #48 Survivor (5) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿19:49:54 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #47 Galanowen
+﻿19:49:54 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #48 Survivor (5)
+﻿19:51:37 : Player #49 MEWED (93.185.30.188:34211) connected
+﻿19:51:38 : Player #49 MEWED - BE GUID: cf6f407c7107be7020e35d4ece05fc98
+﻿19:51:38 : Verified GUID (cf6f407c7107be7020e35d4ece05fc98) of player #49 MEWED
+﻿19:52:02 : Player #50 SPAPMIN (87.244.187.246:2404) connected
+﻿19:52:04 : Player #50 SPAPMIN - BE GUID: 082327f3678209c92b92f59a09d205eb
+﻿19:52:05 : Verified GUID (082327f3678209c92b92f59a09d205eb) of player #50 SPAPMIN
+﻿19:52:57 : Player #51 prodo (128.68.211.244:2304) connected
+﻿19:52:57 : Player #51 prodo - BE GUID: 0b63b1144df68cd134c7a576653709bf
+﻿19:52:57 : Verified GUID (0b63b1144df68cd134c7a576653709bf) of player #51 prodo
+﻿19:53:02 : Player #52 Survivor (8) (109.252.86.54:6787) connected
+﻿19:53:02 : Player #52 Survivor (8) - BE GUID: 192c13173cb1a51c059fb5d217e7a56e
+﻿19:53:03 : Verified GUID (192c13173cb1a51c059fb5d217e7a56e) of player #52 Survivor (8)
+﻿19:53:09 : Player #53 ilywenka (46.0.228.60:35410) connected
+﻿19:53:09 : Player #53 ilywenka - BE GUID: db9ecfcad96d8ad3d4a871a748ca7570
+﻿19:53:10 : Verified GUID (db9ecfcad96d8ad3d4a871a748ca7570) of player #53 ilywenka
+﻿19:53:39 : Player #54 Survivor (9) (212.124.7.108:2289) connected
+﻿19:53:40 : Player #54 Survivor (9) - BE GUID: 08b90222dd1a4c7f0749242ced287bcf
+﻿19:53:40 : Verified GUID (08b90222dd1a4c7f0749242ced287bcf) of player #54 Survivor (9)
+﻿19:54:22 : Player #55 Vitamin (185.156.181.32:2304) connected
+﻿19:54:22 : Player #55 Vitamin - BE GUID: b2d1602bee2b4c0983e39f17f2641328
+﻿19:54:23 : Verified GUID (b2d1602bee2b4c0983e39f17f2641328) of player #55 Vitamin
+﻿19:54:46 : Player #52 Survivor (8) disconnected
+﻿19:54:52 : Player #47 Galanowen disconnected
+﻿19:55:00 : RCon admin #1: (Global) BEC : Рестарт произойдёт через 5 минут.
+﻿19:55:28 : Player #24 Peaceduke disconnected
+﻿19:56:04 : Player #48 Survivor (5) disconnected
+﻿19:56:10 : Player #56 Survivor (5) (86.57.217.251:2304) connected
+﻿19:56:11 : Player #56 Survivor (5) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿19:56:11 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #56 Survivor (5)
+﻿19:57:07 : Player #57 Galanowen (212.96.109.97:64447) connected
+﻿19:57:07 : Player #57 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿19:57:08 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #57 Galanowen
+﻿19:57:35 : Player #45 Survivor (6) disconnected
+﻿19:57:50 : Player #58 Survivor (6) (31.56.191.110:54851) connected
+﻿19:57:51 : Player #58 Survivor (6) - BE GUID: a4571983e74732f2629fca2226cb05e0
+﻿19:57:52 : Verified GUID (a4571983e74732f2629fca2226cb05e0) of player #58 Survivor (6)
+﻿19:58:21 : Player #58 Survivor (6) disconnected
+﻿19:59:00 : RCon admin #1: (Global) BEC : Рестарт произойдёт через 1 минуту.
+﻿19:59:25 : Player #58 jayz (109.252.86.54:6821) connected
+﻿19:59:25 : Player #58 jayz - BE GUID: 192c13173cb1a51c059fb5d217e7a56e
+﻿19:59:26 : Verified GUID (192c13173cb1a51c059fb5d217e7a56e) of player #58 jayz
+﻿19:59:37 : Player #59 Survivor (6) (178.46.158.206:2304) connected
+﻿19:59:38 : Player #59 Survivor (6) - BE GUID: efe09f3f9c9b9a5f2c4ca9b43b40efe0
+﻿19:59:38 : Verified GUID (efe09f3f9c9b9a5f2c4ca9b43b40efe0) of player #59 Survivor (6)
+﻿19:59:39 : Player #49 MEWED disconnected
+﻿19:59:52 : Player #30 AllPowerfull disconnected
+﻿20:00:01 : Player #25 Survivor (4) disconnected
+﻿20:00:02 : Lost Connection!
+﻿20:00:02 : Closing socket & exiting!
+﻿20:00:27 : Rcon client logging in
+﻿20:00:49 : RCon admin #0 (127.0.0.1:64518) logged in
+﻿20:00:50 : RCon admin #1 (127.0.0.1:64519) logged in
+﻿20:00:50 : RCon admin #1: (Global) Initializing Bec
+﻿20:00:50 : Player #0 Survivor (77.222.106.2:2304) connected
+﻿20:00:50 : Player #1 Galanowen (212.96.109.97:64447) connected
+﻿20:00:50 : Player #2 Survivor (2) (86.57.217.251:2304) connected
+﻿20:00:50 : Player #3 VoXSC (95.84.172.136:2304) connected
+﻿20:00:50 : Player #4 Vladlen XO (89.107.139.145:59060) connected
+﻿20:00:50 : Player #4 Vladlen XO - BE GUID: 0c5e40a23743970fe98c744d7101c19d
+﻿20:00:50 : Player #2 Survivor (2) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿20:00:50 : Player #3 VoXSC - BE GUID: 00d538669687cbd80985af1ea3fb641a
+﻿20:00:50 : Player #0 Survivor - BE GUID: 80dbe456cfe2377d057038f580147b5f
+﻿20:00:51 : Player #1 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿20:00:51 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #2 Survivor (2)
+﻿20:00:51 : Verified GUID (0c5e40a23743970fe98c744d7101c19d) of player #4 Vladlen XO
+﻿20:00:51 : Verified GUID (00d538669687cbd80985af1ea3fb641a) of player #3 VoXSC
+﻿20:00:51 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #1 Galanowen
+﻿20:00:51 : Verified GUID (80dbe456cfe2377d057038f580147b5f) of player #0 Survivor
+﻿20:01:09 : Player #5 Chugun (178.46.154.82:2304) connected
+﻿20:01:10 : Player #5 Chugun - BE GUID: 9cc51a365d7df0d26feefc1879cd6d52
+﻿20:01:10 : Player #6 Survivor (3) (31.56.191.110:11563) connected
+﻿20:01:10 : Verified GUID (9cc51a365d7df0d26feefc1879cd6d52) of player #5 Chugun
+﻿20:01:10 : Player #7 [IB]Sky (62.133.162.224:37066) connected
+﻿20:01:10 : Player #7 [IB]Sky - BE GUID: 386ffc452ba072b28c580213dc8bf127
+﻿20:01:11 : Player #6 Survivor (3) - BE GUID: a4571983e74732f2629fca2226cb05e0
+﻿20:01:11 : Verified GUID (386ffc452ba072b28c580213dc8bf127) of player #7 [IB]Sky
+﻿20:01:11 : Verified GUID (a4571983e74732f2629fca2226cb05e0) of player #6 Survivor (3)
+﻿20:01:12 : Player #8 Survivor (4) (77.222.98.206:2304) connected
+﻿20:01:12 : Player #8 Survivor (4) - BE GUID: bc7ed22955795d8abadbe146da194fc6
+﻿20:01:12 : Verified GUID (bc7ed22955795d8abadbe146da194fc6) of player #8 Survivor (4)
+﻿20:01:14 : Player #9 Maverick (128.73.254.208:2404) connected
+﻿20:01:15 : Player #9 Maverick - BE GUID: 73d7ca0700bd307e0b38e10ce6a62186
+﻿20:01:15 : Verified GUID (73d7ca0700bd307e0b38e10ce6a62186) of player #9 Maverick
+﻿20:01:29 : Player #10 jayz (109.252.86.54:6821) connected
+﻿20:01:29 : Player #10 jayz - BE GUID: 192c13173cb1a51c059fb5d217e7a56e
+﻿20:01:30 : Verified GUID (192c13173cb1a51c059fb5d217e7a56e) of player #10 jayz
+﻿20:01:30 : Player #11 Survivor (5) (83.139.179.49:1538) connected
+﻿20:01:31 : Player #11 Survivor (5) - BE GUID: 0d9a48fc89470324edf03f58caa5ff5d
+﻿20:01:31 : Verified GUID (0d9a48fc89470324edf03f58caa5ff5d) of player #11 Survivor (5)
+﻿20:01:34 : Player #12 Survivor (6) (213.138.86.182:2304) connected
+﻿20:01:35 : Player #12 Survivor (6) - BE GUID: 0909d03043c1953a5c3f18b8fa43e33f
+﻿20:01:35 : Player #13 Survivor (7) (212.124.7.108:2289) connected
+﻿20:01:35 : Verified GUID (0909d03043c1953a5c3f18b8fa43e33f) of player #12 Survivor (6)
+﻿20:01:36 : Player #13 Survivor (7) - BE GUID: 08b90222dd1a4c7f0749242ced287bcf
+﻿20:01:36 : Player #14 rezantin (88.147.152.1:5136) connected
+﻿20:01:36 : Player #14 rezantin - BE GUID: 2840911729132ec9cfef0ecfb6532f30
+﻿20:01:36 : Verified GUID (08b90222dd1a4c7f0749242ced287bcf) of player #13 Survivor (7)
+﻿20:01:36 : Verified GUID (2840911729132ec9cfef0ecfb6532f30) of player #14 rezantin
+﻿20:01:45 : Player #15 MEWED (93.185.30.188:34211) connected
+﻿20:01:46 : Player #15 MEWED - BE GUID: cf6f407c7107be7020e35d4ece05fc98
+﻿20:01:46 : Verified GUID (cf6f407c7107be7020e35d4ece05fc98) of player #15 MEWED
+﻿20:01:53 : Player #16 __DuRoze__ (95.28.125.230:2304) connected
+﻿20:01:53 : Player #16 __DuRoze__ - BE GUID: 49f60befd121bd449e7b6bee16992da5
+﻿20:01:54 : Verified GUID (49f60befd121bd449e7b6bee16992da5) of player #16 __DuRoze__
+﻿20:01:59 : Player #17 Survivor (8) (37.110.112.88:2304) connected
+﻿20:01:59 : Player #17 Survivor (8) - BE GUID: 37619a1b2c5ed60aa36b1064d480c71c
+﻿20:01:59 : Verified GUID (37619a1b2c5ed60aa36b1064d480c71c) of player #17 Survivor (8)
+﻿20:02:15 : Player #18 TauMare (37.192.7.83:2304) connected
+﻿20:02:15 : Player #18 TauMare - BE GUID: 0e4f6ce0b510bc3384c81cb5dc34e449
+﻿20:02:16 : Verified GUID (0e4f6ce0b510bc3384c81cb5dc34e449) of player #18 TauMare
+﻿20:02:28 : Player #19 komissar (178.46.158.206:2304) connected
+﻿20:02:28 : Player #19 komissar - BE GUID: efe09f3f9c9b9a5f2c4ca9b43b40efe0
+﻿20:02:28 : Verified GUID (efe09f3f9c9b9a5f2c4ca9b43b40efe0) of player #19 komissar
+﻿20:02:37 : Player #20 prodo (128.68.211.244:2304) connected
+﻿20:02:37 : Player #20 prodo - BE GUID: 0b63b1144df68cd134c7a576653709bf
+﻿20:02:37 : Verified GUID (0b63b1144df68cd134c7a576653709bf) of player #20 prodo
+﻿20:03:33 : Player #21 AllPowerfull (146.120.191.28:2304) connected
+﻿20:03:33 : Player #21 AllPowerfull - BE GUID: 03cdb18ba55835d1e3649dcd5fc7b285
+﻿20:03:33 : Verified GUID (03cdb18ba55835d1e3649dcd5fc7b285) of player #21 AllPowerfull
+﻿20:04:42 : Player #22 ilywenka (46.0.228.60:35410) connected
+﻿20:04:42 : Player #22 ilywenka - BE GUID: db9ecfcad96d8ad3d4a871a748ca7570
+﻿20:04:43 : Verified GUID (db9ecfcad96d8ad3d4a871a748ca7570) of player #22 ilywenka
+﻿20:06:27 : Player #16 __DuRoze__ disconnected
+﻿20:06:30 : Player #23 BERMUDA (77.243.99.78:2304) connected
+﻿20:06:30 : Player #23 BERMUDA - BE GUID: 4b2fbce6f69c83b27b1687d8fcbd9609
+﻿20:06:31 : Verified GUID (4b2fbce6f69c83b27b1687d8fcbd9609) of player #23 BERMUDA
+﻿20:07:35 : Player #8 Survivor (4) disconnected
+﻿20:10:08 : Player #12 Survivor (6) disconnected
+﻿20:15:40 : Player #24 Apallon (5.138.113.168:14804) connected
+﻿20:15:41 : Player #24 Apallon - BE GUID: fceef88738a7eca4a8d8a6474928fca6
+﻿20:15:41 : Verified GUID (fceef88738a7eca4a8d8a6474928fca6) of player #24 Apallon
+﻿20:16:21 : Player #24 Apallon disconnected
+﻿20:19:01 : Player #24 Jonas (109.192.194.3:52958) connected
+﻿20:19:01 : Player #24 Jonas - BE GUID: f6c486c651b1a6ad58e90b05a33ae7c1
+﻿20:19:02 : Verified GUID (f6c486c651b1a6ad58e90b05a33ae7c1) of player #24 Jonas
+﻿20:19:29 : Player #25 __DuRoze__ (95.28.125.230:2304) connected
+﻿20:19:30 : Player #25 __DuRoze__ - BE GUID: 49f60befd121bd449e7b6bee16992da5
+﻿20:19:30 : Verified GUID (49f60befd121bd449e7b6bee16992da5) of player #25 __DuRoze__
+﻿20:19:43 : Player #24 Jonas disconnected
+﻿20:22:23 : Player #26 Inspection (91.218.45.50:65072) connected
+﻿20:22:23 : Player #26 Inspection - BE GUID: 2652f093f48536578d31d7c1520947ea
+﻿20:22:24 : Verified GUID (2652f093f48536578d31d7c1520947ea) of player #26 Inspection
+﻿20:22:55 : Player #22 ilywenka disconnected
+﻿20:23:32 : Player #26 Inspection disconnected
+﻿20:24:28 : Player #26 ilywenka (46.0.228.60:35410) connected
+﻿20:24:29 : Player #26 ilywenka - BE GUID: db9ecfcad96d8ad3d4a871a748ca7570
+﻿20:24:29 : Verified GUID (db9ecfcad96d8ad3d4a871a748ca7570) of player #26 ilywenka
+﻿20:24:59 : Player #27 SPAPMIN (87.244.187.246:2404) connected
+﻿20:25:01 : Player #27 SPAPMIN - BE GUID: 082327f3678209c92b92f59a09d205eb
+﻿20:25:01 : Verified GUID (082327f3678209c92b92f59a09d205eb) of player #27 SPAPMIN
+﻿20:25:32 : Player #28 Inochitory (178.44.0.168:2404) connected
+﻿20:25:32 : Player #28 Inochitory - BE GUID: c81e6dbc29eebc493eb6c2fff5b05040
+﻿20:25:32 : Verified GUID (c81e6dbc29eebc493eb6c2fff5b05040) of player #28 Inochitory
+﻿20:34:09 : Player #1 Galanowen disconnected
+﻿20:34:11 : Player #2 Survivor (2) disconnected
+﻿20:34:18 : Player #29 Galanowen (212.96.109.97:64447) connected
+﻿20:34:18 : Player #29 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿20:34:18 : Player #30 Survivor (2) (86.57.217.251:2304) connected
+﻿20:34:19 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #29 Galanowen
+﻿20:34:19 : Player #30 Survivor (2) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿20:34:19 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #30 Survivor (2)
+﻿20:35:33 : Player #31 Survivor (4) (93.185.27.12:5012) connected
+﻿20:35:33 : Player #31 Survivor (4) - BE GUID: 72b2077606576af7afefcb6fceb8de0e
+﻿20:35:34 : Verified GUID (72b2077606576af7afefcb6fceb8de0e) of player #31 Survivor (4)
+﻿20:35:56 : Player #32 Survivor (6) (188.243.129.12:2304) connected
+﻿20:35:56 : Player #32 Survivor (6) - BE GUID: 5fe74ca4e7d1094dd7d2da7b53fa3fa2
+﻿20:35:56 : Verified GUID (5fe74ca4e7d1094dd7d2da7b53fa3fa2) of player #32 Survivor (6)
+﻿20:36:21 : Player #30 Survivor (2) disconnected
+﻿20:36:26 : Player #29 Galanowen disconnected
+﻿20:36:33 : Player #33 Survivor (2) (188.242.49.136:2304) connected
+﻿20:36:33 : Player #33 Survivor (2) - BE GUID: 049be6b08db17080979926a811edd2f7
+﻿20:36:34 : Verified GUID (049be6b08db17080979926a811edd2f7) of player #33 Survivor (2)
+﻿20:36:36 : Player #34 Galanowen (212.96.109.97:64447) connected
+﻿20:36:36 : Player #34 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿20:36:37 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #34 Galanowen
+﻿20:36:38 : Player #35 Survivor (9) (86.57.217.251:2304) connected
+﻿20:36:38 : Player #35 Survivor (9) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿20:36:38 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #35 Survivor (9)
+﻿20:36:44 : Player #13 Survivor (7) disconnected
+﻿20:36:45 : Player #36 Survivor (7) (212.124.7.108:2289) connected
+﻿20:36:45 : Player #36 Survivor (7) - BE GUID: 08b90222dd1a4c7f0749242ced287bcf
+﻿20:36:46 : Verified GUID (08b90222dd1a4c7f0749242ced287bcf) of player #36 Survivor (7)
+﻿20:36:50 : Player #36 Survivor (7) disconnected
+﻿20:37:00 : Player #36 Survivor (7) (212.124.7.108:2289) connected
+﻿20:37:00 : Player #36 Survivor (7) - BE GUID: 08b90222dd1a4c7f0749242ced287bcf
+﻿20:37:01 : Verified GUID (08b90222dd1a4c7f0749242ced287bcf) of player #36 Survivor (7)
+﻿20:37:04 : Player #33 Survivor (2) disconnected
+﻿20:37:47 : Player #27 SPAPMIN disconnected
+﻿20:37:52 : Player #37 Survivor (2) (5.18.240.173:19984) connected
+﻿20:37:52 : Player #37 Survivor (2) - BE GUID: 880208d034d6254759948e453cd4da2a
+﻿20:37:57 : Verified GUID (880208d034d6254759948e453cd4da2a) of player #37 Survivor (2)
+﻿20:38:19 : Player #35 Survivor (9) disconnected
+﻿20:38:24 : Player #34 Galanowen disconnected
+﻿20:38:24 : Player #38 Survivor (9) (86.57.217.251:2304) connected
+﻿20:38:25 : Player #38 Survivor (9) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿20:38:25 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #38 Survivor (9)
+﻿20:38:30 : Player #39 Galanowen (212.96.109.97:64447) connected
+﻿20:38:31 : Player #39 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿20:38:31 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #39 Galanowen
+﻿20:39:06 : Player #40 Survivor (10) (93.88.24.238:3434) connected
+﻿20:39:07 : Player #40 Survivor (10) - BE GUID: b0c83d9a396a319a0d569a38ec171e30
+﻿20:39:07 : Verified GUID (b0c83d9a396a319a0d569a38ec171e30) of player #40 Survivor (10)
+﻿20:40:38 : Player #41 Survivor (11) (188.114.219.85:2304) connected
+﻿20:40:38 : Player #41 Survivor (11) - BE GUID: 5bdb5b5f557a423fb645cd397b772e3b
+﻿20:40:38 : Verified GUID (5bdb5b5f557a423fb645cd397b772e3b) of player #41 Survivor (11)
+﻿20:40:42 : Player #42 Survivor (12) (90.154.73.176:11051) connected
+﻿20:40:42 : Player #42 Survivor (12) - BE GUID: c92e49274441fe009c3748cd8dc9d84d
+﻿20:40:42 : Verified GUID (c92e49274441fe009c3748cd8dc9d84d) of player #42 Survivor (12)
+﻿20:41:19 : Player #42 Survivor (12) (c92e49274441fe009c3748cd8dc9d84d) has been kicked by BattlEye: Client not responding
+﻿20:42:26 : Player #42 Survivor (12) (90.154.73.176:11051) connected
+﻿20:42:27 : Player #42 Survivor (12) - BE GUID: c92e49274441fe009c3748cd8dc9d84d
+﻿20:42:27 : Verified GUID (c92e49274441fe009c3748cd8dc9d84d) of player #42 Survivor (12)
+﻿20:42:29 : Player #38 Survivor (9) disconnected
+﻿20:42:29 : Player #39 Galanowen disconnected
+﻿20:42:33 : Player #43 Survivor (9) (86.57.217.251:2304) connected
+﻿20:42:34 : Player #44 Galanowen (212.96.109.97:64447) connected
+﻿20:42:34 : Player #43 Survivor (9) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿20:42:34 : Player #44 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿20:42:34 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #43 Survivor (9)
+﻿20:42:34 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #44 Galanowen
+﻿20:42:53 : Player #32 Survivor (6) disconnected
+﻿20:44:01 : Player #43 Survivor (9) disconnected
+﻿20:44:02 : Player #44 Galanowen disconnected
+﻿20:44:46 : Player #43 Survivor (6) (86.57.217.251:2304) connected
+﻿20:44:46 : Player #44 Galanowen (212.96.109.97:64447) connected
+﻿20:44:46 : Player #43 Survivor (6) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿20:44:46 : Player #44 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿20:44:47 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #43 Survivor (6)
+﻿20:44:47 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #44 Galanowen
+﻿20:46:50 : Player #7 [IB]Sky disconnected
+﻿20:46:50 : Player #42 Survivor (12) disconnected
+﻿20:46:51 : Player #14 rezantin disconnected
+﻿20:47:19 : Player #40 Survivor (10) disconnected
+﻿20:47:24 : Player #45 Survivor (9) (93.88.24.238:3434) connected
+﻿20:47:24 : Player #45 Survivor (9) - BE GUID: b0c83d9a396a319a0d569a38ec171e30
+﻿20:47:24 : Verified GUID (b0c83d9a396a319a0d569a38ec171e30) of player #45 Survivor (9)
+﻿20:48:49 : Player #46 Survivor (10) (90.154.73.176:11051) connected
+﻿20:48:49 : Player #46 Survivor (10) - BE GUID: c92e49274441fe009c3748cd8dc9d84d
+﻿20:48:49 : Verified GUID (c92e49274441fe009c3748cd8dc9d84d) of player #46 Survivor (10)
+﻿20:49:18 : Player #25 __DuRoze__ disconnected
+﻿20:51:00 : Player #47 __DuRoze__ (95.28.125.230:2304) connected
+﻿20:51:01 : Player #47 __DuRoze__ - BE GUID: 49f60befd121bd449e7b6bee16992da5
+﻿20:51:01 : Verified GUID (49f60befd121bd449e7b6bee16992da5) of player #47 __DuRoze__
+﻿20:51:25 : Player #48 Survivor (12) (109.251.63.245:2304) connected
+﻿20:51:26 : Player #48 Survivor (12) - BE GUID: 60fc8fc0bd75e87d6881d557bd6071bc
+﻿20:51:26 : Verified GUID (60fc8fc0bd75e87d6881d557bd6071bc) of player #48 Survivor (12)
+﻿20:52:16 : Player #43 Survivor (6) disconnected
+﻿20:52:23 : Player #44 Galanowen disconnected
+﻿20:53:16 : Player #37 Survivor (2) disconnected
+﻿20:53:36 : Player #45 Survivor (9) disconnected
+﻿20:53:37 : Player #48 Survivor (12) disconnected
+﻿20:53:38 : Player #48 Survivor (2) (86.57.217.251:2304) connected
+﻿20:53:38 : Player #49 Galanowen (212.96.109.97:64447) connected
+﻿20:53:39 : Player #48 Survivor (2) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿20:53:39 : Player #49 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿20:53:39 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #48 Survivor (2)
+﻿20:53:39 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #49 Galanowen
+﻿20:53:42 : Player #49 Galanowen disconnected
+﻿20:53:49 : Player #49 Galanowen (212.96.109.97:64447) connected
+﻿20:53:49 : Player #49 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿20:53:49 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #49 Galanowen
+﻿20:55:25 : Player #49 Galanowen disconnected
+﻿20:55:31 : Player #48 Survivor (2) disconnected
+﻿20:55:38 : Player #48 Galanowen (212.96.109.97:64447) connected
+﻿20:55:38 : Player #48 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿20:55:38 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #48 Galanowen
+﻿20:57:19 : Player #48 Galanowen disconnected
+﻿20:57:30 : Player #47 __DuRoze__ disconnected
+﻿20:58:19 : Player #47 Survivor (2) (84.10.156.255:33512) connected
+﻿20:58:20 : Player #47 Survivor (2) - BE GUID: d423ddb4b45782cc3f84761db82829c2
+﻿20:58:20 : Verified GUID (d423ddb4b45782cc3f84761db82829c2) of player #47 Survivor (2)
+﻿20:59:28 : Player #46 Survivor (10) disconnected
+﻿20:59:28 : Player #48 Survivor (6) (86.57.217.251:2304) connected
+﻿20:59:28 : Player #48 Survivor (6) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿20:59:29 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #48 Survivor (6)
+﻿20:59:44 : Player #49 Survivor (9) (90.154.73.176:11051) connected
+﻿20:59:44 : Player #49 Survivor (9) - BE GUID: c92e49274441fe009c3748cd8dc9d84d
+﻿20:59:44 : Verified GUID (c92e49274441fe009c3748cd8dc9d84d) of player #49 Survivor (9)
+﻿21:00:53 : Player #50 Maestro (95.179.127.7:8712) connected
+﻿21:00:54 : Player #48 Survivor (6) disconnected
+﻿21:00:54 : Player #50 Maestro - BE GUID: d178c1ab830a9d75edd8dd119ee77e53
+﻿21:00:54 : Verified GUID (d178c1ab830a9d75edd8dd119ee77e53) of player #50 Maestro
+﻿21:02:01 : Player #18 TauMare disconnected
+﻿21:03:47 : Player #51 NaikS (178.34.160.10:39177) connected
+﻿21:03:48 : Player #51 NaikS - BE GUID: 81dc9ce80ba209ba20fbe1d7eca63c77
+﻿21:03:48 : Verified GUID (81dc9ce80ba209ba20fbe1d7eca63c77) of player #51 NaikS
+﻿21:05:29 : Player #11 Survivor (5) disconnected
+﻿21:05:59 : Player #52 Survivor (5) (86.57.217.251:2304) connected
+﻿21:05:59 : Player #52 Survivor (5) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿21:05:59 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #52 Survivor (5)
+﻿21:06:03 : Player #53 Galanowen (212.96.109.97:64301) connected
+﻿21:06:03 : Player #53 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿21:06:03 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #53 Galanowen
+﻿21:07:11 : Player #9 Maverick disconnected
+﻿21:07:18 : Player #54 Maverick (128.73.254.208:2404) connected
+﻿21:07:19 : Player #54 Maverick - BE GUID: 73d7ca0700bd307e0b38e10ce6a62186
+﻿21:07:19 : Verified GUID (73d7ca0700bd307e0b38e10ce6a62186) of player #54 Maverick
+﻿21:07:45 : Player #36 Survivor (7) disconnected
+﻿21:10:01 : Player #47 Survivor (2) disconnected
+﻿21:10:05 : Player #55 Survivor (2) (84.10.156.255:33512) connected
+﻿21:10:05 : Player #55 Survivor (2) - BE GUID: d423ddb4b45782cc3f84761db82829c2
+﻿21:10:06 : Verified GUID (d423ddb4b45782cc3f84761db82829c2) of player #55 Survivor (2)
+﻿21:11:30 : Player #6 Survivor (3) disconnected
+﻿21:12:07 : Player #56 Lepota (5.251.6.87:2404) connected
+﻿21:12:08 : Player #56 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿21:12:08 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #56 Lepota
+﻿21:12:33 : Player #57 Survivor (3) (193.151.238.56:2304) connected
+﻿21:12:33 : Player #57 Survivor (3) - BE GUID: bbc80eb4d01517031db43559baa26348
+﻿21:12:34 : Verified GUID (bbc80eb4d01517031db43559baa26348) of player #57 Survivor (3)
+﻿21:13:13 : Player #56 Lepota disconnected
+﻿21:13:15 : Player #58 Lepota (5.251.6.87:2404) connected
+﻿21:13:15 : Player #58 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿21:13:16 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #58 Lepota
+﻿21:13:22 : Player #59 Survivor (6) (193.151.236.69:2304) connected
+﻿21:13:23 : Player #59 Survivor (6) - BE GUID: bc6ce9dfbba64fbc57f59719c70dd96d
+﻿21:13:23 : Verified GUID (bc6ce9dfbba64fbc57f59719c70dd96d) of player #59 Survivor (6)
+﻿21:13:48 : Player #58 Lepota disconnected
+﻿21:14:07 : Player #60 Lepota (5.251.6.87:2404) connected
+﻿21:14:08 : Player #60 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿21:14:08 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #60 Lepota
+﻿21:16:38 : Player #61 Survivor (7) (95.53.74.220:2304) connected
+﻿21:16:39 : Player #61 Survivor (7) - BE GUID: 869293e72454354d0ebcb927bfb2966e
+﻿21:16:39 : Verified GUID (869293e72454354d0ebcb927bfb2966e) of player #61 Survivor (7)
+﻿21:17:05 : Player #62 Survivor (10) (31.56.191.110:41449) connected
+﻿21:17:07 : Player #62 Survivor (10) - BE GUID: a4571983e74732f2629fca2226cb05e0
+﻿21:17:07 : Verified GUID (a4571983e74732f2629fca2226cb05e0) of player #62 Survivor (10)
+﻿21:19:18 : Player #21 AllPowerfull disconnected
+﻿21:19:19 : Player #63 nAPTu3AH (128.70.15.226:2304) connected
+﻿21:19:20 : Player #63 nAPTu3AH - BE GUID: e5f1148c52857810cd9a11a8b31f5dc8
+﻿21:19:20 : Verified GUID (e5f1148c52857810cd9a11a8b31f5dc8) of player #63 nAPTu3AH
+﻿21:20:09 : Player #63 nAPTu3AH disconnected
+﻿21:20:11 : Player #23 BERMUDA disconnected
+﻿21:20:18 : Player #63 anatoly (213.87.139.179:56978) connected
+﻿21:20:20 : Player #63 anatoly - BE GUID: f572a251fa12bbff6068908add30225b
+﻿21:20:21 : Verified GUID (f572a251fa12bbff6068908add30225b) of player #63 anatoly
+﻿21:20:48 : Player #49 Survivor (9) disconnected
+﻿21:21:17 : Player #64 Survivor (9) (5.227.7.236:2304) connected
+﻿21:21:18 : Player #64 Survivor (9) - BE GUID: 100ce5b323a159bc7b867461bd6b280f
+﻿21:21:18 : Verified GUID (100ce5b323a159bc7b867461bd6b280f) of player #64 Survivor (9)
+﻿21:21:58 : Player #62 Survivor (10) disconnected
+﻿21:22:00 : Player #65 Survivor (10) (188.255.77.5:2304) connected
+﻿21:22:00 : Player #65 Survivor (10) - BE GUID: 3a0428ed71a81ae0595e674b4645c57a
+﻿21:22:01 : Verified GUID (3a0428ed71a81ae0595e674b4645c57a) of player #65 Survivor (10)
+﻿21:22:18 : Player #66 Terryaki (143.179.101.9:46737) connected
+﻿21:22:20 : Player #66 Terryaki - BE GUID: d04dbf33ed90469604a0d9ddf88fc1f8
+﻿21:22:21 : Verified GUID (d04dbf33ed90469604a0d9ddf88fc1f8) of player #66 Terryaki
+﻿21:23:08 : Player #63 anatoly disconnected
+﻿21:23:42 : Player #67 Lakebwana (213.127.60.81:41900) connected
+﻿21:23:44 : Player #67 Lakebwana - BE GUID: 84e57642a567694ca346674215963c81
+﻿21:23:44 : Verified GUID (84e57642a567694ca346674215963c81) of player #67 Lakebwana
+﻿21:24:18 : Player #10 jayz disconnected
+﻿21:27:11 : Player #41 Survivor (11) disconnected
+﻿21:29:23 : Player #51 NaikS disconnected
+﻿21:29:31 : Player #50 Maestro disconnected
+﻿21:29:34 : Player #68 BERMUDA (77.243.99.78:2304) connected
+﻿21:29:35 : Player #68 BERMUDA - BE GUID: 4b2fbce6f69c83b27b1687d8fcbd9609
+﻿21:29:35 : Verified GUID (4b2fbce6f69c83b27b1687d8fcbd9609) of player #68 BERMUDA
+﻿21:29:46 : Player #5 Chugun disconnected
+﻿21:31:39 : Player #69 anatoly (213.87.139.179:64250) connected
+﻿21:31:39 : Player #61 Survivor (7) disconnected
+﻿21:31:40 : Player #69 anatoly - BE GUID: f572a251fa12bbff6068908add30225b
+﻿21:31:41 : Verified GUID (f572a251fa12bbff6068908add30225b) of player #69 anatoly
+﻿21:31:42 : Player #70 Terryaki (2) (87.209.1.66:2404) connected
+﻿21:31:42 : Player #70 Terryaki (2) - BE GUID: d04dbf33ed90469604a0d9ddf88fc1f8
+﻿21:31:43 : Player #70 Terryaki (2) disconnected
+﻿21:31:44 : Player #66 Terryaki disconnected
+﻿21:31:47 : Player #70 Terryaki (87.209.1.66:2404) connected
+﻿21:31:47 : Player #70 Terryaki - BE GUID: d04dbf33ed90469604a0d9ddf88fc1f8
+﻿21:31:52 : Player #55 Survivor (2) disconnected
+﻿21:31:56 : Player #71 Citrus (91.78.44.70:2404) connected
+﻿21:31:57 : Player #72 Survivor (2) (84.10.156.255:58114) connected
+﻿21:31:58 : Player #72 Survivor (2) - BE GUID: d423ddb4b45782cc3f84761db82829c2
+﻿21:31:58 : Verified GUID (d423ddb4b45782cc3f84761db82829c2) of player #72 Survivor (2)
+﻿21:32:00 : Verified GUID (d04dbf33ed90469604a0d9ddf88fc1f8) of player #70 Terryaki
+﻿21:32:00 : Player #71 Citrus - BE GUID: 4b39d1efa0501bc7ec9ce7a0670f75d2
+﻿21:32:00 : Verified GUID (4b39d1efa0501bc7ec9ce7a0670f75d2) of player #71 Citrus
+﻿21:33:47 : Player #60 Lepota disconnected
+﻿21:34:32 : Player #31 Survivor (4) disconnected
+﻿21:36:04 : Player #73 nAPTu3AH (128.70.28.11:2304) connected
+﻿21:36:05 : Player #73 nAPTu3AH - BE GUID: e5f1148c52857810cd9a11a8b31f5dc8
+﻿21:36:05 : Verified GUID (e5f1148c52857810cd9a11a8b31f5dc8) of player #73 nAPTu3AH
+﻿21:36:45 : Player #73 nAPTu3AH disconnected
+﻿21:37:12 : Player #68 BERMUDA disconnected
+﻿21:37:17 : Player #73 BERMUDA (77.243.99.78:2304) connected
+﻿21:37:17 : Player #73 BERMUDA - BE GUID: 4b2fbce6f69c83b27b1687d8fcbd9609
+﻿21:37:17 : Verified GUID (4b2fbce6f69c83b27b1687d8fcbd9609) of player #73 BERMUDA
+﻿21:37:18 : Player #64 Survivor (9) disconnected
+﻿21:37:41 : Player #71 Citrus disconnected
+﻿21:39:16 : Player #74 jayz (109.252.86.54:6816) connected
+﻿21:39:16 : Player #74 jayz - BE GUID: 192c13173cb1a51c059fb5d217e7a56e
+﻿21:39:16 : Verified GUID (192c13173cb1a51c059fb5d217e7a56e) of player #74 jayz
+﻿21:39:32 : Player #75 Lepota (5.251.7.35:2404) connected
+﻿21:39:32 : Player #75 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿21:39:33 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #75 Lepota
+﻿21:40:30 : Player #15 MEWED disconnected
+﻿21:41:10 : Player #65 Survivor (10) disconnected
+﻿21:41:19 : Player #76 Survivor (4) (31.6.44.208:2304) connected
+﻿21:41:51 : Player #76 Survivor (4) (-) has been kicked by BattlEye: Client not responding
+﻿21:42:21 : Player #76 Survivor (4) (31.56.191.110:50881) connected
+﻿21:42:21 : Player #77 MEWED (93.185.30.188:34211) connected
+﻿21:42:22 : Player #77 MEWED - BE GUID: cf6f407c7107be7020e35d4ece05fc98
+﻿21:42:22 : Player #76 Survivor (4) - BE GUID: a4571983e74732f2629fca2226cb05e0
+﻿21:42:22 : Verified GUID (cf6f407c7107be7020e35d4ece05fc98) of player #77 MEWED
+﻿21:42:22 : Verified GUID (a4571983e74732f2629fca2226cb05e0) of player #76 Survivor (4)
+﻿21:44:34 : Player #78 Zatvornik (5.16.114.192:18729) connected
+﻿21:44:41 : Player #78 Zatvornik - BE GUID: 73d9bea03f461d01bd925f1a5f875752
+﻿21:44:42 : Verified GUID (73d9bea03f461d01bd925f1a5f875752) of player #78 Zatvornik
+﻿21:45:16 : Player #59 Survivor (6) disconnected
+﻿21:49:34 : Player #79 Survivor (6) (193.151.236.69:2304) connected
+﻿21:49:36 : Player #79 Survivor (6) - BE GUID: bc6ce9dfbba64fbc57f59719c70dd96d
+﻿21:49:36 : Verified GUID (bc6ce9dfbba64fbc57f59719c70dd96d) of player #79 Survivor (6)
+﻿21:53:44 : Player #0 Survivor disconnected
+﻿21:57:21 : Player #54 Maverick disconnected
+﻿21:59:22 : Player #80 Survivor (141.101.207.149:2304) connected
+﻿21:59:23 : Player #80 Survivor - BE GUID: 0ff48f4d965c67aeed8815e12ca09059
+﻿21:59:23 : Verified GUID (0ff48f4d965c67aeed8815e12ca09059) of player #80 Survivor
+﻿21:59:59 : Player #77 MEWED disconnected
+﻿22:00:44 : Player #81 Survivor (7) (94.228.247.252:2304) connected
+﻿22:00:45 : Player #81 Survivor (7) - BE GUID: 29ff08b8891e4c4a625194250b1a6218
+﻿22:00:45 : Verified GUID (29ff08b8891e4c4a625194250b1a6218) of player #81 Survivor (7)
+﻿22:01:16 : Player #75 Lepota disconnected
+﻿22:01:32 : Player #82 Lepota (5.251.7.35:2404) connected
+﻿22:01:32 : Player #82 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿22:01:33 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #82 Lepota
+﻿22:02:27 : Player #3 VoXSC disconnected
+﻿22:04:29 : Player #76 Survivor (4) disconnected
+﻿22:04:36 : Player #83 Survivor (4) (109.173.15.240:40667) connected
+﻿22:04:36 : Player #83 Survivor (4) - BE GUID: e1822e3c9dcc596c5219a4b993f3d4d9
+﻿22:04:36 : Verified GUID (e1822e3c9dcc596c5219a4b993f3d4d9) of player #83 Survivor (4)
+﻿22:04:40 : Player #84 Survivor (9) (31.56.191.110:50881) connected
+﻿22:04:42 : Player #84 Survivor (9) - BE GUID: a4571983e74732f2629fca2226cb05e0
+﻿22:04:43 : Verified GUID (a4571983e74732f2629fca2226cb05e0) of player #84 Survivor (9)
+﻿22:04:53 : Player #80 Survivor disconnected
+﻿22:05:01 : Player #85 Survivor (141.101.207.149:2304) connected
+﻿22:05:02 : Player #85 Survivor - BE GUID: 0ff48f4d965c67aeed8815e12ca09059
+﻿22:05:02 : Verified GUID (0ff48f4d965c67aeed8815e12ca09059) of player #85 Survivor
+﻿22:06:17 : Player #86 scotch (85.174.74.134:2404) connected
+﻿22:06:19 : Player #86 scotch - BE GUID: 2d7eef9ffe4eef1fbfb4c82115ea3869
+﻿22:06:19 : Verified GUID (2d7eef9ffe4eef1fbfb4c82115ea3869) of player #86 scotch
+﻿22:08:33 : Player #87 Slon69 (5.35.16.196:2304) connected
+﻿22:08:33 : Player #87 Slon69 - BE GUID: b681e161e9fe830af2b9144bd0a0da13
+﻿22:08:34 : Verified GUID (b681e161e9fe830af2b9144bd0a0da13) of player #87 Slon69
+﻿22:09:19 : Player #83 Survivor (4) disconnected
+﻿22:09:39 : Player #88 Survivor (4) (178.121.86.115:11092) connected
+﻿22:09:39 : Player #88 Survivor (4) - BE GUID: 83a3c050aaec3cebdd1afcae92db41aa
+﻿22:09:40 : Verified GUID (83a3c050aaec3cebdd1afcae92db41aa) of player #88 Survivor (4)
+﻿22:11:27 : Player #69 anatoly disconnected
+﻿22:13:05 : Player #89 TauMare (37.192.7.83:2304) connected
+﻿22:13:05 : Player #89 TauMare - BE GUID: 0e4f6ce0b510bc3384c81cb5dc34e449
+﻿22:13:05 : Verified GUID (0e4f6ce0b510bc3384c81cb5dc34e449) of player #89 TauMare
+﻿22:15:04 : Player #26 ilywenka disconnected
+﻿22:15:06 : Player #19 komissar disconnected
+﻿22:15:54 : Player #20 prodo disconnected
+﻿22:17:27 : Player #90 [O.P.G.]MHE Poxuy (87.117.48.238:5886) connected
+﻿22:17:28 : Player #90 [O.P.G.]MHE Poxuy - BE GUID: ffda4767980e74a3984c9722cb8b05f2
+﻿22:17:29 : Verified GUID (ffda4767980e74a3984c9722cb8b05f2) of player #90 [O.P.G.]MHE Poxuy
+﻿22:19:27 : Player #86 scotch disconnected
+﻿22:20:31 : Player #91 Survivor (10) (188.126.38.22:2304) connected
+﻿22:20:31 : Player #91 Survivor (10) - BE GUID: 976b2ef386e10f00df2b4c03a61153cc
+﻿22:20:31 : Verified GUID (976b2ef386e10f00df2b4c03a61153cc) of player #91 Survivor (10)
+﻿22:22:49 : Player #17 Survivor (8) disconnected
+﻿22:24:07 : Player #91 Survivor (10) disconnected
+﻿22:25:09 : Player #91 Survivor (8) (90.154.73.176:16422) connected
+﻿22:25:10 : Player #91 Survivor (8) - BE GUID: c92e49274441fe009c3748cd8dc9d84d
+﻿22:25:10 : Verified GUID (c92e49274441fe009c3748cd8dc9d84d) of player #91 Survivor (8)
+﻿22:26:18 : Player #92 anatoly (213.87.139.179:65072) connected
+﻿22:26:19 : Player #92 anatoly - BE GUID: f572a251fa12bbff6068908add30225b
+﻿22:26:19 : Verified GUID (f572a251fa12bbff6068908add30225b) of player #92 anatoly
+﻿22:26:28 : Player #82 Lepota disconnected
+﻿22:26:47 : Player #72 Survivor (2) disconnected
+﻿22:26:50 : Player #93 145.239.205.237:2402 (178.214.37.61:2304) connected
+﻿22:26:51 : Player #93 145.239.205.237:2402 - BE GUID: 15e3df0fc8f710e9e3f78fc79eaca736
+﻿22:26:51 : Verified GUID (15e3df0fc8f710e9e3f78fc79eaca736) of player #93 145.239.205.237:2402
+﻿22:27:06 : Player #94 Survivor (2) (188.126.38.22:2304) connected
+﻿22:27:06 : Player #94 Survivor (2) - BE GUID: 976b2ef386e10f00df2b4c03a61153cc
+﻿22:27:06 : Verified GUID (976b2ef386e10f00df2b4c03a61153cc) of player #94 Survivor (2)
+﻿22:27:43 : Player #52 Survivor (5) disconnected
+﻿22:27:55 : Player #94 Survivor (2) disconnected
+﻿22:28:16 : Player #94 Survivor (2) (109.173.15.240:40674) connected
+﻿22:28:16 : Player #94 Survivor (2) - BE GUID: e1822e3c9dcc596c5219a4b993f3d4d9
+﻿22:28:16 : Verified GUID (e1822e3c9dcc596c5219a4b993f3d4d9) of player #94 Survivor (2)
+﻿22:29:39 : Player #94 Survivor (2) disconnected
+﻿22:32:00 : Player #93 145.239.205.237:2402 disconnected
+﻿22:32:22 : Player #93 Survivor (2) (188.126.38.22:2304) connected
+﻿22:32:22 : Player #93 Survivor (2) - BE GUID: 976b2ef386e10f00df2b4c03a61153cc
+﻿22:32:23 : Verified GUID (976b2ef386e10f00df2b4c03a61153cc) of player #93 Survivor (2)
+﻿22:32:42 : Player #94 145.239.205.237:2402 (178.214.37.61:2304) connected
+﻿22:32:42 : Player #94 145.239.205.237:2402 - BE GUID: 15e3df0fc8f710e9e3f78fc79eaca736
+﻿22:32:43 : Verified GUID (15e3df0fc8f710e9e3f78fc79eaca736) of player #94 145.239.205.237:2402
+﻿22:33:37 : Player #95 Lepota (5.251.7.35:2404) connected
+﻿22:33:37 : Player #95 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿22:33:37 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #95 Lepota
+﻿22:33:48 : Player #94 145.239.205.237:2402 disconnected
+﻿22:34:13 : Player #96 Survivor (5) (109.173.15.240:40679) connected
+﻿22:34:13 : Player #96 Survivor (5) - BE GUID: e1822e3c9dcc596c5219a4b993f3d4d9
+﻿22:34:14 : Verified GUID (e1822e3c9dcc596c5219a4b993f3d4d9) of player #96 Survivor (5)
+﻿22:34:55 : Player #53 Galanowen disconnected
+﻿22:34:55 : Player #97 Survivor (10) (85.140.114.34:2304) connected
+﻿22:34:56 : Player #97 Survivor (10) - BE GUID: c7dc9e18e6b50867863c04aa0c90e8b5
+﻿22:34:56 : Verified GUID (c7dc9e18e6b50867863c04aa0c90e8b5) of player #97 Survivor (10)
+﻿22:35:03 : Player #98 Galanowen (212.96.109.97:64301) connected
+﻿22:35:04 : Player #98 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿22:35:04 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #98 Galanowen
+﻿22:35:35 : Player #99 Survivor (11) (85.142.155.18:2304) connected
+﻿22:35:35 : Player #99 Survivor (11) - BE GUID: c063a7232c67e3ff256c1bacc1b48840
+﻿22:35:36 : Verified GUID (c063a7232c67e3ff256c1bacc1b48840) of player #99 Survivor (11)
+﻿22:36:19 : Player #100 Survivor (12) (86.57.217.251:2304) connected
+﻿22:36:19 : Player #100 Survivor (12) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿22:36:19 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #100 Survivor (12)
+﻿22:37:57 : Player #101 Survivor (13) (178.214.37.61:2304) connected
+﻿22:37:57 : Player #101 Survivor (13) - BE GUID: 15e3df0fc8f710e9e3f78fc79eaca736
+﻿22:37:58 : Verified GUID (15e3df0fc8f710e9e3f78fc79eaca736) of player #101 Survivor (13)
+﻿22:39:53 : Player #96 Survivor (5) disconnected
+﻿22:40:01 : Player #102 Survivor (5) (109.173.15.240:40679) connected
+﻿22:40:01 : Player #102 Survivor (5) - BE GUID: e1822e3c9dcc596c5219a4b993f3d4d9
+﻿22:40:01 : Verified GUID (e1822e3c9dcc596c5219a4b993f3d4d9) of player #102 Survivor (5)
+﻿22:40:10 : Player #92 anatoly disconnected
+﻿22:41:01 : Player #79 Survivor (6) disconnected
+﻿22:42:56 : Player #93 Survivor (2) disconnected
+﻿22:45:15 : Player #103 anatoly (213.87.139.179:3151) connected
+﻿22:45:15 : Player #103 anatoly - BE GUID: f572a251fa12bbff6068908add30225b
+﻿22:45:16 : Verified GUID (f572a251fa12bbff6068908add30225b) of player #103 anatoly
+﻿22:46:15 : Player #104 Survivor (2) (188.114.219.85:2304) connected
+﻿22:46:16 : Player #104 Survivor (2) - BE GUID: 5bdb5b5f557a423fb645cd397b772e3b
+﻿22:46:16 : Verified GUID (5bdb5b5f557a423fb645cd397b772e3b) of player #104 Survivor (2)
+﻿22:46:52 : Player #105 Survivor (6) (2.94.251.122:2304) connected
+﻿22:46:52 : Player #105 Survivor (6) - BE GUID: 66078637dcfec5e4a729747a974c2809
+﻿22:46:53 : Verified GUID (66078637dcfec5e4a729747a974c2809) of player #105 Survivor (6)
+﻿22:46:55 : Player #70 Terryaki disconnected
+﻿22:46:56 : Player #106 Survivor (14) (149.154.116.57:2304) connected
+﻿22:46:57 : Player #106 Survivor (14) - BE GUID: 34833b582d27081ce09c2c8dc09a2896
+﻿22:46:57 : Verified GUID (34833b582d27081ce09c2c8dc09a2896) of player #106 Survivor (14)
+﻿22:49:30 : Player #103 anatoly disconnected
+﻿22:49:45 : Player #98 Galanowen disconnected
+﻿22:49:47 : Player #100 Survivor (12) disconnected
+﻿22:49:48 : Player #95 Lepota disconnected
+﻿22:49:51 : Player #107 Galanowen (212.96.109.97:64301) connected
+﻿22:49:52 : Player #107 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿22:49:52 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #107 Galanowen
+﻿22:49:53 : Player #108 Survivor (12) (86.57.217.251:2304) connected
+﻿22:49:53 : Player #108 Survivor (12) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿22:49:53 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #108 Survivor (12)
+﻿22:49:53 : Player #109 Lepota (5.251.7.35:2404) connected
+﻿22:49:54 : Player #109 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿22:49:54 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #109 Lepota
+﻿22:51:55 : Player #107 Galanowen disconnected
+﻿22:51:57 : Player #108 Survivor (12) disconnected
+﻿22:51:58 : Player #109 Lepota disconnected
+﻿22:52:38 : Player #107 Galanowen (212.96.109.97:64301) connected
+﻿22:52:39 : Player #107 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿22:52:39 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #107 Galanowen
+﻿22:52:39 : Player #108 Lepota (5.251.7.35:2404) connected
+﻿22:52:40 : Player #108 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿22:52:40 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #108 Lepota
+﻿22:52:45 : Player #109 Survivor (12) (86.57.217.251:2304) connected
+﻿22:52:45 : Player #109 Survivor (12) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿22:52:45 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #109 Survivor (12)
+﻿22:52:50 : Player #110 GobLinNL (213.127.32.150:7222) connected
+﻿22:52:50 : Player #110 GobLinNL - BE GUID: 2472bbca861c6deea729a1d35084cd5c
+﻿22:52:50 : Verified GUID (2472bbca861c6deea729a1d35084cd5c) of player #110 GobLinNL
+﻿22:53:02 : Player #111 Terryaki (143.179.101.9:46741) connected
+﻿22:53:05 : Player #111 Terryaki - BE GUID: d04dbf33ed90469604a0d9ddf88fc1f8
+﻿22:53:05 : Verified GUID (d04dbf33ed90469604a0d9ddf88fc1f8) of player #111 Terryaki
+﻿22:53:21 : Player #84 Survivor (9) disconnected
+﻿22:55:22 : Player #106 Survivor (14) disconnected
+﻿22:55:26 : Player #112 Survivor (9) (149.154.116.57:2304) connected
+﻿22:55:27 : Player #112 Survivor (9) - BE GUID: 34833b582d27081ce09c2c8dc09a2896
+﻿22:55:27 : Verified GUID (34833b582d27081ce09c2c8dc09a2896) of player #112 Survivor (9)
+﻿22:56:14 : Player #107 Galanowen disconnected
+﻿22:56:25 : Player #109 Survivor (12) disconnected
+﻿22:56:27 : Player #108 Lepota disconnected
+﻿22:56:37 : Player #81 Survivor (7) disconnected
+﻿22:56:47 : Player #113 Galanowen (212.96.109.97:64301) connected
+﻿22:56:47 : Player #57 Survivor (3) disconnected
+﻿22:56:48 : Player #114 Lepota (5.251.7.35:2404) connected
+﻿22:56:48 : Player #113 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿22:56:48 : Player #115 Survivor (3) (86.57.217.251:2304) connected
+﻿22:56:48 : Player #114 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿22:56:48 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #113 Galanowen
+﻿22:56:48 : Player #115 Survivor (3) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿22:56:49 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #114 Lepota
+﻿22:56:49 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #115 Survivor (3)
+﻿22:57:11 : Player #102 Survivor (5) disconnected
+﻿23:00:59 : RCon admin #1: (To TauMare) Do not use Global chat. Warnings left:4
+﻿23:01:13 : RCon admin #1: (To TauMare) Do not use Global chat. Warnings left:3
+﻿23:01:39 : Player #115 Survivor (3) disconnected
+﻿23:01:42 : Player #114 Lepota disconnected
+﻿23:01:45 : Player #113 Galanowen disconnected
+﻿23:02:13 : Player #97 Survivor (10) disconnected
+﻿23:02:14 : Player #113 Survivor (3) (86.57.217.251:2304) connected
+﻿23:02:14 : Player #113 Survivor (3) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿23:02:15 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #113 Survivor (3)
+﻿23:02:30 : Player #114 Survivor (5) (188.255.77.5:2304) connected
+﻿23:02:30 : Player #114 Survivor (5) - BE GUID: 3a0428ed71a81ae0595e674b4645c57a
+﻿23:02:31 : Verified GUID (3a0428ed71a81ae0595e674b4645c57a) of player #114 Survivor (5)
+﻿23:02:39 : Player #115 Lepota (5.251.7.35:2404) connected
+﻿23:02:40 : Player #115 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿23:02:40 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #115 Lepota
+﻿23:02:41 : Player #116 Galanowen (212.96.109.97:64301) connected
+﻿23:02:41 : Player #116 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿23:02:41 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #116 Galanowen
+﻿23:02:51 : Player #117 Survivor (7) (109.252.44.182:3748) connected
+﻿23:02:51 : Player #117 Survivor (7) - BE GUID: 9ef1c18aaacbc372cc1a1a0d753403eb
+﻿23:02:52 : Verified GUID (9ef1c18aaacbc372cc1a1a0d753403eb) of player #117 Survivor (7)
+﻿23:03:04 : RCon admin #1: (To TauMare) Do not use Global chat. Warnings left:2
+﻿23:04:51 : Player #113 Survivor (3) disconnected
+﻿23:04:55 : Player #116 Galanowen disconnected
+﻿23:05:08 : Player #115 Lepota disconnected
+﻿23:05:41 : Player #118 Galanowen (212.96.109.97:64301) connected
+﻿23:05:41 : Player #118 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿23:05:41 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #118 Galanowen
+﻿23:05:42 : Player #119 Survivor (3) (86.57.217.251:2304) connected
+﻿23:05:42 : Player #120 Lepota (5.251.7.35:2404) connected
+﻿23:05:42 : Player #119 Survivor (3) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿23:05:42 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #119 Survivor (3)
+﻿23:05:42 : Player #120 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿23:05:43 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #120 Lepota
+﻿23:07:50 : Player #118 Galanowen disconnected
+﻿23:07:51 : Player #87 Slon69 disconnected
+﻿23:07:55 : Player #120 Lepota disconnected
+﻿23:07:56 : Player #119 Survivor (3) disconnected
+﻿23:08:04 : Player #118 Lepota (5.251.7.35:2404) connected
+﻿23:08:04 : Player #118 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿23:08:04 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #118 Lepota
+﻿23:08:47 : Player #119 Survivor (3) (95.32.49.213:2304) connected
+﻿23:08:47 : Player #119 Survivor (3) - BE GUID: 4801d291f4d741b4d97bf684d762a4ad
+﻿23:08:48 : Verified GUID (4801d291f4d741b4d97bf684d762a4ad) of player #119 Survivor (3)
+﻿23:08:50 : Player #118 Lepota disconnected
+﻿23:09:23 : Player #120 Lepota (5.251.7.35:2404) connected
+﻿23:09:23 : Player #121 Galanowen (212.96.109.97:64301) connected
+﻿23:09:23 : Player #120 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿23:09:24 : Player #121 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿23:09:24 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #120 Lepota
+﻿23:09:24 : Player #122 Survivor (10) (86.57.217.251:2304) connected
+﻿23:09:24 : Player #122 Survivor (10) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿23:09:24 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #121 Galanowen
+﻿23:09:25 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #122 Survivor (10)
+﻿23:12:17 : Player #121 Galanowen disconnected
+﻿23:12:23 : Player #122 Survivor (10) disconnected
+﻿23:12:23 : Player #120 Lepota disconnected
+﻿23:12:28 : Player #120 Survivor (10) (86.57.217.251:2304) connected
+﻿23:12:28 : Player #120 Survivor (10) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿23:12:29 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #120 Survivor (10)
+﻿23:13:01 : Player #120 Survivor (10) disconnected
+﻿23:14:05 : Player #120 Lepota (5.251.7.35:2404) connected
+﻿23:14:06 : Player #120 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿23:14:06 : Player #121 Survivor (10) (86.57.217.251:2304) connected
+﻿23:14:06 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #120 Lepota
+﻿23:14:06 : Player #121 Survivor (10) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿23:14:06 : Player #122 Galanowen (212.96.109.97:64301) connected
+﻿23:14:07 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #121 Survivor (10)
+﻿23:14:07 : Player #122 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿23:14:07 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #122 Galanowen
+﻿23:16:14 : Player #123 Survivor (12) (5.228.154.115:2304) connected
+﻿23:16:15 : Player #123 Survivor (12) - BE GUID: 5eda3ffa4b0d29b522b145bd5750f577
+﻿23:16:15 : Verified GUID (5eda3ffa4b0d29b522b145bd5750f577) of player #123 Survivor (12)
+﻿23:16:54 : Player #101 Survivor (13) disconnected
+﻿23:17:43 : Player #120 Lepota disconnected
+﻿23:17:50 : Player #124 Lepota (5.251.7.35:1024) connected
+﻿23:17:51 : Player #124 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿23:17:51 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #124 Lepota
+﻿23:18:11 : Player #125 Apostol (85.21.77.13:2404) connected
+﻿23:18:12 : Player #125 Apostol - BE GUID: e42a606d815e5e154ccb052aea191935
+﻿23:18:13 : Verified GUID (e42a606d815e5e154ccb052aea191935) of player #125 Apostol
+﻿23:18:14 : Player #104 Survivor (2) disconnected
+﻿23:18:20 : Player #126 Survivor (2) (188.114.219.85:2304) connected
+﻿23:18:20 : Player #126 Survivor (2) - BE GUID: 5bdb5b5f557a423fb645cd397b772e3b
+﻿23:18:21 : Verified GUID (5bdb5b5f557a423fb645cd397b772e3b) of player #126 Survivor (2)
+﻿23:18:22 : Player #122 Galanowen disconnected
+﻿23:18:25 : Player #121 Survivor (10) disconnected
+﻿23:18:29 : Player #73 BERMUDA disconnected
+﻿23:18:30 : Player #124 Lepota disconnected
+﻿23:18:33 : Player #4 Vladlen XO disconnected
+﻿23:18:45 : Player #127 Vladlen XO (89.107.139.145:59060) connected
+﻿23:18:46 : Player #127 Vladlen XO - BE GUID: 0c5e40a23743970fe98c744d7101c19d
+﻿23:18:47 : Verified GUID (0c5e40a23743970fe98c744d7101c19d) of player #127 Vladlen XO
+﻿23:18:55 : Player #114 Survivor (5) disconnected
+﻿23:19:03 : Player #128 Survivor (5) (188.255.77.5:2304) connected
+﻿23:19:04 : Player #128 Survivor (5) - BE GUID: 3a0428ed71a81ae0595e674b4645c57a
+﻿23:19:04 : Verified GUID (3a0428ed71a81ae0595e674b4645c57a) of player #128 Survivor (5)
+﻿23:19:07 : Player #128 Survivor (5) disconnected
+﻿23:19:10 : Player #123 Survivor (12) disconnected
+﻿23:19:20 : Player #128 Survivor (5) (188.255.77.5:2304) connected
+﻿23:19:20 : Player #128 Survivor (5) - BE GUID: 3a0428ed71a81ae0595e674b4645c57a
+﻿23:19:21 : Verified GUID (3a0428ed71a81ae0595e674b4645c57a) of player #128 Survivor (5)
+﻿23:19:45 : Player #129 Galanowen (212.96.109.97:64301) connected
+﻿23:19:45 : Player #129 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿23:19:46 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #129 Galanowen
+﻿23:19:47 : Player #130 Survivor (10) (86.57.217.251:2304) connected
+﻿23:19:47 : Player #130 Survivor (10) - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿23:19:47 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #130 Survivor (10)
+﻿23:20:15 : Player #131 Survivor (12) (5.228.154.115:2304) connected
+﻿23:20:15 : Player #131 Survivor (12) - BE GUID: 5eda3ffa4b0d29b522b145bd5750f577
+﻿23:20:15 : Verified GUID (5eda3ffa4b0d29b522b145bd5750f577) of player #131 Survivor (12)
+﻿23:20:23 : Player #119 Survivor (3) disconnected
+﻿23:20:28 : Player #117 Survivor (7) disconnected
+﻿23:20:50 : Player #128 Survivor (5) disconnected
+﻿23:23:08 : Player #132 Lepota (5.251.7.35:2404) connected
+﻿23:23:09 : Player #132 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿23:23:09 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #132 Lepota
+﻿23:23:30 : Player #85 Survivor disconnected
+﻿23:23:36 : Player #133 Survivor (141.101.207.149:2304) connected
+﻿23:23:38 : Player #133 Survivor - BE GUID: 0ff48f4d965c67aeed8815e12ca09059
+﻿23:23:38 : Verified GUID (0ff48f4d965c67aeed8815e12ca09059) of player #133 Survivor
+﻿23:23:41 : Player #133 Survivor disconnected
+﻿23:23:57 : Player #111 Terryaki disconnected
+﻿23:24:16 : Player #74 jayz disconnected
+﻿23:27:12 : Player #133 Survivor (141.101.207.149:2304) connected
+﻿23:27:13 : Player #133 Survivor - BE GUID: 0ff48f4d965c67aeed8815e12ca09059
+﻿23:27:13 : Verified GUID (0ff48f4d965c67aeed8815e12ca09059) of player #133 Survivor
+﻿23:27:46 : Player #131 Survivor (12) disconnected
+﻿23:27:49 : Player #134 Survivor (3) (5.228.154.115:2304) connected
+﻿23:27:49 : Player #134 Survivor (3) - BE GUID: 5eda3ffa4b0d29b522b145bd5750f577
+﻿23:27:50 : Verified GUID (5eda3ffa4b0d29b522b145bd5750f577) of player #134 Survivor (3)
+﻿23:30:45 : Player #133 Survivor disconnected
+﻿23:31:32 : Player #125 Apostol disconnected
+﻿23:32:17 : Player #134 Survivor (3) disconnected
+﻿23:32:19 : Player #133 Survivor (5.228.154.115:2304) connected
+﻿23:32:20 : Player #133 Survivor - BE GUID: 5eda3ffa4b0d29b522b145bd5750f577
+﻿23:32:20 : Verified GUID (5eda3ffa4b0d29b522b145bd5750f577) of player #133 Survivor
+﻿23:32:55 : Player #134 FrukT (95.153.133.189:60081) connected
+﻿23:32:58 : Player #134 FrukT - BE GUID: 6d77ba702035393546a022b59c82eaf2
+﻿23:32:58 : Verified GUID (6d77ba702035393546a022b59c82eaf2) of player #134 FrukT
+﻿23:35:17 : Player #105 Survivor (6) disconnected
+﻿23:36:42 : Player #135 Survivor (3) (2.94.251.122:2304) connected
+﻿23:36:43 : Player #99 Survivor (11) disconnected
+﻿23:36:46 : Player #135 Survivor (3) - BE GUID: 66078637dcfec5e4a729747a974c2809
+﻿23:36:46 : Verified GUID (66078637dcfec5e4a729747a974c2809) of player #135 Survivor (3)
+﻿23:36:56 : Player #91 Survivor (8) disconnected
+﻿23:38:27 : Player #126 Survivor (2) disconnected
+﻿23:41:42 : Player #136 Survivor (2) (188.114.219.85:2304) connected
+﻿23:41:42 : Player #136 Survivor (2) - BE GUID: 5bdb5b5f557a423fb645cd397b772e3b
+﻿23:41:43 : Verified GUID (5bdb5b5f557a423fb645cd397b772e3b) of player #136 Survivor (2)
+﻿23:43:26 : Player #137 Survivor (5) (37.145.127.234:2304) connected
+﻿23:43:26 : Player #137 Survivor (5) - BE GUID: 3faff3f995fd846cdb4427de10febe39
+﻿23:43:27 : Verified GUID (3faff3f995fd846cdb4427de10febe39) of player #137 Survivor (5)
+﻿23:44:32 : Player #88 Survivor (4) disconnected
+﻿23:44:40 : Player #138 Survivor (4) (178.121.86.115:11092) connected
+﻿23:44:41 : Player #138 Survivor (4) - BE GUID: 83a3c050aaec3cebdd1afcae92db41aa
+﻿23:44:41 : Verified GUID (83a3c050aaec3cebdd1afcae92db41aa) of player #138 Survivor (4)
+﻿23:44:43 : Player #138 Survivor (4) disconnected
+﻿23:45:00 : RCon admin #1: (Global) BEC : Рестарт произойдёт через 15 минут.
+﻿23:45:39 : Player #138 Survivor (4) (90.154.73.176:16422) connected
+﻿23:45:39 : Player #138 Survivor (4) - BE GUID: c92e49274441fe009c3748cd8dc9d84d
+﻿23:45:40 : Verified GUID (c92e49274441fe009c3748cd8dc9d84d) of player #138 Survivor (4)
+﻿23:48:55 : Player #135 Survivor (3) disconnected
+﻿23:49:10 : Player #139 Survivor (3) (2.94.251.122:2304) connected
+﻿23:49:10 : Player #139 Survivor (3) - BE GUID: 66078637dcfec5e4a729747a974c2809
+﻿23:49:11 : Verified GUID (66078637dcfec5e4a729747a974c2809) of player #139 Survivor (3)
+﻿23:51:37 : Player #90 [O.P.G.]MHE Poxuy disconnected
+﻿23:54:06 : Player #112 Survivor (9) disconnected
+﻿23:54:19 : Lost Connection!
+﻿23:54:19 : Closing socket & exiting!
+﻿23:54:39 : Rcon client logging in
+﻿23:54:58 : RCon admin #0 (127.0.0.1:50754) logged in
+﻿23:54:58 : RCon admin #1 (127.0.0.1:55844) logged in
+﻿23:54:58 : RCon admin #1: (Global) Initializing Bec
+﻿23:54:58 : Player #0 FrukT (95.153.133.189:60081) connected
+﻿23:54:59 : Player #1 Vladlen XO (89.107.139.145:59060) connected
+﻿23:54:59 : Player #1 Vladlen XO - BE GUID: 0c5e40a23743970fe98c744d7101c19d
+﻿23:54:59 : Player #0 FrukT - BE GUID: 6d77ba702035393546a022b59c82eaf2
+﻿23:54:59 : Verified GUID (0c5e40a23743970fe98c744d7101c19d) of player #1 Vladlen XO
+﻿23:54:59 : Verified GUID (6d77ba702035393546a022b59c82eaf2) of player #0 FrukT
+﻿23:55:00 : RCon admin #1: (Global) BEC : Рестарт произойдёт через 5 минут.
+﻿23:55:08 : Player #2 Galanowen (212.96.109.97:64301) connected
+﻿23:55:09 : Player #2 Galanowen - BE GUID: e357aa92018f1ff4aad140f44ecabfdf
+﻿23:55:09 : Verified GUID (e357aa92018f1ff4aad140f44ecabfdf) of player #2 Galanowen
+﻿23:55:11 : Player #3 GobLinNL (213.127.32.150:7222) connected
+﻿23:55:11 : Player #3 GobLinNL - BE GUID: 2472bbca861c6deea729a1d35084cd5c
+﻿23:55:11 : Player #4 Lepota (5.251.7.35:2404) connected
+﻿23:55:11 : Verified GUID (2472bbca861c6deea729a1d35084cd5c) of player #3 GobLinNL
+﻿23:55:12 : Player #4 Lepota - BE GUID: 8168fd70dc415fcad16375925aa4ee2f
+﻿23:55:12 : Verified GUID (8168fd70dc415fcad16375925aa4ee2f) of player #4 Lepota
+﻿23:55:19 : Player #5 Survivor (86.57.217.251:2304) connected
+﻿23:55:19 : Player #5 Survivor - BE GUID: 93e94f3bed7ad044a126c0f365708273
+﻿23:55:20 : Verified GUID (93e94f3bed7ad044a126c0f365708273) of player #5 Survivor
+﻿23:55:22 : Player #6 Lakebwana (213.127.60.81:41900) connected
+﻿23:55:23 : Player #6 Lakebwana - BE GUID: 84e57642a567694ca346674215963c81
+﻿23:55:23 : Verified GUID (84e57642a567694ca346674215963c81) of player #6 Lakebwana
+﻿23:55:36 : Player #7 Survivor (2) (85.143.146.33:2304) connected
+﻿23:55:36 : Player #7 Survivor (2) - BE GUID: e2e240c19a1475758e6a48f812dfbe09
+﻿23:55:36 : Verified GUID (e2e240c19a1475758e6a48f812dfbe09) of player #7 Survivor (2)
+﻿23:55:49 : Player #8 Survivor (3) (90.154.73.176:16422) connected
+﻿23:55:49 : Player #8 Survivor (3) - BE GUID: c92e49274441fe009c3748cd8dc9d84d
+﻿23:55:49 : Verified GUID (c92e49274441fe009c3748cd8dc9d84d) of player #8 Survivor (3)
+﻿23:56:19 : Player #9 Survivor (4) (188.114.219.85:2304) connected
+﻿23:56:20 : Player #9 Survivor (4) - BE GUID: 5bdb5b5f557a423fb645cd397b772e3b
+﻿23:56:20 : Verified GUID (5bdb5b5f557a423fb645cd397b772e3b) of player #9 Survivor (4)
+﻿23:56:39 : Player #10 Inochitory (178.44.0.168:2404) connected
+﻿23:56:39 : Player #10 Inochitory - BE GUID: c81e6dbc29eebc493eb6c2fff5b05040
+﻿23:56:40 : Verified GUID (c81e6dbc29eebc493eb6c2fff5b05040) of player #10 Inochitory
+﻿23:57:22 : Player #11 Survivor (5) (5.228.154.115:2304) connected
+﻿23:57:23 : Player #11 Survivor (5) - BE GUID: 5eda3ffa4b0d29b522b145bd5750f577
+﻿23:57:23 : Verified GUID (5eda3ffa4b0d29b522b145bd5750f577) of player #11 Survivor (5)
+﻿23:59:00 : RCon admin #1: (Global) BEC : Рестарт произойдёт через 1 минуту.
+﻿23:59:29 : Player #10 Inochitory disconnected

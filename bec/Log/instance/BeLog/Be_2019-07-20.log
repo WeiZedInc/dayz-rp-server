@@ -1,0 +1,940 @@
+﻿00:00:01 : Player #3 ReveR_TV disconnected
+﻿00:00:02 : Lost Connection!
+﻿00:00:02 : Closing socket & exiting!
+﻿00:00:26 : Lost Connection!
+﻿00:00:26 : Closing socket & exiting!
+﻿00:00:40 : Rcon client logging in
+﻿00:01:57 : No Valid response. Trying to reconnect.!
+﻿00:01:57 : Rcon client logging in
+﻿00:01:57 : RCon admin #0 (127.0.0.1:51518) logged in
+﻿00:02:14 : Player #1 ReveR_TV (46.173.4.91:2304) connected
+﻿00:02:14 : Player #1 ReveR_TV - BE GUID: 0e7e984278c4b6e7599186a3052cd788
+﻿00:02:15 : Verified GUID (0e7e984278c4b6e7599186a3052cd788) of player #1 ReveR_TV
+﻿00:04:46 : Player #2 Grin (37.18.41.173:2304) connected
+﻿00:04:46 : Player #2 Grin - BE GUID: 592bff2d5365e83ebfd0e4d31316e07a
+﻿00:04:47 : Verified GUID (592bff2d5365e83ebfd0e4d31316e07a) of player #2 Grin
+﻿00:11:03 : Player #3 leva (95.46.40.22:2304) connected
+﻿00:11:03 : Player #3 leva - BE GUID: 0f7f533a15fd861fc914d8decf016ae1
+﻿00:11:04 : Verified GUID (0f7f533a15fd861fc914d8decf016ae1) of player #3 leva
+﻿00:14:16 : Player #4 BuGaGaShEnKa(�������) (95.158.192.102:2304) connected
+﻿00:14:16 : Player #4 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿00:14:17 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #4 BuGaGaShEnKa(�������)
+﻿00:23:31 : Player #5 Simple (176.65.112.222:2304) connected
+﻿00:23:31 : Player #5 Simple - BE GUID: f623883c7ae5fcf11981790670fef404
+﻿00:23:31 : Verified GUID (f623883c7ae5fcf11981790670fef404) of player #5 Simple
+﻿00:24:53 : Player #4 BuGaGaShEnKa(�������) disconnected
+﻿00:24:55 : Player #6 BuGaGaShEnKa(�������) (95.158.192.102:2304) connected
+﻿00:24:55 : Player #6 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿00:24:56 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #6 BuGaGaShEnKa(�������)
+﻿00:34:04 : Player #7 Diezel (37.147.132.94:2304) connected
+﻿00:34:04 : Player #7 Diezel - BE GUID: a99da4426f9fe7cc16bcb939e306f2df
+﻿00:34:04 : Verified GUID (a99da4426f9fe7cc16bcb939e306f2df) of player #7 Diezel
+﻿00:42:41 : Player #8 Umbrella (95.139.149.69:2304) connected
+﻿00:42:41 : Player #8 Umbrella - BE GUID: aa298e483dc77e2172b02fe9b75fe1c1
+﻿00:42:41 : Verified GUID (aa298e483dc77e2172b02fe9b75fe1c1) of player #8 Umbrella
+﻿00:44:28 : RCon admin #1 (217.19.216.236:2094) logged in
+﻿00:46:37 : Player #9 PSIX (217.107.115.211:14597) connected
+﻿00:46:38 : Player #9 PSIX - BE GUID: 36715ec8949f05adb2ca84db82f6d80e
+﻿00:46:38 : Verified GUID (36715ec8949f05adb2ca84db82f6d80e) of player #9 PSIX
+﻿00:47:37 : Player #9 PSIX disconnected
+﻿00:47:42 : Player #9 PSIX (217.107.115.211:14597) connected
+﻿00:47:43 : Player #9 PSIX - BE GUID: 36715ec8949f05adb2ca84db82f6d80e
+﻿00:47:43 : Verified GUID (36715ec8949f05adb2ca84db82f6d80e) of player #9 PSIX
+﻿00:48:34 : Player #9 PSIX disconnected
+﻿00:48:51 : Player #9 PSIX (217.107.115.211:14597) connected
+﻿00:48:52 : Player #9 PSIX - BE GUID: 36715ec8949f05adb2ca84db82f6d80e
+﻿00:48:52 : Verified GUID (36715ec8949f05adb2ca84db82f6d80e) of player #9 PSIX
+﻿00:54:25 : Player #5 Simple disconnected
+﻿01:28:01 : Player #6 BuGaGaShEnKa(�������) disconnected
+﻿01:28:07 : Player #10 BuGaGaShEnKa(�������) (95.158.192.102:2304) connected
+﻿01:28:07 : Player #10 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿01:28:07 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #10 BuGaGaShEnKa(�������)
+﻿01:32:27 : Player #0 sniper disconnected
+﻿01:36:09 : Player #1 ReveR_TV disconnected
+﻿01:36:17 : Player #2 Grin disconnected
+﻿02:00:35 : Player #11 Samurai (92.37.153.144:2304) connected
+﻿02:00:36 : Player #11 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿02:00:36 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #11 Samurai
+﻿02:04:11 : Player #10 BuGaGaShEnKa(�������) disconnected
+﻿02:04:11 : Player #9 PSIX disconnected
+﻿02:06:03 : Player #12 PSIX (217.107.115.211:14597) connected
+﻿02:06:04 : Player #12 PSIX - BE GUID: 36715ec8949f05adb2ca84db82f6d80e
+﻿02:06:04 : Verified GUID (36715ec8949f05adb2ca84db82f6d80e) of player #12 PSIX
+﻿02:24:05 : Player #11 Samurai disconnected
+﻿02:35:46 : Player #13 Samurai (92.37.153.144:2304) connected
+﻿02:35:46 : Player #13 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿02:35:47 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #13 Samurai
+﻿02:46:27 : Player #13 Samurai disconnected
+﻿02:46:43 : Player #3 leva disconnected
+﻿02:49:48 : Player #13 leva (95.46.40.22:2304) connected
+﻿02:49:48 : Player #13 leva - BE GUID: 0f7f533a15fd861fc914d8decf016ae1
+﻿02:49:48 : Verified GUID (0f7f533a15fd861fc914d8decf016ae1) of player #13 leva
+﻿02:50:15 : Player #14 BuGaGaShEnKa(�������) (95.158.192.102:2304) connected
+﻿02:50:16 : Player #14 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿02:50:16 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #14 BuGaGaShEnKa(�������)
+﻿03:01:46 : Player #7 Diezel disconnected
+﻿03:04:29 : Player #15 Samurai (92.37.153.144:2304) connected
+﻿03:04:30 : Player #15 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿03:04:30 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #15 Samurai
+﻿03:08:23 : Player #13 leva disconnected
+﻿03:14:08 : Player #15 Samurai disconnected
+﻿03:20:44 : Player #15 Samurai (92.37.153.144:2304) connected
+﻿03:20:44 : Player #15 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿03:20:44 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #15 Samurai
+﻿03:21:11 : Player #14 BuGaGaShEnKa(�������) disconnected
+﻿03:23:35 : Player #16 Diezel (37.147.132.94:2304) connected
+﻿03:23:36 : Player #16 Diezel - BE GUID: a99da4426f9fe7cc16bcb939e306f2df
+﻿03:23:37 : Verified GUID (a99da4426f9fe7cc16bcb939e306f2df) of player #16 Diezel
+﻿03:26:53 : Player #17 BuGaGaShEnKa(�������) (95.158.204.101:2304) connected
+﻿03:26:53 : Player #17 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿03:26:53 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #17 BuGaGaShEnKa(�������)
+﻿03:39:51 : Player #18 Flakon (91.205.160.247:42235) connected
+﻿03:39:51 : Player #18 Flakon - BE GUID: bb08e3a70da521859d2552c2f5bb0b54
+﻿03:39:52 : Verified GUID (bb08e3a70da521859d2552c2f5bb0b54) of player #18 Flakon
+﻿03:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿03:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿03:55:50 : Player #18 Flakon disconnected
+﻿03:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿03:59:22 : Player #12 PSIX disconnected
+﻿03:59:59 : Player #16 Diezel disconnected
+﻿04:00:01 : Player #8 Umbrella disconnected
+﻿04:00:05 : Lost Connection!
+﻿04:00:05 : Closing socket & exiting!
+﻿04:00:09 : Lost Connection!
+﻿04:00:09 : Closing socket & exiting!
+﻿04:00:36 : Lost Connection!
+﻿04:00:36 : Closing socket & exiting!
+﻿04:00:50 : Rcon client logging in
+﻿04:02:07 : No Valid response. Trying to reconnect.!
+﻿04:02:07 : Rcon client logging in
+﻿04:02:07 : RCon admin #0 (127.0.0.1:52685) logged in
+﻿04:08:51 : Player #3 Flakon (91.205.160.247:1481) connected
+﻿04:08:52 : Player #3 Flakon - BE GUID: bb08e3a70da521859d2552c2f5bb0b54
+﻿04:08:52 : Verified GUID (bb08e3a70da521859d2552c2f5bb0b54) of player #3 Flakon
+﻿04:14:47 : Player #4 PSIX (217.107.115.211:9190) connected
+﻿04:14:47 : Player #4 PSIX - BE GUID: 36715ec8949f05adb2ca84db82f6d80e
+﻿04:14:47 : Verified GUID (36715ec8949f05adb2ca84db82f6d80e) of player #4 PSIX
+﻿04:41:20 : Player #4 PSIX disconnected
+﻿04:47:55 : Player #4 Samurai (92.37.153.144:2304) connected
+﻿04:47:56 : Player #4 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿04:47:56 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #4 Samurai
+﻿05:23:35 : Player #5 Sibiryak (62.33.99.148:2304) connected
+﻿05:23:35 : Player #5 Sibiryak - BE GUID: 3c69c6d7f246d9e28b27fd4a4847c1e3
+﻿05:23:36 : Verified GUID (3c69c6d7f246d9e28b27fd4a4847c1e3) of player #5 Sibiryak
+﻿05:49:20 : Player #4 Samurai disconnected
+﻿05:50:08 : Player #6 Samurai (92.37.153.144:2304) connected
+﻿05:50:09 : Player #6 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿05:50:09 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #6 Samurai
+﻿06:07:46 : Player #7 Federal25reg (86.102.43.116:2304) connected
+﻿06:07:46 : Player #7 Federal25reg - BE GUID: c1e78c3ca041abe686068789fa1df936
+﻿06:07:46 : Verified GUID (c1e78c3ca041abe686068789fa1df936) of player #7 Federal25reg
+﻿06:16:00 : Player #8 Dgoni (79.105.4.254:2304) connected
+﻿06:16:02 : Player #8 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿06:16:03 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #8 Dgoni
+﻿06:29:20 : Player #5 Sibiryak disconnected
+﻿06:34:43 : Player #1 Umbrella disconnected
+﻿06:35:11 : Player #9 Umbrella (95.139.149.69:2304) connected
+﻿06:35:12 : Player #9 Umbrella - BE GUID: aa298e483dc77e2172b02fe9b75fe1c1
+﻿06:35:12 : Verified GUID (aa298e483dc77e2172b02fe9b75fe1c1) of player #9 Umbrella
+﻿06:40:58 : Player #7 Federal25reg disconnected
+﻿06:43:48 : Player #9 Umbrella disconnected
+﻿06:48:46 : Player #9 Yakut (62.33.99.146:2304) connected
+﻿06:48:47 : Player #9 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿06:48:47 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #9 Yakut
+﻿06:54:29 : Player #9 Yakut disconnected
+﻿06:56:07 : Player #8 Dgoni disconnected
+﻿06:56:24 : Player #7 Dgoni (79.105.4.254:2304) connected
+﻿06:56:24 : Player #7 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿06:56:25 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #7 Dgoni
+﻿07:02:56 : Player #2 Diezel disconnected
+﻿07:07:36 : Player #8 Makbass (95.79.155.5:2304) connected
+﻿07:07:37 : Player #8 Makbass - BE GUID: 588dcdb9508a7e045b6438b599a1b34e
+﻿07:07:37 : Verified GUID (588dcdb9508a7e045b6438b599a1b34e) of player #8 Makbass
+﻿07:10:45 : Player #7 Dgoni disconnected
+﻿07:12:45 : Player #9 FeliX (79.164.102.118:2304) connected
+﻿07:12:47 : Player #9 FeliX - BE GUID: a5ba28a6e535051f5fbfbb90c229d9ad
+﻿07:12:47 : Verified GUID (a5ba28a6e535051f5fbfbb90c229d9ad) of player #9 FeliX
+﻿07:13:51 : Player #8 Makbass disconnected
+﻿07:15:28 : Player #6 Samurai disconnected
+﻿07:17:08 : Player #9 FeliX disconnected
+﻿07:29:49 : Player #4 Makbass (95.79.155.5:2304) connected
+﻿07:29:50 : Player #4 Makbass - BE GUID: 588dcdb9508a7e045b6438b599a1b34e
+﻿07:29:50 : Verified GUID (588dcdb9508a7e045b6438b599a1b34e) of player #4 Makbass
+﻿07:30:19 : Player #5 Yakut (62.33.99.146:2304) connected
+﻿07:30:19 : Player #5 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿07:30:19 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #5 Yakut
+﻿07:32:14 : Player #0 BuGaGaShEnKa(�������) disconnected
+﻿07:41:29 : Player #5 Yakut disconnected
+﻿07:43:49 : Player #5 Vakosso (89.250.158.144:2304) connected
+﻿07:43:49 : Player #5 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿07:43:49 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #5 Vakosso
+﻿07:44:23 : Player #6 Yakut (62.33.99.146:2304) connected
+﻿07:44:23 : Player #6 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿07:44:24 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #6 Yakut
+﻿07:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿07:49:50 : Player #3 Flakon disconnected
+﻿07:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿07:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿08:00:01 : Player #4 Makbass disconnected
+﻿08:00:02 : Lost Connection!
+﻿08:00:02 : Closing socket & exiting!
+﻿08:00:08 : Lost Connection!
+﻿08:00:08 : Closing socket & exiting!
+﻿08:00:35 : Lost Connection!
+﻿08:00:35 : Closing socket & exiting!
+﻿08:00:49 : Rcon client logging in
+﻿08:02:10 : No Valid response. Trying to reconnect.!
+﻿08:02:10 : Rcon client logging in
+﻿08:02:10 : RCon admin #0 (127.0.0.1:54860) logged in
+﻿08:02:27 : Player #1 Yakut (62.33.99.146:2304) connected
+﻿08:02:27 : Player #1 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿08:02:27 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #1 Yakut
+﻿08:04:10 : Player #2 Flakon (91.205.160.247:14061) connected
+﻿08:04:11 : Player #2 Flakon - BE GUID: bb08e3a70da521859d2552c2f5bb0b54
+﻿08:04:11 : Verified GUID (bb08e3a70da521859d2552c2f5bb0b54) of player #2 Flakon
+﻿08:04:45 : Player #3 Pelmenlalala (95.37.70.241:2304) connected
+﻿08:04:46 : Player #3 Pelmenlalala - BE GUID: 80795104f06a981eea1ddf4ab2ac4156
+﻿08:04:46 : Verified GUID (80795104f06a981eea1ddf4ab2ac4156) of player #3 Pelmenlalala
+﻿08:10:19 : Player #4 Makbass (95.79.155.5:2304) connected
+﻿08:10:20 : Player #4 Makbass - BE GUID: 588dcdb9508a7e045b6438b599a1b34e
+﻿08:10:20 : Verified GUID (588dcdb9508a7e045b6438b599a1b34e) of player #4 Makbass
+﻿08:20:14 : RCon admin #1 (217.19.216.236:1026) logged in
+﻿08:27:40 : Player #5 Angryman (141.105.46.212:2304) connected
+﻿08:27:41 : Player #5 Angryman - BE GUID: 8318e33d3171a7282af4832b2e089b1d
+﻿08:27:41 : Verified GUID (8318e33d3171a7282af4832b2e089b1d) of player #5 Angryman
+﻿08:43:46 : Player #1 Yakut disconnected
+﻿08:55:02 : Player #6 Sibiryak (62.33.99.148:2304) connected
+﻿08:55:03 : Player #6 Sibiryak - BE GUID: 3c69c6d7f246d9e28b27fd4a4847c1e3
+﻿08:55:03 : Verified GUID (3c69c6d7f246d9e28b27fd4a4847c1e3) of player #6 Sibiryak
+﻿08:59:21 : Player #2 Flakon disconnected
+﻿09:03:06 : Player #7 Broguos Organa (95.73.168.187:2304) connected
+﻿09:03:07 : Player #7 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿09:03:07 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #7 Broguos Organa
+﻿09:13:36 : Player #3 Pelmenlalala disconnected
+﻿09:14:30 : Player #8 Pelmenlalala (95.37.70.241:2304) connected
+﻿09:14:30 : Player #8 Pelmenlalala - BE GUID: 80795104f06a981eea1ddf4ab2ac4156
+﻿09:14:30 : Verified GUID (80795104f06a981eea1ddf4ab2ac4156) of player #8 Pelmenlalala
+﻿09:28:00 : RCon admin #2 (217.19.216.236:7012) logged in
+﻿09:28:29 : RCon admin #1 (217.19.216.236:6080) logged in
+﻿09:29:26 : Player #5 Angryman disconnected
+﻿09:30:28 : Player #9 Flakon (91.205.160.247:33684) connected
+﻿09:30:28 : Player #9 Flakon - BE GUID: bb08e3a70da521859d2552c2f5bb0b54
+﻿09:30:29 : Verified GUID (bb08e3a70da521859d2552c2f5bb0b54) of player #9 Flakon
+﻿09:34:09 : Player #10 Angryman (141.105.46.212:2304) connected
+﻿09:34:09 : Player #10 Angryman - BE GUID: 8318e33d3171a7282af4832b2e089b1d
+﻿09:34:09 : Verified GUID (8318e33d3171a7282af4832b2e089b1d) of player #10 Angryman
+﻿09:43:05 : Player #4 Makbass disconnected
+﻿09:44:05 : Player #11 Makbass (95.79.155.5:2304) connected
+﻿09:44:08 : Player #11 Makbass - BE GUID: 588dcdb9508a7e045b6438b599a1b34e
+﻿09:44:09 : Verified GUID (588dcdb9508a7e045b6438b599a1b34e) of player #11 Makbass
+﻿09:48:31 : Player #12 scream (37.192.182.158:2304) connected
+﻿09:48:32 : Player #12 scream - BE GUID: 3ecf2a77779bd1aae9ac24d4eab1a613
+﻿09:48:32 : Verified GUID (3ecf2a77779bd1aae9ac24d4eab1a613) of player #12 scream
+﻿09:51:31 : RCon admin #2 (217.19.216.236:1029) logged in
+﻿09:57:08 : RCon admin #1 (217.19.216.236:1030) logged in
+﻿09:57:29 : Player #10 Angryman disconnected
+﻿10:03:07 : Player #13 Kotlas (109.252.70.22:11876) connected
+﻿10:03:07 : Player #13 Kotlas - BE GUID: 66fb623ae3b57895671f45b40cb3d62b
+﻿10:03:08 : Verified GUID (66fb623ae3b57895671f45b40cb3d62b) of player #13 Kotlas
+﻿10:22:37 : Player #11 Makbass disconnected
+﻿10:23:04 : Player #14 Dony (217.19.216.236:2304) connected
+﻿10:23:04 : Player #14 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿10:23:04 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #14 Dony
+﻿10:23:36 : Player #0 Vakosso disconnected
+﻿10:28:07 : Player #14 Dony disconnected
+﻿10:28:44 : Player #9 Flakon disconnected
+﻿10:32:06 : Player #14 Flakon (91.205.160.247:60642) connected
+﻿10:32:07 : Player #14 Flakon - BE GUID: bb08e3a70da521859d2552c2f5bb0b54
+﻿10:32:07 : Verified GUID (bb08e3a70da521859d2552c2f5bb0b54) of player #14 Flakon
+﻿10:33:32 : Player #15 Dgoni (79.105.67.190:2304) connected
+﻿10:33:33 : Player #15 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿10:33:33 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #15 Dgoni
+﻿10:58:46 : RCon admin #2 (217.19.216.236:1084) logged in
+﻿11:02:40 : Player #8 Pelmenlalala disconnected
+﻿11:05:39 : Player #16 PSIX (217.107.115.211:4413) connected
+﻿11:05:40 : Player #16 PSIX - BE GUID: 36715ec8949f05adb2ca84db82f6d80e
+﻿11:05:40 : Verified GUID (36715ec8949f05adb2ca84db82f6d80e) of player #16 PSIX
+﻿11:07:13 : Player #13 Kotlas disconnected
+﻿11:08:17 : RCon admin #1 (217.19.216.236:1035) logged in
+﻿11:09:43 : Player #17 MYXAMOP (85.26.233.209:46149) connected
+﻿11:09:44 : Player #17 MYXAMOP - BE GUID: f5f4e62b2d3d71ed10ac96a652de6897
+﻿11:09:45 : Verified GUID (f5f4e62b2d3d71ed10ac96a652de6897) of player #17 MYXAMOP
+﻿11:10:43 : Player #7 Broguos Organa disconnected
+﻿11:14:05 : Player #18 sniper (37.214.52.42:7514) connected
+﻿11:14:05 : Player #18 sniper - BE GUID: 9567b09448b4d7464fc924fa5f2a3bdc
+﻿11:14:05 : Verified GUID (9567b09448b4d7464fc924fa5f2a3bdc) of player #18 sniper
+﻿11:18:06 : Player #19 Broguos Organa (95.73.168.187:2304) connected
+﻿11:18:06 : Player #19 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿11:18:07 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #19 Broguos Organa
+﻿11:21:31 : Player #20 Pelmenlalala (95.37.70.241:2304) connected
+﻿11:21:32 : Player #20 Pelmenlalala - BE GUID: 80795104f06a981eea1ddf4ab2ac4156
+﻿11:21:32 : Verified GUID (80795104f06a981eea1ddf4ab2ac4156) of player #20 Pelmenlalala
+﻿11:32:51 : Player #16 PSIX disconnected
+﻿11:39:54 : RCon admin #2 (217.19.216.236:1032) logged in
+﻿11:41:31 : Player #21 Dony (217.19.216.236:2304) connected
+﻿11:41:31 : Player #21 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿11:41:32 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #21 Dony
+﻿11:44:08 : Player #21 Dony disconnected
+﻿11:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿11:45:06 : Player #21 Dony (217.19.216.236:2304) connected
+﻿11:45:06 : Player #21 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿11:45:06 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #21 Dony
+﻿11:46:01 : Player #17 MYXAMOP disconnected
+﻿11:50:10 : Player #22 Yakut (62.33.99.146:2304) connected
+﻿11:50:10 : Player #22 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿11:50:10 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #22 Yakut
+﻿11:52:58 : Player #21 Dony disconnected
+﻿11:54:22 : Player #19 Broguos Organa disconnected
+﻿11:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿11:55:39 : Player #15 Dgoni disconnected
+﻿11:56:29 : Player #18 sniper disconnected
+﻿11:57:25 : Player #14 Flakon disconnected
+﻿11:58:10 : Player #22 Yakut disconnected
+﻿11:58:11 : Player #6 Sibiryak disconnected
+﻿11:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿12:00:01 : Player #12 scream disconnected
+﻿12:00:04 : Lost Connection!
+﻿12:00:04 : Closing socket & exiting!
+﻿12:00:31 : Lost Connection!
+﻿12:00:31 : Closing socket & exiting!
+﻿12:00:45 : Rcon client logging in
+﻿12:02:02 : No Valid response. Trying to reconnect.!
+﻿12:02:02 : Rcon client logging in
+﻿12:02:02 : RCon admin #1 (127.0.0.1:55859) logged in
+﻿12:04:19 : Player #4 Samurai (92.37.153.144:2304) connected
+﻿12:04:19 : Player #4 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿12:04:20 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #4 Samurai
+﻿12:04:49 : Player #5 Dgoni (79.105.67.190:2304) connected
+﻿12:04:50 : Player #5 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿12:04:51 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #5 Dgoni
+﻿12:05:38 : Player #6 Broguos Organa (95.73.168.187:2304) connected
+﻿12:05:39 : Player #6 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿12:05:39 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #6 Broguos Organa
+﻿12:09:29 : Player #4 Samurai disconnected
+﻿12:11:04 : Player #7 Dony (217.19.216.236:2304) connected
+﻿12:11:04 : Player #7 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿12:11:05 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #7 Dony
+﻿12:14:03 : RCon admin #2 (217.19.216.236:1030) logged in
+﻿12:16:52 : Player #8 Makbass (95.79.155.5:2304) connected
+﻿12:16:53 : Player #8 Makbass - BE GUID: 588dcdb9508a7e045b6438b599a1b34e
+﻿12:16:53 : Verified GUID (588dcdb9508a7e045b6438b599a1b34e) of player #8 Makbass
+﻿12:17:59 : No Valid response. Trying to reconnect.!
+﻿12:17:59 : Rcon client logging in
+﻿12:17:59 : RCon admin #0 (127.0.0.1:55859) logged in
+﻿12:19:09 : Player #9 Yakut (62.33.99.146:2304) connected
+﻿12:19:10 : Player #9 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿12:19:10 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #9 Yakut
+﻿12:20:06 : Player #10 Samurai (92.37.153.144:2304) connected
+﻿12:20:06 : Player #10 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿12:20:06 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #10 Samurai
+﻿12:23:06 : Player #11 Kotlas (109.252.70.22:2789) connected
+﻿12:23:06 : Player #11 Kotlas - BE GUID: 66fb623ae3b57895671f45b40cb3d62b
+﻿12:23:06 : Verified GUID (66fb623ae3b57895671f45b40cb3d62b) of player #11 Kotlas
+﻿12:27:53 : RCon admin #0: (To scream) Do not use Global chat. Warnings left:4
+﻿12:29:38 : Player #9 Yakut disconnected
+﻿12:29:38 : Player #12 Yakut (62.33.99.146:2304) connected
+﻿12:29:39 : Player #12 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿12:29:39 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #12 Yakut
+﻿12:31:37 : Player #2 Pelmenlalala disconnected
+﻿12:47:28 : Player #0 sniper disconnected
+﻿12:51:13 : Player #13 Pelmenlalala (95.37.70.241:2304) connected
+﻿12:51:13 : Player #13 Pelmenlalala - BE GUID: 80795104f06a981eea1ddf4ab2ac4156
+﻿12:51:13 : Verified GUID (80795104f06a981eea1ddf4ab2ac4156) of player #13 Pelmenlalala
+﻿12:52:31 : Player #14 PSIX (217.107.115.211:4367) connected
+﻿12:52:31 : Player #14 PSIX - BE GUID: 36715ec8949f05adb2ca84db82f6d80e
+﻿12:52:31 : Verified GUID (36715ec8949f05adb2ca84db82f6d80e) of player #14 PSIX
+﻿12:52:57 : RCon admin #1 (217.19.216.236:1030) logged in
+﻿12:53:18 : Player #8 Makbass disconnected
+﻿12:56:19 : RCon admin #0: (To scream) Do not use Global chat. Warnings left:3
+﻿12:57:11 : RCon admin #0: (To scream) Do not use Global chat. Warnings left:2
+﻿13:05:09 : RCon admin #1 (217.19.216.236:1030) logged in
+﻿13:06:47 : Player #15 sniper (37.214.52.42:22344) connected
+﻿13:06:47 : Player #15 sniper - BE GUID: 9567b09448b4d7464fc924fa5f2a3bdc
+﻿13:06:48 : Verified GUID (9567b09448b4d7464fc924fa5f2a3bdc) of player #15 sniper
+﻿13:13:24 : Player #16 MadFrol (46.0.220.34:52156) connected
+﻿13:13:25 : Player #16 MadFrol - BE GUID: 1de1dbde200d1079b48ec97ed8bfbaab
+﻿13:13:25 : Verified GUID (1de1dbde200d1079b48ec97ed8bfbaab) of player #16 MadFrol
+﻿13:13:45 : Player #17 Simple (176.65.112.237:2304) connected
+﻿13:13:45 : Player #17 Simple - BE GUID: f623883c7ae5fcf11981790670fef404
+﻿13:13:46 : Verified GUID (f623883c7ae5fcf11981790670fef404) of player #17 Simple
+﻿13:28:20 : Player #12 Yakut disconnected
+﻿13:28:26 : Player #18 Yakut (62.33.99.146:2304) connected
+﻿13:28:28 : Player #18 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿13:28:28 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #18 Yakut
+﻿13:34:53 : Player #3 Sibiryak disconnected
+﻿13:34:55 : Player #19 Sibiryak (62.33.99.148:2304) connected
+﻿13:34:55 : Player #19 Sibiryak - BE GUID: 3c69c6d7f246d9e28b27fd4a4847c1e3
+﻿13:34:56 : Verified GUID (3c69c6d7f246d9e28b27fd4a4847c1e3) of player #19 Sibiryak
+﻿13:39:53 : Player #10 Samurai disconnected
+﻿13:44:20 : Player #20 Dzho (188.0.175.208:18623) connected
+﻿13:44:20 : Player #20 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿13:44:21 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #20 Dzho
+﻿13:44:22 : Player #20 Dzho disconnected
+﻿13:45:22 : Player #20 Dzho (188.0.175.208:18623) connected
+﻿13:45:23 : Player #20 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿13:45:23 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #20 Dzho
+﻿13:48:04 : Player #20 Dzho disconnected
+﻿13:48:30 : RCon admin #2 (217.19.216.236:21537) logged in
+﻿13:49:09 : Player #5 Dgoni disconnected
+﻿13:49:34 : Player #20 Dzho (188.0.175.208:18623) connected
+﻿13:49:34 : Player #20 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿13:49:34 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #20 Dzho
+﻿13:50:45 : Player #1 scream disconnected
+﻿13:53:36 : RCon admin #1 (217.19.216.236:28644) logged in
+﻿13:54:38 : Player #21 Keksfm (188.134.71.211:2304) connected
+﻿13:54:39 : Player #21 Keksfm - BE GUID: a7ca1dd7b314eea544f10fb596c7b604
+﻿13:54:39 : Verified GUID (a7ca1dd7b314eea544f10fb596c7b604) of player #21 Keksfm
+﻿13:59:35 : Player #22 Dgoni (79.105.67.190:2304) connected
+﻿13:59:36 : Player #22 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿13:59:36 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #22 Dgoni
+﻿14:00:26 : Player #22 Dgoni disconnected
+﻿14:03:18 : Player #6 Broguos Organa disconnected
+﻿14:06:52 : RCon admin #2 (217.19.216.236:1033) logged in
+﻿14:07:50 : Player #22 Vakosso (89.250.158.144:2304) connected
+﻿14:07:50 : Player #22 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿14:07:51 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #22 Vakosso
+﻿14:16:27 : Player #23 Dgoni (79.105.67.190:2304) connected
+﻿14:16:27 : Player #23 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿14:16:28 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #23 Dgoni
+﻿14:17:02 : Player #20 Dzho disconnected
+﻿14:20:20 : Player #24 Agaaseichas (92.38.77.12:8986) connected
+﻿14:20:21 : Player #24 Agaaseichas - BE GUID: 488bbc6337f0ff04b6bb9555548702f5
+﻿14:20:21 : Verified GUID (488bbc6337f0ff04b6bb9555548702f5) of player #24 Agaaseichas
+﻿14:20:44 : Player #14 PSIX disconnected
+﻿14:21:43 : Player #25 Dzho (188.0.175.208:2250) connected
+﻿14:21:43 : Player #25 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿14:21:43 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #25 Dzho
+﻿14:23:17 : Player #26 Broguos Organa (95.73.168.187:2304) connected
+﻿14:23:18 : Player #26 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿14:23:18 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #26 Broguos Organa
+﻿14:23:58 : Player #13 Pelmenlalala disconnected
+﻿14:26:30 : Player #21 Keksfm disconnected
+﻿14:28:49 : Player #11 Kotlas disconnected
+﻿14:35:47 : Player #27 Kotlas (109.252.70.22:11875) connected
+﻿14:35:48 : Player #27 Kotlas - BE GUID: 66fb623ae3b57895671f45b40cb3d62b
+﻿14:35:48 : Verified GUID (66fb623ae3b57895671f45b40cb3d62b) of player #27 Kotlas
+﻿14:37:26 : Player #27 Kotlas disconnected
+﻿14:39:20 : Player #17 Simple disconnected
+﻿14:45:41 : Player #16 MadFrol disconnected
+﻿14:45:51 : Player #18 Yakut disconnected
+﻿14:50:19 : Player #27 Yakut (62.33.99.146:2304) connected
+﻿14:50:20 : Player #27 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿14:50:21 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #27 Yakut
+﻿14:50:21 : Player #27 Yakut disconnected
+﻿14:51:57 : Player #27 MadFrol (46.0.220.34:51700) connected
+﻿14:51:59 : Player #27 MadFrol - BE GUID: 1de1dbde200d1079b48ec97ed8bfbaab
+﻿14:52:00 : Verified GUID (1de1dbde200d1079b48ec97ed8bfbaab) of player #27 MadFrol
+﻿14:55:42 : Player #28 BuGaGaShEnKa(�������) (95.158.204.101:2304) connected
+﻿14:55:43 : Player #28 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿14:55:43 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #28 BuGaGaShEnKa(�������)
+﻿15:04:02 : Player #29 Yakut (62.33.99.146:2304) connected
+﻿15:04:02 : Player #29 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿15:04:02 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #29 Yakut
+﻿15:05:03 : Player #15 sniper disconnected
+﻿15:07:03 : Player #28 BuGaGaShEnKa(�������) disconnected
+﻿15:07:05 : Player #30 BuGaGaShEnKa(�������) (95.158.204.101:2304) connected
+﻿15:07:06 : Player #30 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿15:07:06 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #30 BuGaGaShEnKa(�������)
+﻿15:11:22 : Player #31 scream (37.192.182.158:2304) connected
+﻿15:11:22 : Player #31 scream - BE GUID: 3ecf2a77779bd1aae9ac24d4eab1a613
+﻿15:11:22 : Verified GUID (3ecf2a77779bd1aae9ac24d4eab1a613) of player #31 scream
+﻿15:12:51 : Player #32 Keksfm (188.134.71.211:2304) connected
+﻿15:12:51 : Player #32 Keksfm - BE GUID: a7ca1dd7b314eea544f10fb596c7b604
+﻿15:12:51 : Verified GUID (a7ca1dd7b314eea544f10fb596c7b604) of player #32 Keksfm
+﻿15:18:49 : Player #24 Agaaseichas disconnected
+﻿15:20:37 : Player #30 BuGaGaShEnKa(�������) disconnected
+﻿15:20:42 : Player #33 BuGaGaShEnKa(�������) (95.158.204.101:2304) connected
+﻿15:20:43 : Player #33 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿15:20:43 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #33 BuGaGaShEnKa(�������)
+﻿15:22:37 : Player #34 Samurai (92.37.153.144:2304) connected
+﻿15:22:37 : Player #34 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿15:22:38 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #34 Samurai
+﻿15:28:09 : Lost Connection!
+﻿15:28:09 : Closing socket & exiting!
+﻿15:30:33 : Lost Connection!
+﻿15:30:33 : Closing socket & exiting!
+﻿15:30:47 : Rcon client logging in
+﻿15:32:17 : No Valid response. Trying to reconnect.!
+﻿15:32:17 : Rcon client logging in
+﻿15:32:17 : RCon admin #0 (127.0.0.1:65115) logged in
+﻿15:32:31 : Player #6 Dzho (188.0.175.208:2511) connected
+﻿15:32:31 : Player #6 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿15:32:32 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #6 Dzho
+﻿15:32:37 : Player #7 Samurai (92.37.153.144:2304) connected
+﻿15:32:38 : Player #7 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿15:32:38 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #7 Samurai
+﻿15:32:59 : Player #8 Simple (176.65.112.237:2304) connected
+﻿15:33:00 : Player #8 Simple - BE GUID: f623883c7ae5fcf11981790670fef404
+﻿15:33:01 : Verified GUID (f623883c7ae5fcf11981790670fef404) of player #8 Simple
+﻿15:36:42 : Player #9 Dgoni (79.105.67.190:2304) connected
+﻿15:36:42 : Player #9 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿15:36:43 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #9 Dgoni
+﻿15:39:16 : Player #10 Vakosso (89.250.158.144:2304) connected
+﻿15:39:17 : Player #10 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿15:39:17 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #10 Vakosso
+﻿15:39:36 : Player #11 Keksfm (188.134.71.211:2304) connected
+﻿15:39:36 : Player #11 Keksfm - BE GUID: a7ca1dd7b314eea544f10fb596c7b604
+﻿15:39:37 : Verified GUID (a7ca1dd7b314eea544f10fb596c7b604) of player #11 Keksfm
+﻿15:42:09 : Player #11 Keksfm disconnected
+﻿15:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿15:48:35 : Player #4 BuGaGaShEnKa(�������) disconnected
+﻿15:49:28 : Player #8 Simple disconnected
+﻿15:51:34 : Player #11 BuGaGaShEnKa(�������) (95.158.204.101:2304) connected
+﻿15:51:34 : Player #11 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿15:51:34 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #11 BuGaGaShEnKa(�������)
+﻿15:51:47 : Player #12 Keksfm (188.134.71.211:2304) connected
+﻿15:51:48 : Player #12 Keksfm - BE GUID: a7ca1dd7b314eea544f10fb596c7b604
+﻿15:51:48 : Verified GUID (a7ca1dd7b314eea544f10fb596c7b604) of player #12 Keksfm
+﻿15:52:18 : Player #13 BearvsLeo95 (213.108.170.183:36096) connected
+﻿15:52:18 : Player #13 BearvsLeo95 - BE GUID: c8affc3211da0eb57889c74d1e39928b
+﻿15:52:24 : Player #13 BearvsLeo95 disconnected
+﻿15:54:28 : Player #3 MadFrol disconnected
+﻿15:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿15:56:30 : Player #10 Vakosso disconnected
+﻿15:57:36 : Player #6 Dzho disconnected
+﻿15:58:57 : Player #0 Broguos Organa disconnected
+﻿15:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿15:59:31 : Player #9 Dgoni disconnected
+﻿15:59:34 : Player #1 Yakut disconnected
+﻿15:59:36 : Player #11 BuGaGaShEnKa(�������) disconnected
+﻿15:59:38 : Player #5 Sibiryak disconnected
+﻿16:00:01 : Player #7 Samurai disconnected
+﻿16:00:04 : Lost Connection!
+﻿16:00:04 : Closing socket & exiting!
+﻿16:00:10 : Lost Connection!
+﻿16:00:10 : Closing socket & exiting!
+﻿16:02:36 : Lost Connection!
+﻿16:02:36 : Closing socket & exiting!
+﻿16:02:50 : Rcon client logging in
+﻿16:04:17 : No Valid response. Trying to reconnect.!
+﻿16:04:17 : Rcon client logging in
+﻿16:04:17 : RCon admin #0 (127.0.0.1:63854) logged in
+﻿16:04:20 : Player #6 Dzho (188.0.175.208:61311) connected
+﻿16:04:20 : Player #6 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿16:04:21 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #6 Dzho
+﻿16:04:55 : Player #7 Simple (176.65.112.237:2304) connected
+﻿16:04:55 : Player #8 Broguos Organa (95.73.168.187:2304) connected
+﻿16:04:55 : Player #7 Simple - BE GUID: f623883c7ae5fcf11981790670fef404
+﻿16:04:56 : Player #8 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿16:04:56 : Verified GUID (f623883c7ae5fcf11981790670fef404) of player #7 Simple
+﻿16:04:56 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #8 Broguos Organa
+﻿16:06:40 : Player #9 Samurai (92.37.153.144:2304) connected
+﻿16:06:40 : Player #9 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿16:06:41 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #9 Samurai
+﻿16:11:36 : Player #0 Keksfm disconnected
+﻿16:21:23 : Player #1 Yakut disconnected
+﻿16:22:27 : Player #10 Vakosso (89.250.158.144:2304) connected
+﻿16:22:27 : Player #10 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿16:22:28 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #10 Vakosso
+﻿16:22:32 : Player #3 Sibiryak disconnected
+﻿16:33:24 : Player #6 Dzho disconnected
+﻿17:00:46 : Player #11 Yakut (62.33.99.146:2304) connected
+﻿17:00:47 : Player #11 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿17:00:47 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #11 Yakut
+﻿17:15:05 : Player #12 PSIX (217.107.115.211:4380) connected
+﻿17:15:05 : Player #12 PSIX - BE GUID: 36715ec8949f05adb2ca84db82f6d80e
+﻿17:15:06 : Verified GUID (36715ec8949f05adb2ca84db82f6d80e) of player #12 PSIX
+﻿17:28:52 : Player #2 scream disconnected
+﻿17:30:01 : Player #11 Yakut disconnected
+﻿17:30:14 : Player #13 Yakut (62.33.99.146:2304) connected
+﻿17:30:14 : Player #13 Yakut - BE GUID: a962dacd7431c3b00cec2b854217ed1b
+﻿17:30:15 : Verified GUID (a962dacd7431c3b00cec2b854217ed1b) of player #13 Yakut
+﻿17:31:07 : Player #13 Yakut disconnected
+﻿17:41:21 : Player #12 PSIX disconnected
+﻿17:43:13 : Player #11 PSIX (217.107.115.211:4380) connected
+﻿17:43:14 : Player #11 PSIX - BE GUID: 36715ec8949f05adb2ca84db82f6d80e
+﻿17:43:14 : Verified GUID (36715ec8949f05adb2ca84db82f6d80e) of player #11 PSIX
+﻿17:43:55 : RCon admin #1 (217.19.216.236:16089) logged in
+﻿17:48:24 : Player #5 BuGaGaShEnKa(�������) disconnected
+﻿17:49:51 : Player #12 scream (37.192.182.158:2304) connected
+﻿17:49:52 : Player #12 scream - BE GUID: 3ecf2a77779bd1aae9ac24d4eab1a613
+﻿17:49:52 : Verified GUID (3ecf2a77779bd1aae9ac24d4eab1a613) of player #12 scream
+﻿17:53:00 : Player #13 Kotlas (109.252.70.22:9841) connected
+﻿17:53:01 : Player #13 Kotlas - BE GUID: 66fb623ae3b57895671f45b40cb3d62b
+﻿17:53:01 : Verified GUID (66fb623ae3b57895671f45b40cb3d62b) of player #13 Kotlas
+﻿17:58:10 : RCon admin #0: (To Simple) Do not use Global chat. Warnings left:4
+﻿18:00:44 : RCon admin #2 (217.19.216.236:6846) logged in
+﻿18:00:45 : Player #11 PSIX disconnected
+﻿18:01:19 : RCon admin #2: (Global) [Сидорович] Сервер закрывается на тех. работы
+﻿18:01:43 : Player #13 Kotlas disconnected
+﻿18:01:53 : Player #8 Broguos Organa disconnected
+﻿18:01:58 : Player #9 Samurai disconnected
+﻿18:02:02 : Player #7 Simple disconnected
+﻿18:02:26 : Player #4 Dgoni disconnected
+﻿18:02:57 : Player #13 Broguos Organa (95.73.168.187:2304) connected
+﻿18:02:57 : Player #13 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿18:02:58 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #13 Broguos Organa
+﻿18:03:05 : Player #13 Broguos Organa disconnected
+﻿18:03:06 : Player #12 scream disconnected
+﻿18:03:09 : Lost Connection!
+﻿18:03:09 : Closing socket & exiting!
+﻿18:12:08 : Lost Connection!
+﻿18:12:08 : Closing socket & exiting!
+﻿18:12:22 : Lost Connection!
+﻿18:12:22 : Closing socket & exiting!
+﻿18:12:36 : Lost Connection!
+﻿18:12:36 : Closing socket & exiting!
+﻿18:14:52 : Lost Connection!
+﻿18:14:52 : Closing socket & exiting!
+﻿18:15:06 : Rcon client logging in
+﻿18:16:26 : No Valid response. Trying to reconnect.!
+﻿18:16:26 : Rcon client logging in
+﻿18:16:26 : RCon admin #1 (127.0.0.1:50879) logged in
+﻿18:18:31 : Player #0 Dony (217.19.216.236:2304) connected
+﻿18:18:31 : Player #0 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿18:18:31 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #0 Dony
+﻿18:25:37 : Player #0 Dony disconnected
+﻿18:31:12 : Lost Connection!
+﻿18:31:12 : Closing socket & exiting!
+﻿18:31:17 : Lost Connection!
+﻿18:31:17 : Closing socket & exiting!
+﻿18:31:44 : Lost Connection!
+﻿18:31:44 : Closing socket & exiting!
+﻿18:31:58 : Rcon client logging in
+﻿18:33:19 : No Valid response. Trying to reconnect.!
+﻿18:33:19 : Rcon client logging in
+﻿18:33:19 : RCon admin #1 (127.0.0.1:59241) logged in
+﻿18:36:21 : Player #0 Broguos Organa (95.73.168.187:2304) connected
+﻿18:36:21 : Player #0 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿18:36:21 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #0 Broguos Organa
+﻿18:36:36 : Player #1 Simple (176.65.112.237:2304) connected
+﻿18:36:36 : Player #1 Simple - BE GUID: f623883c7ae5fcf11981790670fef404
+﻿18:36:36 : Verified GUID (f623883c7ae5fcf11981790670fef404) of player #1 Simple
+﻿18:36:38 : Player #2 Murza (91.189.247.72:2304) connected
+﻿18:36:39 : Player #2 Murza - BE GUID: 57f555261f740ebd7f4daa759436eb44
+﻿18:36:39 : Verified GUID (57f555261f740ebd7f4daa759436eb44) of player #2 Murza
+﻿18:38:08 : Player #3 FeliX (79.164.102.118:2304) connected
+﻿18:38:09 : Player #3 FeliX - BE GUID: a5ba28a6e535051f5fbfbb90c229d9ad
+﻿18:38:09 : Verified GUID (a5ba28a6e535051f5fbfbb90c229d9ad) of player #3 FeliX
+﻿18:38:12 : Player #4 Dzho (188.0.169.40:2091) connected
+﻿18:38:12 : Player #4 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿18:38:13 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #4 Dzho
+﻿18:38:16 : Player #5 [KGB]Rus (145.255.11.80:2304) connected
+﻿18:38:16 : Player #5 [KGB]Rus - BE GUID: cc943155a10d4e544ea3b1c1898dad03
+﻿18:38:17 : Verified GUID (cc943155a10d4e544ea3b1c1898dad03) of player #5 [KGB]Rus
+﻿18:39:43 : Player #5 [KGB]Rus disconnected
+﻿18:40:28 : Player #5 MYXAMOP (85.26.165.118:40578) connected
+﻿18:40:28 : Player #5 MYXAMOP - BE GUID: f5f4e62b2d3d71ed10ac96a652de6897
+﻿18:40:29 : Verified GUID (f5f4e62b2d3d71ed10ac96a652de6897) of player #5 MYXAMOP
+﻿18:42:41 : Player #6 [KGB]Rus (145.255.11.80:2304) connected
+﻿18:42:41 : Player #6 [KGB]Rus - BE GUID: cc943155a10d4e544ea3b1c1898dad03
+﻿18:42:42 : Verified GUID (cc943155a10d4e544ea3b1c1898dad03) of player #6 [KGB]Rus
+﻿18:43:44 : Player #7 MadFrol (46.0.120.61:48058) connected
+﻿18:43:45 : Player #7 MadFrol - BE GUID: 1de1dbde200d1079b48ec97ed8bfbaab
+﻿18:43:45 : Verified GUID (1de1dbde200d1079b48ec97ed8bfbaab) of player #7 MadFrol
+﻿18:47:03 : Player #8 Kotlas (109.252.70.22:9638) connected
+﻿18:47:04 : Player #8 Kotlas - BE GUID: 66fb623ae3b57895671f45b40cb3d62b
+﻿18:47:04 : Verified GUID (66fb623ae3b57895671f45b40cb3d62b) of player #8 Kotlas
+﻿18:47:37 : Player #9 Dgoni (79.105.67.190:2304) connected
+﻿18:47:38 : Player #9 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿18:47:38 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #9 Dgoni
+﻿18:49:57 : Player #10 Vakosso (89.250.158.144:2304) connected
+﻿18:49:57 : Player #10 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿18:49:58 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #10 Vakosso
+﻿18:51:12 : Player #11 Flakon (91.205.160.247:60905) connected
+﻿18:51:13 : Player #11 Flakon - BE GUID: bb08e3a70da521859d2552c2f5bb0b54
+﻿18:51:13 : Verified GUID (bb08e3a70da521859d2552c2f5bb0b54) of player #11 Flakon
+﻿18:58:11 : Player #12 BearvsLeo95 (213.108.170.183:36109) connected
+﻿18:58:11 : Player #12 BearvsLeo95 - BE GUID: c8affc3211da0eb57889c74d1e39928b
+﻿18:58:12 : Verified GUID (c8affc3211da0eb57889c74d1e39928b) of player #12 BearvsLeo95
+﻿19:04:19 : RCon admin #2 (217.19.216.236:13671) logged in
+﻿19:07:00 : Player #8 Kotlas disconnected
+﻿19:07:03 : Player #13 Kotlas (109.252.70.22:9638) connected
+﻿19:07:03 : Player #13 Kotlas - BE GUID: 66fb623ae3b57895671f45b40cb3d62b
+﻿19:07:04 : Verified GUID (66fb623ae3b57895671f45b40cb3d62b) of player #13 Kotlas
+﻿19:11:22 : Player #14 Oliver Bierhoff (91.215.22.67:2304) connected
+﻿19:11:23 : Player #14 Oliver Bierhoff - BE GUID: 43e870d1f56ecc4266f732500c809d4a
+﻿19:11:23 : Verified GUID (43e870d1f56ecc4266f732500c809d4a) of player #14 Oliver Bierhoff
+﻿19:13:11 : Player #12 BearvsLeo95 disconnected
+﻿19:15:50 : Player #10 Vakosso disconnected
+﻿19:20:11 : Player #15 Dony (217.19.216.236:2304) connected
+﻿19:20:11 : Player #15 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿19:20:11 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #15 Dony
+﻿19:22:17 : Player #15 Dony disconnected
+﻿19:30:45 : Player #4 Dzho disconnected
+﻿19:36:23 : RCon admin #0 (217.19.216.236:28454) logged in
+﻿19:41:06 : Player #13 Kotlas disconnected
+﻿19:44:01 : Player #9 Dgoni disconnected
+﻿19:45:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿19:53:01 : Player #2 Murza disconnected
+﻿19:53:03 : Player #3 FeliX disconnected
+﻿19:55:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿19:55:23 : Player #14 Oliver Bierhoff disconnected
+﻿19:56:06 : Player #11 Flakon disconnected
+﻿19:58:22 : Player #1 Simple disconnected
+﻿19:59:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿19:59:19 : Player #7 MadFrol disconnected
+﻿20:00:01 : Player #5 MYXAMOP disconnected
+﻿20:00:01 : Player #0 Broguos Organa disconnected
+﻿20:00:04 : Lost Connection!
+﻿20:00:04 : Closing socket & exiting!
+﻿20:00:28 : Lost Connection!
+﻿20:00:28 : Closing socket & exiting!
+﻿20:00:42 : Rcon client logging in
+﻿20:02:03 : No Valid response. Trying to reconnect.!
+﻿20:02:03 : Rcon client logging in
+﻿20:02:03 : RCon admin #1 (127.0.0.1:52413) logged in
+﻿20:04:55 : Player #0 FeliX (79.164.102.118:2304) connected
+﻿20:04:55 : Player #0 FeliX - BE GUID: a5ba28a6e535051f5fbfbb90c229d9ad
+﻿20:04:56 : Verified GUID (a5ba28a6e535051f5fbfbb90c229d9ad) of player #0 FeliX
+﻿20:05:29 : Player #1 Kotlas (109.252.70.22:9650) connected
+﻿20:05:29 : Player #1 Kotlas - BE GUID: 66fb623ae3b57895671f45b40cb3d62b
+﻿20:05:29 : Verified GUID (66fb623ae3b57895671f45b40cb3d62b) of player #1 Kotlas
+﻿20:05:34 : Player #2 Murza (91.189.247.72:2304) connected
+﻿20:05:34 : Player #2 Murza - BE GUID: 57f555261f740ebd7f4daa759436eb44
+﻿20:05:34 : Verified GUID (57f555261f740ebd7f4daa759436eb44) of player #2 Murza
+﻿20:06:16 : Player #3 Broguos Organa (95.73.168.187:2304) connected
+﻿20:06:16 : Player #3 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿20:06:16 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #3 Broguos Organa
+﻿20:06:50 : Player #4 Flakon (91.205.160.247:32678) connected
+﻿20:06:50 : Player #4 Flakon - BE GUID: bb08e3a70da521859d2552c2f5bb0b54
+﻿20:06:50 : Verified GUID (bb08e3a70da521859d2552c2f5bb0b54) of player #4 Flakon
+﻿20:07:15 : Player #5 [KGB]Rus (145.255.11.80:2304) connected
+﻿20:07:15 : Player #5 [KGB]Rus - BE GUID: cc943155a10d4e544ea3b1c1898dad03
+﻿20:07:15 : Verified GUID (cc943155a10d4e544ea3b1c1898dad03) of player #5 [KGB]Rus
+﻿20:08:08 : Player #6 Dzho (188.0.169.40:51180) connected
+﻿20:08:08 : Player #6 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿20:08:08 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #6 Dzho
+﻿20:09:38 : Player #7 Dony (217.19.216.236:2304) connected
+﻿20:09:39 : Player #7 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿20:09:39 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #7 Dony
+﻿20:09:50 : Player #8 Fisher (217.19.216.236:1888) connected
+﻿20:09:50 : Player #8 Fisher - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿20:09:51 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #8 Fisher
+﻿20:13:44 : Player #9 MYXAMOP (85.26.165.118:58485) connected
+﻿20:13:45 : Player #9 MYXAMOP - BE GUID: f5f4e62b2d3d71ed10ac96a652de6897
+﻿20:13:45 : Verified GUID (f5f4e62b2d3d71ed10ac96a652de6897) of player #9 MYXAMOP
+﻿20:14:41 : Player #10 MadFrol (46.0.120.61:47498) connected
+﻿20:14:42 : Player #10 MadFrol - BE GUID: 1de1dbde200d1079b48ec97ed8bfbaab
+﻿20:14:42 : Verified GUID (1de1dbde200d1079b48ec97ed8bfbaab) of player #10 MadFrol
+﻿20:18:21 : RCon admin #2 (217.19.216.236:1038) logged in
+﻿20:19:21 : Player #11 BearvsLeo95 (213.108.170.183:36109) connected
+﻿20:19:21 : Player #11 BearvsLeo95 - BE GUID: c8affc3211da0eb57889c74d1e39928b
+﻿20:19:22 : Verified GUID (c8affc3211da0eb57889c74d1e39928b) of player #11 BearvsLeo95
+﻿20:34:09 : Player #5 [KGB]Rus disconnected
+﻿20:34:11 : Player #12 [KGB]Rus (145.255.11.80:2304) connected
+﻿20:34:11 : Player #12 [KGB]Rus - BE GUID: cc943155a10d4e544ea3b1c1898dad03
+﻿20:34:11 : Verified GUID (cc943155a10d4e544ea3b1c1898dad03) of player #12 [KGB]Rus
+﻿20:35:27 : RCon admin #0 (217.19.216.236:22670) logged in
+﻿20:40:52 : Player #13 JaguaR (46.138.221.174:2304) connected
+﻿20:40:52 : Player #13 JaguaR - BE GUID: 8f46d4e11b713caca8916aeeb2bf57f2
+﻿20:40:52 : Verified GUID (8f46d4e11b713caca8916aeeb2bf57f2) of player #13 JaguaR
+﻿20:53:39 : Player #9 MYXAMOP disconnected
+﻿20:54:51 : Player #14 MYXAMOP (85.26.165.118:58485) connected
+﻿20:54:52 : Player #14 MYXAMOP - BE GUID: f5f4e62b2d3d71ed10ac96a652de6897
+﻿20:54:52 : Verified GUID (f5f4e62b2d3d71ed10ac96a652de6897) of player #14 MYXAMOP
+﻿20:55:10 : Player #8 Fisher disconnected
+﻿20:55:34 : Player #7 Dony disconnected
+﻿20:56:38 : Player #1 Kotlas disconnected
+﻿21:01:12 : Lost Connection!
+﻿21:01:12 : Closing socket & exiting!
+﻿21:01:26 : Rcon client logging in
+﻿21:02:46 : No Valid response. Trying to reconnect.!
+﻿21:02:46 : Rcon client logging in
+﻿21:02:46 : RCon admin #1 (127.0.0.1:57984) logged in
+﻿21:03:21 : RCon admin #2 (217.19.216.236:28355) logged in
+﻿21:03:21 : Player #5 Dzho (188.0.169.40:35078) connected
+﻿21:03:22 : Player #5 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿21:03:22 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #5 Dzho
+﻿21:03:56 : Player #6 Dony (217.19.216.236:2144) connected
+﻿21:03:57 : Player #6 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿21:03:57 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #6 Dony
+﻿21:06:26 : Player #7 Fisher (217.19.216.236:2304) connected
+﻿21:06:27 : Player #7 Fisher - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿21:06:27 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #7 Fisher
+﻿21:06:52 : Player #8 MadFrol (46.0.120.61:47402) connected
+﻿21:06:53 : Player #8 MadFrol - BE GUID: 1de1dbde200d1079b48ec97ed8bfbaab
+﻿21:06:53 : Verified GUID (1de1dbde200d1079b48ec97ed8bfbaab) of player #8 MadFrol
+﻿21:06:53 : Player #9 FeliX (79.164.102.118:2304) connected
+﻿21:06:54 : Player #9 FeliX - BE GUID: a5ba28a6e535051f5fbfbb90c229d9ad
+﻿21:06:54 : Verified GUID (a5ba28a6e535051f5fbfbb90c229d9ad) of player #9 FeliX
+﻿21:07:53 : Player #10 Murza (91.189.247.72:2304) connected
+﻿21:07:54 : Player #10 Murza - BE GUID: 57f555261f740ebd7f4daa759436eb44
+﻿21:07:54 : Verified GUID (57f555261f740ebd7f4daa759436eb44) of player #10 Murza
+﻿21:10:15 : Player #11 FIGARO (37.113.105.255:2304) connected
+﻿21:10:15 : Player #11 FIGARO - BE GUID: 82c9f18c495ddbf422d97891af639d49
+﻿21:10:16 : Verified GUID (82c9f18c495ddbf422d97891af639d49) of player #11 FIGARO
+﻿21:10:19 : Player #12 Flakon (91.205.160.247:5972) connected
+﻿21:10:19 : Player #12 Flakon - BE GUID: bb08e3a70da521859d2552c2f5bb0b54
+﻿21:10:20 : Verified GUID (bb08e3a70da521859d2552c2f5bb0b54) of player #12 Flakon
+﻿21:10:21 : Player #11 FIGARO disconnected
+﻿21:12:32 : Player #13 FIGARO (37.113.105.255:2304) connected
+﻿21:12:33 : Player #13 FIGARO - BE GUID: 82c9f18c495ddbf422d97891af639d49
+﻿21:12:33 : Verified GUID (82c9f18c495ddbf422d97891af639d49) of player #13 FIGARO
+﻿21:18:33 : RCon admin #0 (217.19.216.236:1037) logged in
+﻿21:20:59 : Player #13 FIGARO disconnected
+﻿21:21:49 : Player #13 MYXAMOP (85.26.165.118:63967) connected
+﻿21:21:49 : Player #13 MYXAMOP - BE GUID: f5f4e62b2d3d71ed10ac96a652de6897
+﻿21:21:50 : Player #14 FIGARO (37.113.105.255:2304) connected
+﻿21:21:50 : Verified GUID (f5f4e62b2d3d71ed10ac96a652de6897) of player #13 MYXAMOP
+﻿21:21:50 : Player #14 FIGARO - BE GUID: 82c9f18c495ddbf422d97891af639d49
+﻿21:21:50 : Verified GUID (82c9f18c495ddbf422d97891af639d49) of player #14 FIGARO
+﻿21:22:11 : Player #15 Diezel (37.147.132.94:2304) connected
+﻿21:22:11 : Player #15 Diezel - BE GUID: a99da4426f9fe7cc16bcb939e306f2df
+﻿21:22:11 : Verified GUID (a99da4426f9fe7cc16bcb939e306f2df) of player #15 Diezel
+﻿21:36:49 : Player #16 Keksfm (188.134.71.211:2304) connected
+﻿21:36:50 : Player #16 Keksfm - BE GUID: a7ca1dd7b314eea544f10fb596c7b604
+﻿21:36:50 : Verified GUID (a7ca1dd7b314eea544f10fb596c7b604) of player #16 Keksfm
+﻿21:37:19 : Player #16 Keksfm disconnected
+﻿21:37:25 : Player #0 Simple disconnected
+﻿21:37:27 : Player #4 Broguos Organa (e09a096283c2d5e2e2ea1435066d4585) has been kicked by BattlEye: Client not responding
+﻿21:37:28 : Player #15 Diezel (a99da4426f9fe7cc16bcb939e306f2df) has been kicked by BattlEye: Client not responding
+﻿21:37:28 : Player #10 Murza (57f555261f740ebd7f4daa759436eb44) has been kicked by BattlEye: Client not responding
+﻿21:37:28 : Player #13 MYXAMOP (f5f4e62b2d3d71ed10ac96a652de6897) has been kicked by BattlEye: Client not responding
+﻿21:37:28 : Player #7 Fisher (61439fb3d1a7ec3ff8d673fa8c6773e8) has been kicked by BattlEye: Client not responding
+﻿21:37:28 : Player #3 JaguaR (8f46d4e11b713caca8916aeeb2bf57f2) has been kicked by BattlEye: Client not responding
+﻿21:37:29 : Player #6 Dony (8e71eebdeb37718c4c2c169aa3c680a2) has been kicked by BattlEye: Client not responding
+﻿21:37:29 : Player #2 BuGaGaShEnKa(�������) (0cb107bbc5e55f2e2d7255e15da65911) has been kicked by BattlEye: Client not responding
+﻿21:37:30 : Player #12 Flakon (bb08e3a70da521859d2552c2f5bb0b54) has been kicked by BattlEye: Client not responding
+﻿21:37:30 : Player #9 FeliX (a5ba28a6e535051f5fbfbb90c229d9ad) has been kicked by BattlEye: Client not responding
+﻿21:37:30 : Player #5 Dzho (28540928434130893fbe9ec11e161b68) has been kicked by BattlEye: Client not responding
+﻿21:37:31 : Player #8 MadFrol (1de1dbde200d1079b48ec97ed8bfbaab) has been kicked by BattlEye: Client not responding
+﻿21:37:31 : Player #1 [KGB]Rus (cc943155a10d4e544ea3b1c1898dad03) has been kicked by BattlEye: Client not responding
+﻿21:37:32 : Player #14 FIGARO (82c9f18c495ddbf422d97891af639d49) has been kicked by BattlEye: Client not responding
+﻿21:37:41 : Could not connect to BE Master
+﻿21:37:41 : Disconnected from BE Master
+﻿21:47:48 : Player #1 Simple (176.65.112.237:2304) connected
+﻿21:47:48 : Player #1 Simple - BE GUID: f623883c7ae5fcf11981790670fef404
+﻿21:47:50 : Verified GUID (f623883c7ae5fcf11981790670fef404) of player #1 Simple
+﻿21:48:11 : Player #2 Vakosso (89.250.158.144:2304) connected
+﻿21:48:12 : Player #2 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿21:48:12 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #2 Vakosso
+﻿21:48:13 : Player #3 Dzho (188.0.169.40:26651) connected
+﻿21:48:13 : Player #3 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿21:48:14 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #3 Dzho
+﻿21:48:17 : Player #4 Broguos Organa (95.73.168.187:2304) connected
+﻿21:48:18 : Player #4 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿21:48:18 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #4 Broguos Organa
+﻿21:48:19 : Player #5 MadFrol (46.0.120.61:47402) connected
+﻿21:48:19 : Player #5 MadFrol - BE GUID: 1de1dbde200d1079b48ec97ed8bfbaab
+﻿21:48:19 : Verified GUID (1de1dbde200d1079b48ec97ed8bfbaab) of player #5 MadFrol
+﻿21:48:20 : Player #6 BuGaGaShEnKa(�������) (95.158.204.101:2304) connected
+﻿21:48:21 : Player #6 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿21:48:22 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #6 BuGaGaShEnKa(�������)
+﻿21:48:30 : Player #7 Dony (217.19.216.236:2304) connected
+﻿21:48:30 : Player #7 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿21:48:31 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #7 Dony
+﻿21:48:38 : Player #8 Diezel (37.147.132.94:2304) connected
+﻿21:48:38 : Player #8 Diezel - BE GUID: a99da4426f9fe7cc16bcb939e306f2df
+﻿21:48:38 : Player #9 Murza (91.189.247.72:2304) connected
+﻿21:48:39 : Verified GUID (a99da4426f9fe7cc16bcb939e306f2df) of player #8 Diezel
+﻿21:48:39 : Player #9 Murza - BE GUID: 57f555261f740ebd7f4daa759436eb44
+﻿21:48:39 : Verified GUID (57f555261f740ebd7f4daa759436eb44) of player #9 Murza
+﻿21:48:41 : Player #10 FeliX (79.164.102.118:2304) connected
+﻿21:48:42 : Player #10 FeliX - BE GUID: a5ba28a6e535051f5fbfbb90c229d9ad
+﻿21:48:42 : Verified GUID (a5ba28a6e535051f5fbfbb90c229d9ad) of player #10 FeliX
+﻿21:48:47 : Player #11 Fisher (217.19.216.236:2314) connected
+﻿21:48:47 : Player #11 Fisher - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿21:48:48 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #11 Fisher
+﻿21:48:52 : Player #12 BearvsLeo95 (213.108.170.183:35000) connected
+﻿21:48:52 : Player #12 BearvsLeo95 - BE GUID: c8affc3211da0eb57889c74d1e39928b
+﻿21:48:53 : Verified GUID (c8affc3211da0eb57889c74d1e39928b) of player #12 BearvsLeo95
+﻿21:49:35 : Player #12 BearvsLeo95 disconnected
+﻿21:49:46 : Player #7 Dony disconnected
+﻿21:49:50 : Player #8 Diezel (a99da4426f9fe7cc16bcb939e306f2df) has been kicked by BattlEye: Client not responding
+﻿21:49:50 : Player #3 Dzho (28540928434130893fbe9ec11e161b68) has been kicked by BattlEye: Client not responding
+﻿21:49:50 : Player #2 Vakosso disconnected
+﻿21:49:50 : Player #10 FeliX disconnected
+﻿21:49:50 : Player #9 Murza (57f555261f740ebd7f4daa759436eb44) has been kicked by BattlEye: Client not responding
+﻿21:49:50 : Player #1 Simple (f623883c7ae5fcf11981790670fef404) has been kicked by BattlEye: Client not responding
+﻿21:49:53 : Player #6 BuGaGaShEnKa(�������) (0cb107bbc5e55f2e2d7255e15da65911) has been kicked by BattlEye: Client not responding
+﻿21:49:54 : Player #11 Fisher (61439fb3d1a7ec3ff8d673fa8c6773e8) has been kicked by BattlEye: Client not responding
+﻿21:49:54 : Player #4 Broguos Organa (e09a096283c2d5e2e2ea1435066d4585) has been kicked by BattlEye: Client not responding
+﻿21:50:00 : Player #5 MadFrol disconnected
+﻿21:50:06 : Could not connect to BE Master
+﻿21:50:06 : Disconnected from BE Master
+﻿21:53:29 : Player #1 Broguos Organa (95.73.168.187:2304) connected
+﻿21:53:29 : Player #1 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿21:53:30 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #1 Broguos Organa
+﻿21:53:47 : Player #2 FeliX (79.164.102.118:2304) connected
+﻿21:53:47 : Player #2 FeliX - BE GUID: a5ba28a6e535051f5fbfbb90c229d9ad
+﻿21:53:47 : Player #3 Simple (176.65.112.237:2304) connected
+﻿21:53:48 : Player #3 Simple - BE GUID: f623883c7ae5fcf11981790670fef404
+﻿21:53:48 : Verified GUID (a5ba28a6e535051f5fbfbb90c229d9ad) of player #2 FeliX
+﻿21:53:48 : Verified GUID (f623883c7ae5fcf11981790670fef404) of player #3 Simple
+﻿21:53:51 : Player #4 Flakon (91.205.160.247:36569) connected
+﻿21:53:51 : Player #4 Flakon - BE GUID: bb08e3a70da521859d2552c2f5bb0b54
+﻿21:53:52 : Verified GUID (bb08e3a70da521859d2552c2f5bb0b54) of player #4 Flakon
+﻿21:53:55 : Player #5 JaguaR (46.138.221.174:2304) connected
+﻿21:53:55 : Player #5 JaguaR - BE GUID: 8f46d4e11b713caca8916aeeb2bf57f2
+﻿21:53:55 : Verified GUID (8f46d4e11b713caca8916aeeb2bf57f2) of player #5 JaguaR
+﻿21:54:04 : Player #6 Murza (91.189.247.72:2304) connected
+﻿21:54:04 : Player #6 Murza - BE GUID: 57f555261f740ebd7f4daa759436eb44
+﻿21:54:04 : Verified GUID (57f555261f740ebd7f4daa759436eb44) of player #6 Murza
+﻿21:54:10 : Player #7 BuGaGaShEnKa(�������) (95.158.204.101:2304) connected
+﻿21:54:11 : Player #7 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿21:54:11 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #7 BuGaGaShEnKa(�������)
+﻿21:55:07 : Player #8 Diezel (37.147.132.94:2304) connected
+﻿21:55:07 : Player #8 Diezel - BE GUID: a99da4426f9fe7cc16bcb939e306f2df
+﻿21:55:08 : Verified GUID (a99da4426f9fe7cc16bcb939e306f2df) of player #8 Diezel
+﻿21:55:21 : Player #9 Dzho (188.0.169.40:43005) connected
+﻿21:55:22 : Player #9 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿21:55:22 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #9 Dzho
+﻿21:59:04 : RCon admin #0 (217.19.216.236:2463) logged in
+﻿21:59:18 : Player #10 Vakosso (89.250.158.144:2304) connected
+﻿21:59:18 : Player #10 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿21:59:18 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #10 Vakosso
+﻿22:01:44 : Player #9 Dzho disconnected
+﻿22:05:08 : Player #11 Dzho (188.0.169.40:10255) connected
+﻿22:05:08 : Player #11 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿22:05:09 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #11 Dzho
+﻿22:08:27 : Player #11 Dzho disconnected
+﻿22:12:22 : Player #11 Survivor (188.164.176.158:2304) connected
+﻿22:12:22 : Player #11 Survivor - BE GUID: ed891d17f84c26619f155cf0770b2c99
+﻿22:12:22 : Verified GUID (ed891d17f84c26619f155cf0770b2c99) of player #11 Survivor
+﻿22:12:50 : Player #11 Survivor disconnected
+﻿22:13:03 : Player #11 Survivor (188.164.176.158:2304) connected
+﻿22:13:03 : Player #11 Survivor - BE GUID: ed891d17f84c26619f155cf0770b2c99
+﻿22:13:04 : Verified GUID (ed891d17f84c26619f155cf0770b2c99) of player #11 Survivor
+﻿22:13:33 : Player #11 Survivor disconnected
+﻿22:13:41 : Player #11 Dzho (188.0.169.40:2090) connected
+﻿22:13:41 : Player #11 Dzho - BE GUID: 28540928434130893fbe9ec11e161b68
+﻿22:13:41 : Verified GUID (28540928434130893fbe9ec11e161b68) of player #11 Dzho
+﻿22:13:53 : Player #12 Skip (80.71.253.249:37310) connected
+﻿22:13:55 : Player #12 Skip - BE GUID: 9e20242893964f737506484a2df1b38f
+﻿22:13:55 : Verified GUID (9e20242893964f737506484a2df1b38f) of player #12 Skip
+﻿22:14:53 : Player #1 Broguos Organa disconnected
+﻿22:16:32 : Player #13 Jack_Phantom (188.164.176.158:2304) connected
+﻿22:16:32 : Player #13 Jack_Phantom - BE GUID: ed891d17f84c26619f155cf0770b2c99
+﻿22:16:33 : Verified GUID (ed891d17f84c26619f155cf0770b2c99) of player #13 Jack_Phantom
+﻿22:23:59 : Player #14 Broguos Organa (95.73.168.187:2304) connected
+﻿22:23:59 : Player #14 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿22:24:00 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #14 Broguos Organa
+﻿22:26:49 : RCon admin #2 (217.19.216.236:19118) logged in
+﻿22:33:28 : Player #10 Vakosso disconnected
+﻿22:44:26 : Player #3 Simple disconnected
+﻿22:45:59 : Player #7 BuGaGaShEnKa(�������) disconnected
+﻿22:46:04 : Player #15 BuGaGaShEnKa(�������) (95.158.204.101:2304) connected
+﻿22:46:05 : Player #15 BuGaGaShEnKa(�������) - BE GUID: 0cb107bbc5e55f2e2d7255e15da65911
+﻿22:46:05 : Verified GUID (0cb107bbc5e55f2e2d7255e15da65911) of player #15 BuGaGaShEnKa(�������)
+﻿22:49:00 : RCon admin #0 (217.19.216.236:1035) logged in
+﻿22:53:42 : Player #16 Outlaw35 (94.45.221.231:2304) connected
+﻿22:53:42 : Player #16 Outlaw35 - BE GUID: bd91f0b93b649e4852020d55c4912ca2
+﻿22:53:43 : Verified GUID (bd91f0b93b649e4852020d55c4912ca2) of player #16 Outlaw35
+﻿22:56:51 : Player #17 SkillSayk (176.195.244.199:2304) connected
+﻿22:56:51 : Player #17 SkillSayk - BE GUID: bd3772794dd989b50afba9fb8f6e7b5a
+﻿22:56:52 : Verified GUID (bd3772794dd989b50afba9fb8f6e7b5a) of player #17 SkillSayk
+﻿23:06:03 : Player #18 DEX (2.94.32.62:2304) connected
+﻿23:06:03 : Player #18 DEX - BE GUID: 0ca89f3b1c70ed8f15bd29485826d098
+﻿23:06:03 : Verified GUID (0ca89f3b1c70ed8f15bd29485826d098) of player #18 DEX
+﻿23:12:58 : Player #19 Simple (176.65.112.237:2304) connected
+﻿23:12:58 : Player #19 Simple - BE GUID: f623883c7ae5fcf11981790670fef404
+﻿23:12:59 : Verified GUID (f623883c7ae5fcf11981790670fef404) of player #19 Simple
+﻿23:22:22 : Player #13 Jack_Phantom disconnected
+﻿23:23:28 : Player #19 Simple disconnected
+﻿23:25:29 : Player #18 DEX disconnected
+﻿23:26:50 : Player #2 FeliX disconnected
+﻿23:28:58 : Player #6 Murza disconnected
+﻿23:30:01 : Player #11 Dzho disconnected
+﻿23:33:35 : RCon admin #2 (217.19.216.236:5287) logged in
+﻿23:34:50 : Player #18 DEX (2.94.32.62:2304) connected
+﻿23:34:50 : Player #18 DEX - BE GUID: 0ca89f3b1c70ed8f15bd29485826d098
+﻿23:34:50 : Verified GUID (0ca89f3b1c70ed8f15bd29485826d098) of player #18 DEX
+﻿23:38:40 : Player #16 Outlaw35 disconnected
+﻿23:43:35 : Player #12 Skip disconnected
+﻿23:45:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿23:46:08 : RCon admin #0 (217.19.216.236:34862) logged in
+﻿23:48:46 : Player #17 SkillSayk disconnected
+﻿23:55:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿23:55:09 : Player #18 DEX disconnected
+﻿23:59:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 1 минуту.

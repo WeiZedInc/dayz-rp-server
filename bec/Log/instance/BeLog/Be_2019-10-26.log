@@ -1,0 +1,141 @@
+﻿08:53:51 : Rcon client logging in
+﻿08:54:24 : RCon admin #0 (217.19.216.236:54018) logged in
+﻿08:54:25 : RCon admin #1 (127.0.0.1:53130) logged in
+﻿08:54:25 : RCon admin #1: (Global) Initializing Bec
+﻿08:54:25 : RCon admin #2 (217.19.216.236:44301) logged in
+﻿08:54:25 : RCon admin #3 (217.19.216.236:54020) logged in
+﻿09:15:19 : Rcon client logging in
+﻿09:15:52 : RCon admin #0 (127.0.0.1:59040) logged in
+﻿09:15:52 : RCon admin #0: (Global) Initializing Bec
+﻿09:15:52 : RCon admin #1 (217.19.216.236:44543) logged in
+﻿09:19:54 : Player #0 Vorobey (217.19.216.236:2304) connected
+﻿09:19:56 : Player #0 Vorobey - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿09:19:56 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #0 Vorobey
+﻿09:23:51 : Player #0 Vorobey disconnected
+﻿09:24:25 : Player #0 Vorobey (217.19.216.236:2304) connected
+﻿09:24:27 : Player #0 Vorobey - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿09:24:27 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #0 Vorobey
+﻿09:30:02 : Player #0 Vorobey disconnected
+﻿09:38:37 : Rcon client logging in
+﻿09:39:10 : RCon admin #0 (127.0.0.1:55596) logged in
+﻿09:39:11 : RCon admin #0: (Global) Initializing Bec
+﻿09:39:11 : RCon admin #1 (217.19.216.236:58772) logged in
+﻿09:40:12 : Player #0 Vorobey (217.19.216.236:2304) connected
+﻿09:40:13 : Player #0 Vorobey - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿09:40:14 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #0 Vorobey
+﻿09:42:56 : Player #1 Samurai (87.225.75.136:8973) connected
+﻿09:42:59 : Player #1 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿09:42:59 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #1 Samurai
+﻿09:50:14 : Player #2 YoPPo (93.171.25.189:2304) connected
+﻿09:50:15 : Player #2 YoPPo - BE GUID: 786559d585a1a523cb606f08c70a2c87
+﻿09:50:15 : Verified GUID (786559d585a1a523cb606f08c70a2c87) of player #2 YoPPo
+﻿09:50:16 : Player #0 Vorobey disconnected
+﻿09:52:38 : Player #3 Koba (95.46.72.37:2304) connected
+﻿09:52:40 : Player #3 Koba - BE GUID: fadf4916448c50cf9990fb6b1adb820d
+﻿09:52:40 : Verified GUID (fadf4916448c50cf9990fb6b1adb820d) of player #3 Koba
+﻿10:03:04 : RCon admin #1: (Global) [DaRT] тех. рестарт
+﻿10:03:40 : Player #2 YoPPo disconnected
+﻿10:03:40 : Player #3 Koba disconnected
+﻿10:03:49 : Player #1 Samurai disconnected
+﻿10:03:51 : Lost Connection!
+﻿10:03:51 : Closing socket & exiting!
+﻿10:04:15 : Rcon client logging in
+﻿10:04:51 : RCon admin #0 (217.19.216.236:64154) logged in
+﻿10:04:52 : RCon admin #1 (127.0.0.1:64518) logged in
+﻿10:04:52 : RCon admin #1: (Global) Initializing Bec
+﻿10:09:25 : Player #0 Sat-Ok(����) (78.157.250.218:2304) connected
+﻿10:09:27 : Player #0 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿10:09:28 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #0 Sat-Ok(����)
+﻿10:11:54 : Player #1 Samurai (87.225.75.136:8967) connected
+﻿10:11:56 : Player #1 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿10:11:56 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #1 Samurai
+﻿10:17:00 : Player #2 Vorobey (217.19.216.236:2304) connected
+﻿10:17:01 : Player #2 Vorobey - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿10:17:01 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #2 Vorobey
+﻿10:23:00 : Player #2 Vorobey disconnected
+﻿10:23:56 : Player #2 drankel (46.219.220.27:33986) connected
+﻿10:23:58 : Player #2 drankel disconnected
+﻿10:25:13 : Player #2 drankel (46.219.220.27:33986) connected
+﻿10:25:16 : Player #2 drankel - BE GUID: b45573869ae95eb7952d2c8a8b12766e
+﻿10:25:17 : Verified GUID (b45573869ae95eb7952d2c8a8b12766e) of player #2 drankel
+﻿10:25:17 : Player #2 drankel disconnected
+﻿10:25:35 : Player #2 drankel (46.219.220.27:33986) connected
+﻿10:25:39 : Player #2 drankel - BE GUID: b45573869ae95eb7952d2c8a8b12766e
+﻿10:25:39 : Verified GUID (b45573869ae95eb7952d2c8a8b12766e) of player #2 drankel
+﻿10:27:30 : Player #3 Anatoliy (91.225.119.191:2304) connected
+﻿10:27:32 : Player #3 Anatoliy - BE GUID: 882716a84def413a358c0e08cef9999a
+﻿10:27:32 : Verified GUID (882716a84def413a358c0e08cef9999a) of player #3 Anatoliy
+﻿10:35:20 : Player #4 Vorobey (217.19.216.236:2304) connected
+﻿10:35:21 : Player #4 Vorobey - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿10:35:21 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #4 Vorobey
+﻿10:49:00 : Player #5 Viktor(Myrzik) (31.42.47.225:2304) connected
+﻿10:49:12 : Player #5 Viktor(Myrzik) disconnected
+﻿10:50:45 : Player #5 Viktor(Myrzik) (31.42.47.225:2304) connected
+﻿10:50:57 : Player #5 Viktor(Myrzik) disconnected
+﻿10:54:59 : Player #5 Viktor(Myrzik) (31.42.47.225:2304) connected
+﻿10:55:11 : Player #5 Viktor(Myrzik) disconnected
+﻿10:55:25 : Player #4 Vorobey disconnected
+﻿10:58:40 : Player #4 Kotlas (109.252.71.195:9136) connected
+﻿10:58:41 : Player #4 Kotlas - BE GUID: 66fb623ae3b57895671f45b40cb3d62b
+﻿10:58:41 : Verified GUID (66fb623ae3b57895671f45b40cb3d62b) of player #4 Kotlas
+﻿10:59:19 : Player #5 Viktor(Myrzik) (31.42.47.225:2304) connected
+﻿10:59:30 : Player #5 Viktor(Myrzik) disconnected
+﻿11:03:02 : Player #5 Viktor(Myrzik) (31.42.47.225:2304) connected
+﻿11:03:13 : Player #5 Viktor(Myrzik) disconnected
+﻿11:11:24 : Player #5 Vakosso (188.186.7.204:2304) connected
+﻿11:11:26 : Player #5 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿11:11:26 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #5 Vakosso
+﻿11:12:18 : Player #5 Vakosso disconnected
+﻿11:12:27 : Player #5 Vakosso (188.186.7.204:2304) connected
+﻿11:12:28 : Player #5 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿11:12:29 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #5 Vakosso
+﻿11:13:19 : Player #5 Vakosso disconnected
+﻿11:13:55 : Player #5 Vakosso (188.186.7.204:2304) connected
+﻿11:13:56 : Player #5 Vakosso - BE GUID: f329b73e954cc6ababb735590f53f75a
+﻿11:13:56 : Verified GUID (f329b73e954cc6ababb735590f53f75a) of player #5 Vakosso
+﻿11:14:47 : Player #5 Vakosso disconnected
+﻿11:16:27 : Player #5 Viktor(Myrzik) (31.42.47.225:2304) connected
+﻿11:16:39 : Player #5 Viktor(Myrzik) disconnected
+﻿11:22:49 : Player #4 Kotlas disconnected
+﻿11:26:23 : Player #2 drankel disconnected
+﻿11:36:56 : Player #4 ������ (����) (109.252.14.160:6102) connected
+﻿11:36:57 : Player #4 ������ (����) - BE GUID: 2393371720dea4879fcbc1df2c9cbc90
+﻿11:36:58 : Verified GUID (2393371720dea4879fcbc1df2c9cbc90) of player #4 ������ (����)
+﻿11:44:56 : Player #4 ������ (����) disconnected
+﻿11:45:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿11:47:03 : Player #4 YoPPo (93.171.25.189:2304) connected
+﻿11:47:04 : Player #4 YoPPo - BE GUID: 786559d585a1a523cb606f08c70a2c87
+﻿11:47:04 : Verified GUID (786559d585a1a523cb606f08c70a2c87) of player #4 YoPPo
+﻿11:47:44 : Player #5 Koba (95.46.72.37:2304) connected
+﻿11:47:45 : Player #5 Koba - BE GUID: fadf4916448c50cf9990fb6b1adb820d
+﻿11:47:46 : Verified GUID (fadf4916448c50cf9990fb6b1adb820d) of player #5 Koba
+﻿11:53:51 : Player #1 Samurai disconnected
+﻿11:55:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿11:59:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿11:59:59 : Player #5 Koba disconnected
+﻿12:00:01 : Player #3 Anatoliy disconnected
+﻿12:00:01 : Player #0 Sat-Ok(����) disconnected
+﻿12:00:03 : Lost Connection!
+﻿12:00:03 : Closing socket & exiting!
+﻿12:00:23 : Rcon client logging in
+﻿12:00:56 : RCon admin #0 (127.0.0.1:49529) logged in
+﻿12:00:56 : RCon admin #0: (Global) Initializing Bec
+﻿12:00:56 : RCon admin #1 (217.19.216.236:58140) logged in
+﻿12:00:56 : Player #0 Anatoliy (91.225.119.191:2304) connected
+﻿12:00:58 : Player #0 Anatoliy - BE GUID: 882716a84def413a358c0e08cef9999a
+﻿12:00:59 : Verified GUID (882716a84def413a358c0e08cef9999a) of player #0 Anatoliy
+﻿12:01:15 : Player #1 Samurai (87.225.75.136:9002) connected
+﻿12:01:16 : Player #1 Samurai - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿12:01:17 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #1 Samurai
+﻿12:02:34 : Player #2 Sat-Ok(����) (78.157.250.218:2304) connected
+﻿12:02:35 : Player #2 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿12:02:36 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #2 Sat-Ok(����)
+﻿12:03:01 : Player #3 Koba (95.46.72.37:2304) connected
+﻿12:03:03 : Player #3 Koba - BE GUID: fadf4916448c50cf9990fb6b1adb820d
+﻿12:03:03 : Verified GUID (fadf4916448c50cf9990fb6b1adb820d) of player #3 Koba
+﻿12:03:26 : Player #4 YoPPo (93.171.25.189:2304) connected
+﻿12:03:26 : Player #4 YoPPo - BE GUID: 786559d585a1a523cb606f08c70a2c87
+﻿12:03:27 : Verified GUID (786559d585a1a523cb606f08c70a2c87) of player #4 YoPPo
+﻿12:14:01 : Player #5 drankel (46.219.220.27:34304) connected
+﻿12:14:06 : Player #5 drankel - BE GUID: b45573869ae95eb7952d2c8a8b12766e
+﻿12:14:06 : Verified GUID (b45573869ae95eb7952d2c8a8b12766e) of player #5 drankel

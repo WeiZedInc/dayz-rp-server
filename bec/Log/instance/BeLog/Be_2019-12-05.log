@@ -1,0 +1,653 @@
+﻿00:00:01 : Player #11 Rain5120 disconnected
+﻿00:00:04 : Lost Connection!
+﻿00:00:04 : Closing socket & exiting!
+﻿00:00:27 : Rcon client logging in
+﻿00:01:01 : RCon admin #0 (217.19.216.236:6709) logged in
+﻿00:01:01 : RCon admin #1 (127.0.0.1:50651) logged in
+﻿00:01:01 : RCon admin #1: (Global) Initializing Bec
+﻿00:01:01 : Player #0 Rain5120 (178.252.193.170:2304) connected
+﻿00:01:01 : Player #1 TuneR (31.13.144.1:57638) connected
+﻿00:01:02 : Connected to BE Master
+﻿00:01:03 : Player #1 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿00:01:03 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #1 TuneR
+﻿00:01:08 : Player #2 Teamix228 (91.122.56.123:2304) connected
+﻿00:01:10 : Player #2 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿00:01:10 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #2 Teamix228
+﻿00:01:18 : Player #0 Rain5120 disconnected
+﻿00:02:38 : Player #1 TuneR (e95ddd8143b48b4c64930d910b776092) has been kicked by BattlEye: Client not responding
+﻿00:02:42 : Player #3 TuneR (31.13.144.1:57638) connected
+﻿00:02:44 : Player #3 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿00:02:44 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #3 TuneR
+﻿00:02:46 : Player #4 Rain5120 (178.252.193.170:2304) connected
+﻿00:02:53 : Player #4 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿00:02:53 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #4 Rain5120
+﻿00:12:19 : Player #5 egor (178.120.186.116:2304) connected
+﻿00:12:20 : Player #5 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿00:12:20 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #5 egor
+﻿00:13:00 : Player #6 JleHuBblu (178.44.239.157:2304) connected
+﻿00:13:01 : Player #6 JleHuBblu - BE GUID: 21ad43df25ff280d21b8ffb22e2f4bdb
+﻿00:13:02 : Verified GUID (21ad43df25ff280d21b8ffb22e2f4bdb) of player #6 JleHuBblu
+﻿00:15:03 : Player #7 Suhoy (178.122.22.9:2304) connected
+﻿00:15:04 : Player #7 Suhoy - BE GUID: 23674773a76f1b0d15cbc2d15d5d017a
+﻿00:15:04 : Verified GUID (23674773a76f1b0d15cbc2d15d5d017a) of player #7 Suhoy
+﻿00:15:56 : Player #5 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿00:19:02 : Player #8 egor (178.120.186.116:2304) connected
+﻿00:19:05 : Player #8 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿00:19:06 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #8 egor
+﻿00:21:46 : Player #8 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿00:29:33 : Player #8 egor (178.120.186.116:2304) connected
+﻿00:29:36 : Player #8 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿00:29:36 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #8 egor
+﻿00:33:07 : Player #8 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿00:38:18 : Player #2 Teamix228 disconnected
+﻿00:58:47 : Player #4 Rain5120 disconnected
+﻿01:03:47 : Player #7 Suhoy (23674773a76f1b0d15cbc2d15d5d017a) has been kicked by BattlEye: Client not responding
+﻿01:04:12 : RCon admin #2 (217.19.216.236:50261) logged in
+﻿01:05:02 : Player #3 TuneR disconnected
+﻿01:15:25 : Player #7 Rain5120 (178.252.193.170:2304) connected
+﻿01:15:33 : Player #7 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿01:15:33 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #7 Rain5120
+﻿01:20:50 : Player #7 Rain5120 disconnected
+﻿01:22:31 : Player #7 Rain5120 (178.252.193.170:2304) connected
+﻿01:22:38 : Player #7 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿01:22:39 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #7 Rain5120
+﻿01:43:59 : Player #6 JleHuBblu (21ad43df25ff280d21b8ffb22e2f4bdb) has been kicked by BattlEye: Client not responding
+﻿01:58:15 : Player #7 Rain5120 disconnected
+﻿02:26:17 : Player #0 egor (178.120.186.116:2304) connected
+﻿02:26:19 : Player #0 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿02:26:20 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #0 egor
+﻿02:29:06 : Player #0 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿02:33:37 : Player #0 Malinka (217.19.216.236:2304) connected
+﻿02:33:38 : Player #0 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿02:33:39 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #0 Malinka
+﻿02:38:20 : Player #1 egor (178.120.186.116:2304) connected
+﻿02:38:22 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿02:38:23 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿02:41:09 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿02:49:59 : Player #1 egor (178.120.186.116:2304) connected
+﻿02:50:01 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿02:50:02 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿02:52:58 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿02:56:00 : Player #1 egor (178.120.186.116:2304) connected
+﻿02:56:02 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿02:56:03 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿02:57:42 : Player #1 egor disconnected
+﻿03:00:46 : Player #1 egor (178.120.186.116:2304) connected
+﻿03:00:49 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿03:00:49 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿03:21:15 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿03:23:07 : Player #1 egor (178.120.186.116:2304) connected
+﻿03:23:10 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿03:23:10 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿03:26:31 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿03:28:00 : Player #1 egor (178.120.186.116:2304) connected
+﻿03:28:02 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿03:28:03 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿03:45:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿03:45:24 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿03:47:22 : Player #1 egor (178.120.186.116:2304) connected
+﻿03:47:25 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿03:47:26 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿03:50:06 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿03:52:34 : Player #1 egor (178.120.186.116:2304) connected
+﻿03:52:37 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿03:52:37 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿03:55:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿03:55:44 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿03:57:18 : Player #1 egor (178.120.186.116:2304) connected
+﻿03:57:20 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿03:57:20 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿03:59:00 : RCon admin #1: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿04:00:01 : Player #0 Malinka disconnected
+﻿04:00:02 : Lost Connection!
+﻿04:00:02 : Closing socket & exiting!
+﻿04:00:07 : Lost Connection!
+﻿04:00:07 : Closing socket & exiting!
+﻿04:00:34 : Rcon client logging in
+﻿04:01:08 : RCon admin #0 (127.0.0.1:59249) logged in
+﻿04:01:08 : RCon admin #0: (Global) Initializing Bec
+﻿04:01:12 : Player #0 Malinka (217.19.216.236:2304) connected
+﻿04:01:12 : Connected to BE Master
+﻿04:01:13 : Player #0 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿04:01:14 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #0 Malinka
+﻿04:01:20 : Player #1 egor (178.120.186.116:2304) connected
+﻿04:01:23 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿04:01:23 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿04:02:49 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿04:03:50 : Player #1 egor (178.120.186.116:2304) connected
+﻿04:03:53 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿04:03:53 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿04:07:34 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿04:08:44 : Player #0 Malinka (61439fb3d1a7ec3ff8d673fa8c6773e8) has been kicked by BattlEye: Client not responding
+﻿04:08:54 : Failed to receive from BE Master (10054)
+﻿04:08:54 : Disconnected from BE Master
+﻿04:09:58 : Player #0 Malinka (217.19.216.236:2304) connected
+﻿04:09:59 : Player #0 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿04:10:00 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #0 Malinka
+﻿04:10:31 : Player #1 egor (178.120.186.116:2304) connected
+﻿04:10:34 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿04:10:34 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿04:10:49 : Connected to BE Master
+﻿04:12:10 : Player #1 egor (6df53d77e6d641de1c61481e59a51f3c) has been kicked by BattlEye: Client not responding
+﻿04:13:44 : Player #1 egor (178.120.186.116:2304) connected
+﻿04:13:47 : Player #1 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿04:13:47 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #1 egor
+﻿04:22:50 : Player #0 Malinka disconnected
+﻿04:23:20 : Player #2 Malinka (217.19.216.236:2304) connected
+﻿04:23:21 : Player #2 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿04:23:22 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #2 Malinka
+﻿05:39:55 : Player #2 Malinka (61439fb3d1a7ec3ff8d673fa8c6773e8) has been kicked by BattlEye: Client not responding
+﻿05:40:22 : Player #1 egor disconnected
+﻿06:14:19 : Player #0 kocony3bui62 (176.59.49.177:2304) connected
+﻿06:14:30 : Player #0 kocony3bui62 disconnected
+﻿06:15:38 : Player #0 kocony3bui62 (176.59.49.177:2304) connected
+﻿06:16:00 : Player #0 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿06:16:01 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #0 kocony3bui62
+﻿06:27:44 : Player #0 kocony3bui62 disconnected
+﻿07:02:54 : Player #0 kocony3bui62 (176.59.49.177:2304) connected
+﻿07:03:16 : Player #0 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿07:03:16 : Player #0 kocony3bui62 disconnected
+﻿07:05:48 : Player #0 kocony3bui62 (176.59.49.177:2304) connected
+﻿07:05:54 : Player #0 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿07:05:54 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #0 kocony3bui62
+﻿07:10:08 : Player #0 kocony3bui62 disconnected
+﻿07:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿07:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿07:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿08:00:02 : Lost Connection!
+﻿08:00:02 : Closing socket & exiting!
+﻿08:00:28 : Rcon client logging in
+﻿08:01:04 : RCon admin #0 (127.0.0.1:49262) logged in
+﻿08:01:05 : RCon admin #0: (Global) Initializing Bec
+﻿09:09:45 : Player #0 Suhoy (178.122.22.9:2304) connected
+﻿09:09:45 : Connected to BE Master
+﻿09:09:46 : Player #0 Suhoy - BE GUID: 23674773a76f1b0d15cbc2d15d5d017a
+﻿09:09:46 : Verified GUID (23674773a76f1b0d15cbc2d15d5d017a) of player #0 Suhoy
+﻿09:20:04 : Player #1 kocony3bui62 (176.59.32.161:2304) connected
+﻿09:20:07 : Player #1 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿09:20:07 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #1 kocony3bui62
+﻿09:24:23 : Player #1 kocony3bui62 (4a83984c9f305d8f290ecf93c50bf954) has been kicked by BattlEye: Client not responding
+﻿09:37:51 : Player #1 kocony3bui62 (176.59.32.161:2304) connected
+﻿09:37:54 : Player #1 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿09:37:55 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #1 kocony3bui62
+﻿09:46:52 : Player #1 kocony3bui62 disconnected
+﻿09:51:57 : Player #1 kocony3bui62 (176.59.32.161:2304) connected
+﻿09:52:00 : Player #1 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿09:52:01 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #1 kocony3bui62
+﻿09:52:26 : Player #1 kocony3bui62 disconnected
+﻿09:55:51 : Player #1 kocony3bui62 (176.59.32.161:2304) connected
+﻿09:55:54 : Player #1 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿09:55:54 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #1 kocony3bui62
+﻿10:31:30 : Player #1 kocony3bui62 (4a83984c9f305d8f290ecf93c50bf954) has been kicked by BattlEye: Client not responding
+﻿10:35:53 : Player #1 kocony3bui62 (176.59.32.161:2304) connected
+﻿10:35:57 : Player #1 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿10:35:57 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #1 kocony3bui62
+﻿10:54:52 : Player #2 Professor (87.255.26.60:2304) connected
+﻿10:54:53 : Player #2 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿10:54:53 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #2 Professor
+﻿10:56:36 : Player #1 kocony3bui62 disconnected
+﻿11:21:33 : Player #3 kocony3bui62 (176.59.32.161:2304) connected
+﻿11:21:36 : Player #3 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿11:21:36 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #3 kocony3bui62
+﻿11:23:57 : Player #3 kocony3bui62 disconnected
+﻿11:39:42 : Player #3 Broguos Organa (37.190.12.57:2304) connected
+﻿11:39:43 : Player #3 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿11:39:43 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #3 Broguos Organa
+﻿11:43:11 : RCon admin #1 (217.19.216.236:57523) logged in
+﻿11:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿11:49:39 : Player #4 Survivor (95.70.78.103:2304) connected
+﻿11:49:42 : Player #4 Survivor - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿11:49:42 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #4 Survivor
+﻿11:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿11:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿12:00:01 : Player #4 Survivor disconnected
+﻿12:00:01 : Player #0 Suhoy disconnected
+﻿12:00:05 : Lost Connection!
+﻿12:00:05 : Closing socket & exiting!
+﻿12:00:31 : Rcon client logging in
+﻿12:01:05 : RCon admin #0 (127.0.0.1:50798) logged in
+﻿12:01:05 : RCon admin #0: (Global) Initializing Bec
+﻿12:03:55 : Player #0 Professor (87.255.26.60:2304) connected
+﻿12:03:56 : Connected to BE Master
+﻿12:03:57 : Player #0 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿12:03:57 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #0 Professor
+﻿12:05:42 : Player #1 kocony3bui62 (176.59.32.161:2304) connected
+﻿12:05:45 : Player #1 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿12:05:46 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #1 kocony3bui62
+﻿12:06:23 : Player #2 Suhoy (178.122.22.9:2304) connected
+﻿12:06:24 : Player #2 Suhoy - BE GUID: 23674773a76f1b0d15cbc2d15d5d017a
+﻿12:06:24 : Verified GUID (23674773a76f1b0d15cbc2d15d5d017a) of player #2 Suhoy
+﻿12:07:18 : Player #3 Broguos Organa (37.190.12.57:2304) connected
+﻿12:07:19 : Player #3 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿12:07:20 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #3 Broguos Organa
+﻿12:14:17 : RCon admin #0: (To kocony3bui62) Do not use Global chat. Warnings left:4
+﻿12:14:21 : RCon admin #0: (To kocony3bui62) Do not use Global chat. Warnings left:3
+﻿12:14:41 : RCon admin #0: (To kocony3bui62) Do not use Global chat. Warnings left:2
+﻿12:14:55 : RCon admin #0: (To kocony3bui62) Do not use Global chat. Warnings left:1
+﻿12:15:12 : RCon admin #0: (To kocony3bui62) Do not use Global chat. No Warnings left, Next Global message will result in kick
+﻿12:15:25 : Player #1 kocony3bui62 (4a83984c9f305d8f290ecf93c50bf954) has been kicked by BattlEye: Admin Kick (BEC : Violation of global chat restriction)
+﻿12:15:31 : Player #4 kocony3bui62 (176.59.32.161:2304) connected
+﻿12:15:35 : Player #4 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿12:15:35 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #4 kocony3bui62
+﻿12:16:42 : RCon admin #0: (To kocony3bui62) Do not use Global chat. Warnings left:4
+﻿12:17:10 : RCon admin #0: (To kocony3bui62) Do not use Global chat. Warnings left:3
+﻿12:17:36 : RCon admin #0: (To kocony3bui62) Do not use Global chat. Warnings left:2
+﻿12:31:36 : Player #4 kocony3bui62 disconnected
+﻿13:16:32 : Player #0 Professor disconnected
+﻿13:27:48 : Player #4 Teamix228 (91.122.56.123:2304) connected
+﻿13:27:49 : Player #4 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿13:27:50 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #4 Teamix228
+﻿13:28:04 : Player #5 Aleksandr Volkov (5.100.124.99:2304) connected
+﻿13:28:05 : Player #5 Aleksandr Volkov - BE GUID: 852bf72c0b34f3ca4023c7dacdc6a53a
+﻿13:28:06 : Verified GUID (852bf72c0b34f3ca4023c7dacdc6a53a) of player #5 Aleksandr Volkov
+﻿13:31:27 : Player #6 Professor (87.255.26.60:2304) connected
+﻿13:31:29 : Player #6 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿13:31:29 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #6 Professor
+﻿13:39:40 : Player #3 Broguos Organa (e09a096283c2d5e2e2ea1435066d4585) has been kicked by BattlEye: Client not responding
+﻿13:59:41 : Player #6 Professor disconnected
+﻿14:05:41 : Player #6 kocony3bui62 (176.59.32.161:2304) connected
+﻿14:05:45 : Player #6 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿14:05:45 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #6 kocony3bui62
+﻿14:11:25 : Player #2 Suhoy (23674773a76f1b0d15cbc2d15d5d017a) has been kicked by BattlEye: Client not responding
+﻿14:13:50 : Player #6 kocony3bui62 (4a83984c9f305d8f290ecf93c50bf954) has been kicked by BattlEye: Client not responding
+﻿14:14:24 : Player #6 Professor (87.255.26.60:2304) connected
+﻿14:14:26 : Player #6 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿14:14:26 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #6 Professor
+﻿14:19:01 : Player #7 kocony3bui62 (176.59.32.161:2304) connected
+﻿14:19:04 : Player #7 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿14:19:04 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #7 kocony3bui62
+﻿14:35:47 : RCon admin #0: (To kocony3bui62) Do not use Global chat. Warnings left:4
+﻿14:37:02 : RCon admin #1 (217.19.216.236:61584) logged in
+﻿14:37:07 : Player #8 Sibiryak (178.248.83.74:2304) connected
+﻿14:37:19 : Player #8 Sibiryak - BE GUID: 3c69c6d7f246d9e28b27fd4a4847c1e3
+﻿14:37:20 : Verified GUID (3c69c6d7f246d9e28b27fd4a4847c1e3) of player #8 Sibiryak
+﻿14:41:16 : Player #9 Survivor (95.70.78.103:2304) connected
+﻿14:41:19 : Player #9 Survivor - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿14:41:19 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #9 Survivor
+﻿14:47:39 : Player #10 kocony3bui62 (2) (176.59.36.36:2304) connected
+﻿14:47:42 : Player #7 kocony3bui62 disconnected
+﻿14:47:43 : Player #8 Sibiryak disconnected
+﻿14:47:43 : Player #10 kocony3bui62 (2) - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿14:47:43 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #10 kocony3bui62 (2)
+﻿14:48:29 : Player #11 kocony3bui62 (176.59.36.69:2304) connected
+﻿14:48:32 : Player #11 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿14:48:32 : Player #11 kocony3bui62 disconnected
+﻿14:48:42 : Player #11 Sibiryak (178.248.83.74:2304) connected
+﻿14:48:43 : Player #10 kocony3bui62 (2) disconnected
+﻿14:48:55 : Player #11 Sibiryak - BE GUID: 3c69c6d7f246d9e28b27fd4a4847c1e3
+﻿14:48:56 : Verified GUID (3c69c6d7f246d9e28b27fd4a4847c1e3) of player #11 Sibiryak
+﻿14:49:12 : Player #12 kocony3bui62 (176.59.36.69:2304) connected
+﻿14:49:15 : Player #12 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿14:49:16 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #12 kocony3bui62
+﻿14:58:43 : Player #6 Professor disconnected
+﻿14:59:46 : Player #12 kocony3bui62 disconnected
+﻿15:03:25 : Player #11 Sibiryak disconnected
+﻿15:07:06 : Player #10 Professor (87.255.26.60:2304) connected
+﻿15:07:07 : Player #10 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿15:07:07 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #10 Professor
+﻿15:18:44 : Player #11 Dgoni (79.105.238.110:2319) connected
+﻿15:18:54 : Player #11 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿15:18:55 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #11 Dgoni
+﻿15:19:40 : Player #5 Aleksandr Volkov (852bf72c0b34f3ca4023c7dacdc6a53a) has been kicked by BattlEye: Client not responding
+﻿15:19:48 : Player #11 Dgoni disconnected
+﻿15:22:00 : Player #11 Dgoni (79.105.45.42:2319) connected
+﻿15:22:02 : Player #12 Aleksandr Volkov (5.100.124.99:2304) connected
+﻿15:22:04 : Player #12 Aleksandr Volkov - BE GUID: 852bf72c0b34f3ca4023c7dacdc6a53a
+﻿15:22:04 : Verified GUID (852bf72c0b34f3ca4023c7dacdc6a53a) of player #12 Aleksandr Volkov
+﻿15:22:10 : Player #11 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿15:22:11 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #11 Dgoni
+﻿15:23:50 : Player #9 Survivor (f411b114d956b23cca73a6a000c4719f) has been kicked by BattlEye: Client not responding
+﻿15:24:48 : Player #13 Survivor (95.70.78.103:2304) connected
+﻿15:24:50 : Player #13 Survivor - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿15:24:50 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #13 Survivor
+﻿15:29:36 : Player #13 Survivor disconnected
+﻿15:30:02 : Player #4 Teamix228 disconnected
+﻿15:30:41 : Player #13 kocony3bui62 (176.59.36.69:2304) connected
+﻿15:30:42 : Player #14 Teamix228 (91.122.56.123:2304) connected
+﻿15:30:43 : Player #14 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿15:30:43 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #14 Teamix228
+﻿15:30:45 : Player #13 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿15:30:45 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #13 kocony3bui62
+﻿15:32:24 : Player #15 Survivor (95.70.78.103:2304) connected
+﻿15:32:26 : Player #15 Survivor - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿15:32:26 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #15 Survivor
+﻿15:32:46 : Player #15 Survivor disconnected
+﻿15:35:00 : Player #13 kocony3bui62 (4a83984c9f305d8f290ecf93c50bf954) has been kicked by BattlEye: Client not responding
+﻿15:38:44 : Player #15 Survivor (95.70.78.103:2304) connected
+﻿15:38:45 : Player #15 Survivor - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿15:38:45 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #15 Survivor
+﻿15:39:00 : Player #16 Sat-Ok(����) (188.191.4.46:2304) connected
+﻿15:39:01 : Player #16 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿15:39:02 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #16 Sat-Ok(����)
+﻿15:44:03 : Player #17 kocony3bui62 (176.59.53.141:2304) connected
+﻿15:44:06 : Player #17 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿15:44:07 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #17 kocony3bui62
+﻿15:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿15:45:10 : Player #17 kocony3bui62 (4a83984c9f305d8f290ecf93c50bf954) has been kicked by BattlEye: Client not responding
+﻿15:45:36 : Player #17 kocony3bui62 (176.59.53.204:2304) connected
+﻿15:45:39 : Player #17 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿15:46:03 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #17 kocony3bui62
+﻿15:47:17 : Player #15 Survivor disconnected
+﻿15:47:26 : Player #12 Aleksandr Volkov disconnected
+﻿15:49:27 : Player #17 kocony3bui62 (4a83984c9f305d8f290ecf93c50bf954) has been kicked by BattlEye: Client not responding
+﻿15:49:36 : Player #17 kocony3bui62 (176.59.53.204:2304) connected
+﻿15:49:39 : Player #17 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿15:49:40 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #17 kocony3bui62
+﻿15:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿15:57:45 : Player #18 Survivor (95.70.78.103:2304) connected
+﻿15:57:46 : Player #18 Survivor - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿15:57:46 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #18 Survivor
+﻿15:58:45 : Player #19 Aleksandr Volkov (5.100.124.99:2304) connected
+﻿15:58:46 : Player #19 Aleksandr Volkov - BE GUID: 852bf72c0b34f3ca4023c7dacdc6a53a
+﻿15:58:46 : Verified GUID (852bf72c0b34f3ca4023c7dacdc6a53a) of player #19 Aleksandr Volkov
+﻿15:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿15:59:18 : Player #19 Aleksandr Volkov disconnected
+﻿16:00:01 : Player #14 Teamix228 disconnected
+﻿16:00:02 : Lost Connection!
+﻿16:00:02 : Closing socket & exiting!
+﻿16:00:27 : Rcon client logging in
+﻿16:01:04 : RCon admin #0 (127.0.0.1:58841) logged in
+﻿16:01:05 : RCon admin #0: (Global) Initializing Bec
+﻿16:01:05 : Player #0 Professor (87.255.26.60:2304) connected
+﻿16:01:05 : Player #1 Aleksandr Volkov (5.100.124.99:2304) connected
+﻿16:01:05 : Connected to BE Master
+﻿16:01:06 : Player #1 Aleksandr Volkov - BE GUID: 852bf72c0b34f3ca4023c7dacdc6a53a
+﻿16:01:06 : Player #0 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿16:01:06 : Verified GUID (852bf72c0b34f3ca4023c7dacdc6a53a) of player #1 Aleksandr Volkov
+﻿16:01:07 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #0 Professor
+﻿16:01:09 : Player #2 Teamix228 (91.122.56.123:2304) connected
+﻿16:01:11 : Player #2 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿16:01:11 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #2 Teamix228
+﻿16:01:12 : Player #3 Survivor (95.70.78.103:2304) connected
+﻿16:01:13 : Player #3 Survivor - BE GUID: f411b114d956b23cca73a6a000c4719f
+﻿16:01:14 : Verified GUID (f411b114d956b23cca73a6a000c4719f) of player #3 Survivor
+﻿16:01:38 : Player #4 Dgoni (79.105.45.42:2319) connected
+﻿16:01:49 : Player #4 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿16:01:50 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #4 Dgoni
+﻿16:01:55 : Player #5 kocony3bui62 (176.59.53.204:2304) connected
+﻿16:01:58 : Player #5 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿16:01:58 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #5 kocony3bui62
+﻿16:05:44 : Player #5 kocony3bui62 (4a83984c9f305d8f290ecf93c50bf954) has been kicked by BattlEye: Client not responding
+﻿16:06:31 : Player #5 kocony3bui62 (176.59.48.205:2304) connected
+﻿16:06:34 : Player #5 kocony3bui62 - BE GUID: 4a83984c9f305d8f290ecf93c50bf954
+﻿16:06:37 : Verified GUID (4a83984c9f305d8f290ecf93c50bf954) of player #5 kocony3bui62
+﻿16:07:21 : Player #6 Sat-Ok(����) (188.191.4.46:2304) connected
+﻿16:07:23 : Player #6 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿16:07:23 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #6 Sat-Ok(����)
+﻿16:21:18 : Player #7 Rain5120 (178.252.193.170:2304) connected
+﻿16:21:19 : Player #7 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿16:21:20 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #7 Rain5120
+﻿16:21:37 : Player #7 Rain5120 disconnected
+﻿16:21:43 : Player #7 JleHuBblu (178.44.251.128:2304) connected
+﻿16:21:45 : Player #7 JleHuBblu - BE GUID: 21ad43df25ff280d21b8ffb22e2f4bdb
+﻿16:21:45 : Verified GUID (21ad43df25ff280d21b8ffb22e2f4bdb) of player #7 JleHuBblu
+﻿16:23:46 : Player #8 Rain5120 (178.252.193.170:2304) connected
+﻿16:23:53 : Player #8 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿16:23:53 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #8 Rain5120
+﻿16:37:06 : Player #4 Dgoni (90b28bd9207d1d007496ea57b8081274) has been kicked by BattlEye: Client not responding
+﻿16:37:28 : Player #9 Dgoni (79.105.45.42:2319) connected
+﻿16:37:39 : Player #9 Dgoni - BE GUID: 90b28bd9207d1d007496ea57b8081274
+﻿16:37:39 : Verified GUID (90b28bd9207d1d007496ea57b8081274) of player #9 Dgoni
+﻿16:43:34 : Player #2 Teamix228 disconnected
+﻿16:45:00 : Player #5 kocony3bui62 (4a83984c9f305d8f290ecf93c50bf954) has been kicked by BattlEye: Client not responding
+﻿16:51:00 : Player #7 JleHuBblu (21ad43df25ff280d21b8ffb22e2f4bdb) has been kicked by BattlEye: Client not responding
+﻿17:04:47 : Player #8 Rain5120 disconnected
+﻿17:05:55 : RCon admin #1 (217.19.216.236:59000) logged in
+﻿17:07:48 : Player #10 TuneR (217.118.93.86:54801) connected
+﻿17:07:49 : Player #10 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿17:07:50 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #10 TuneR
+﻿17:09:47 : Player #10 TuneR disconnected
+﻿17:10:59 : Player #10 TuneR (217.118.93.86:54801) connected
+﻿17:11:06 : Player #10 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿17:11:07 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #10 TuneR
+﻿17:12:25 : Player #9 Dgoni (90b28bd9207d1d007496ea57b8081274) has been kicked by BattlEye: Client not responding
+﻿17:19:54 : Player #3 Survivor disconnected
+﻿17:28:20 : Player #10 TuneR (e95ddd8143b48b4c64930d910b776092) has been kicked by BattlEye: Client not responding
+﻿17:28:34 : Player #1 Aleksandr Volkov (852bf72c0b34f3ca4023c7dacdc6a53a) has been kicked by BattlEye: Client not responding
+﻿17:28:35 : Player #7 TuneR (217.118.93.86:54801) connected
+﻿17:28:37 : Player #7 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿17:28:37 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #7 TuneR
+﻿17:28:37 : Player #8 Aleksandr Volkov (5.100.124.99:2304) connected
+﻿17:28:38 : Player #8 Aleksandr Volkov - BE GUID: 852bf72c0b34f3ca4023c7dacdc6a53a
+﻿17:28:38 : Verified GUID (852bf72c0b34f3ca4023c7dacdc6a53a) of player #8 Aleksandr Volkov
+﻿17:30:56 : Player #7 TuneR (e95ddd8143b48b4c64930d910b776092) has been kicked by BattlEye: Client not responding
+﻿17:43:50 : Player #9 TuneR (31.13.144.126:14600) connected
+﻿17:43:52 : Player #9 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿17:43:52 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #9 TuneR
+﻿17:46:02 : Player #9 TuneR (e95ddd8143b48b4c64930d910b776092) has been kicked by BattlEye: Client not responding
+﻿17:46:52 : Player #9 TuneR (31.13.144.126:14600) connected
+﻿17:46:54 : Player #9 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿17:46:54 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #9 TuneR
+﻿17:56:39 : Player #9 TuneR (e95ddd8143b48b4c64930d910b776092) has been kicked by BattlEye: Client not responding
+﻿17:56:44 : Player #9 TuneR (31.13.144.126:14600) connected
+﻿17:56:51 : Player #9 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿17:56:52 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #9 TuneR
+﻿17:57:57 : Player #10 Rain5120 (178.252.193.170:2304) connected
+﻿17:57:59 : Player #10 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿17:58:00 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #10 Rain5120
+﻿17:58:13 : Player #10 Rain5120 disconnected
+﻿17:58:46 : Player #10 Rain5120 (178.252.193.170:2304) connected
+﻿17:58:54 : Player #10 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿17:58:54 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #10 Rain5120
+﻿17:59:12 : Player #9 TuneR (e95ddd8143b48b4c64930d910b776092) has been kicked by BattlEye: Client not responding
+﻿17:59:59 : Player #11 TuneR (31.13.144.126:14600) connected
+﻿18:00:00 : Player #11 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿18:00:00 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #11 TuneR
+﻿18:08:10 : Player #12 HADFER (93.185.202.199:2304) connected
+﻿18:08:12 : Player #12 HADFER - BE GUID: fa2bfc370005a2047631a390f41823f5
+﻿18:08:12 : Verified GUID (fa2bfc370005a2047631a390f41823f5) of player #12 HADFER
+﻿18:09:24 : Player #10 Rain5120 disconnected
+﻿18:10:38 : RCon admin #1 (217.19.216.236:50513) logged in
+﻿18:13:20 : Player #13 BARS (82.208.114.173:54097) connected
+﻿18:13:21 : Player #13 BARS - BE GUID: 82806d01cc28bb6b3eb919167cabd7cd
+﻿18:13:22 : Verified GUID (82806d01cc28bb6b3eb919167cabd7cd) of player #13 BARS
+﻿18:24:08 : Player #11 TuneR (e95ddd8143b48b4c64930d910b776092) has been kicked by BattlEye: Client not responding
+﻿18:24:26 : Player #14 Rain5120 (178.252.193.170:2304) connected
+﻿18:24:33 : Player #14 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿18:24:33 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #14 Rain5120
+﻿18:24:59 : Player #15 TuneR (31.13.144.126:14600) connected
+﻿18:25:01 : Player #15 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿18:25:01 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #15 TuneR
+﻿18:29:10 : Player #12 HADFER disconnected
+﻿18:29:28 : Player #8 Aleksandr Volkov disconnected
+﻿18:36:47 : Player #6 Sat-Ok(����) (8c1150f7bbf4e047782663bde0a70ce5) has been kicked by BattlEye: Client not responding
+﻿18:46:49 : Player #0 Professor disconnected
+﻿18:49:37 : Player #13 BARS (82806d01cc28bb6b3eb919167cabd7cd) has been kicked by BattlEye: Client not responding
+﻿18:51:50 : Player #16 egor (178.120.186.116:2304) connected
+﻿18:51:54 : Player #16 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿18:51:54 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #16 egor
+﻿18:54:16 : Player #17 Professor (87.255.26.60:2304) connected
+﻿18:54:17 : Player #17 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿18:54:17 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #17 Professor
+﻿19:07:50 : Player #18 Sat-Ok(����) (188.191.4.46:2304) connected
+﻿19:07:52 : Player #18 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿19:07:52 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #18 Sat-Ok(����)
+﻿19:19:37 : Player #19 Teamix228 (91.122.56.123:2304) connected
+﻿19:19:38 : Player #19 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿19:19:38 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #19 Teamix228
+﻿19:20:52 : Player #18 Sat-Ok(����) (8c1150f7bbf4e047782663bde0a70ce5) has been kicked by BattlEye: Client not responding
+﻿19:21:51 : RCon admin #0: (To Teamix228) Do not use Global chat. Warnings left:4
+﻿19:22:27 : Player #14 Rain5120 disconnected
+﻿19:26:13 : Player #20 Rain5120 (178.252.193.170:2304) connected
+﻿19:26:20 : Player #20 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿19:26:21 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #20 Rain5120
+﻿19:29:36 : Player #21 HADFER (93.185.202.199:2304) connected
+﻿19:29:37 : Player #21 HADFER - BE GUID: fa2bfc370005a2047631a390f41823f5
+﻿19:29:38 : Verified GUID (fa2bfc370005a2047631a390f41823f5) of player #21 HADFER
+﻿19:32:10 : Player #22 Dony (217.19.216.236:2304) connected
+﻿19:32:11 : Player #22 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿19:32:11 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #22 Dony
+﻿19:40:59 : Player #17 Professor disconnected
+﻿19:41:02 : Player #22 Dony (8e71eebdeb37718c4c2c169aa3c680a2) has been kicked by BattlEye: Client not responding
+﻿19:41:30 : Player #22 Dony (217.19.216.236:2304) connected
+﻿19:41:31 : Player #22 Dony - BE GUID: 8e71eebdeb37718c4c2c169aa3c680a2
+﻿19:41:31 : Verified GUID (8e71eebdeb37718c4c2c169aa3c680a2) of player #22 Dony
+﻿19:43:07 : Player #22 Dony (8e71eebdeb37718c4c2c169aa3c680a2) has been kicked by BattlEye: Client not responding
+﻿19:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿19:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿19:56:14 : Player #21 HADFER disconnected
+﻿19:56:19 : Player #19 Teamix228 disconnected
+﻿19:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
+﻿20:00:01 : Player #16 egor disconnected
+﻿20:00:02 : Lost Connection!
+﻿20:00:02 : Closing socket & exiting!
+﻿20:00:05 : Lost Connection!
+﻿20:00:05 : Closing socket & exiting!
+﻿20:00:32 : Rcon client logging in
+﻿20:01:07 : RCon admin #0 (127.0.0.1:63696) logged in
+﻿20:01:08 : RCon admin #0: (Global) Initializing Bec
+﻿20:01:08 : RCon admin #1 (217.19.216.236:55620) logged in
+﻿20:01:08 : Player #0 Rain5120 (178.252.193.170:2304) connected
+﻿20:01:08 : Connected to BE Master
+﻿20:01:09 : Player #1 TuneR (31.13.144.126:14600) connected
+﻿20:01:11 : Player #1 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿20:01:11 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #1 TuneR
+﻿20:01:16 : Player #0 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿20:01:16 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #0 Rain5120
+﻿20:12:08 : Player #2 egor (178.120.186.116:2304) connected
+﻿20:12:11 : Player #2 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿20:12:11 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #2 egor
+﻿20:12:34 : Player #3 Professor (87.255.26.60:2304) connected
+﻿20:12:36 : Player #3 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿20:12:36 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #3 Professor
+﻿20:20:27 : Player #4 Teamix228 (91.122.56.123:2304) connected
+﻿20:20:29 : Player #4 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿20:20:29 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #4 Teamix228
+﻿20:28:03 : Player #5 HADFER (93.185.202.199:2304) connected
+﻿20:28:05 : Player #5 HADFER - BE GUID: fa2bfc370005a2047631a390f41823f5
+﻿20:28:05 : Verified GUID (fa2bfc370005a2047631a390f41823f5) of player #5 HADFER
+﻿20:47:59 : Player #6 Sat-Ok(����) (188.191.4.46:2304) connected
+﻿20:48:01 : Player #6 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿20:48:01 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #6 Sat-Ok(����)
+﻿21:07:26 : Player #3 Professor disconnected
+﻿21:13:25 : Player #5 HADFER (fa2bfc370005a2047631a390f41823f5) has been kicked by BattlEye: Client not responding
+﻿21:16:12 : Player #1 TuneR disconnected
+﻿21:18:38 : Player #7 Professor (87.255.26.60:2304) connected
+﻿21:18:39 : Player #7 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿21:18:39 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #7 Professor
+﻿21:18:56 : Player #6 Sat-Ok(����) (8c1150f7bbf4e047782663bde0a70ce5) has been kicked by BattlEye: Client not responding
+﻿21:18:57 : Player #8 HADFER (93.185.202.199:2304) connected
+﻿21:18:59 : Player #8 HADFER - BE GUID: fa2bfc370005a2047631a390f41823f5
+﻿21:18:59 : Verified GUID (fa2bfc370005a2047631a390f41823f5) of player #8 HADFER
+﻿21:19:07 : Player #9 Sat-Ok(����) (188.191.4.46:2304) connected
+﻿21:19:09 : Player #9 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿21:19:10 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #9 Sat-Ok(����)
+﻿21:22:04 : Player #8 HADFER (fa2bfc370005a2047631a390f41823f5) has been kicked by BattlEye: Client not responding
+﻿21:26:06 : Player #9 Sat-Ok(����) disconnected
+﻿21:26:49 : Player #8 Sat-Ok(����) (188.191.4.46:2304) connected
+﻿21:26:50 : Player #8 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿21:26:51 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #8 Sat-Ok(����)
+﻿21:27:40 : Player #4 Teamix228 disconnected
+﻿21:29:07 : Player #8 Sat-Ok(����) (8c1150f7bbf4e047782663bde0a70ce5) has been kicked by BattlEye: Client not responding
+﻿21:29:18 : Player #8 TuneR (31.13.144.126:15215) connected
+﻿21:29:19 : Player #8 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿21:29:19 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #8 TuneR
+﻿21:30:36 : Player #9 Sat-Ok(����) (188.191.4.46:2304) connected
+﻿21:30:38 : Player #9 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿21:30:38 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #9 Sat-Ok(����)
+﻿21:32:31 : Player #2 egor disconnected
+﻿21:33:16 : Player #10 egor (178.120.186.116:2304) connected
+﻿21:33:19 : Player #10 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿21:33:20 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #10 egor
+﻿21:34:54 : Player #9 Sat-Ok(����) (8c1150f7bbf4e047782663bde0a70ce5) has been kicked by BattlEye: Client not responding
+﻿21:38:52 : Player #7 Professor (b4ab34607626391b9555dfc42b404d44) has been kicked by BattlEye: Client not responding
+﻿21:39:10 : Player #11 Professor (87.255.26.60:2304) connected
+﻿21:39:12 : Player #11 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿21:39:12 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #11 Professor
+﻿21:43:43 : Player #12 Sat-Ok(����) (188.191.4.46:2304) connected
+﻿21:43:45 : Player #12 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿21:43:45 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #12 Sat-Ok(����)
+﻿21:45:55 : Player #12 Sat-Ok(����) (8c1150f7bbf4e047782663bde0a70ce5) has been kicked by BattlEye: Client not responding
+﻿21:52:46 : Rcon client logging in
+﻿21:53:20 : RCon admin #0 (127.0.0.1:58425) logged in
+﻿21:53:20 : RCon admin #0: (Global) Initializing Bec
+﻿21:53:21 : Player #0 Professor (87.255.26.60:2304) connected
+﻿21:53:21 : Connected to BE Master
+﻿21:53:22 : Player #0 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿21:53:22 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #0 Professor
+﻿21:53:53 : Player #1 TuneR (31.13.144.126:15220) connected
+﻿21:53:54 : Player #1 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿21:53:54 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #1 TuneR
+﻿21:53:56 : Player #2 HADFER (93.185.202.199:2304) connected
+﻿21:53:59 : Player #2 HADFER - BE GUID: fa2bfc370005a2047631a390f41823f5
+﻿21:53:59 : Verified GUID (fa2bfc370005a2047631a390f41823f5) of player #2 HADFER
+﻿21:54:17 : Player #3 Malinka (217.19.216.236:2304) connected
+﻿21:54:18 : Player #3 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿21:54:18 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #3 Malinka
+﻿21:55:51 : Player #4 Rain5120 (178.252.193.170:2304) connected
+﻿21:55:59 : Player #4 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿21:55:59 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #4 Rain5120
+﻿22:02:34 : Player #0 Professor disconnected
+﻿22:33:44 : Rcon client logging in
+﻿22:34:18 : RCon admin #0 (127.0.0.1:59188) logged in
+﻿22:34:18 : RCon admin #0: (Global) Initializing Bec
+﻿22:34:22 : Player #0 TuneR (31.13.144.126:15233) connected
+﻿22:34:22 : Connected to BE Master
+﻿22:34:30 : Player #0 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿22:34:30 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #0 TuneR
+﻿22:38:04 : Player #1 Diezel (128.74.91.68:2304) connected
+﻿22:38:06 : Player #1 Diezel - BE GUID: a99da4426f9fe7cc16bcb939e306f2df
+﻿22:38:07 : Verified GUID (a99da4426f9fe7cc16bcb939e306f2df) of player #1 Diezel
+﻿22:42:42 : Player #2 Sat-Ok(����) (188.191.4.46:2304) connected
+﻿22:42:44 : Player #2 Sat-Ok(����) - BE GUID: 8c1150f7bbf4e047782663bde0a70ce5
+﻿22:42:44 : Verified GUID (8c1150f7bbf4e047782663bde0a70ce5) of player #2 Sat-Ok(����)
+﻿22:44:45 : RCon admin #0: (To TuneR) Do not use Global chat. Warnings left:4
+﻿22:52:33 : Player #3 Arefs (79.164.28.199:2304) connected
+﻿22:52:34 : Player #3 Arefs - BE GUID: e8bf540949a5805ccdc554ac4ad14470
+﻿22:52:34 : Verified GUID (e8bf540949a5805ccdc554ac4ad14470) of player #3 Arefs
+﻿22:53:36 : Player #4 JleHuBblu (178.44.251.128:2304) connected
+﻿22:53:37 : Player #4 JleHuBblu - BE GUID: 21ad43df25ff280d21b8ffb22e2f4bdb
+﻿22:53:38 : Verified GUID (21ad43df25ff280d21b8ffb22e2f4bdb) of player #4 JleHuBblu
+﻿22:55:09 : Player #5 Professor (87.255.26.60:2304) connected
+﻿22:55:10 : Player #5 Professor - BE GUID: b4ab34607626391b9555dfc42b404d44
+﻿22:55:10 : Verified GUID (b4ab34607626391b9555dfc42b404d44) of player #5 Professor
+﻿22:56:30 : Player #6 Rain5120 (178.252.193.170:2304) connected
+﻿22:56:37 : Player #6 Rain5120 - BE GUID: d335f672267ddb3d0a99fb9bc10613e7
+﻿22:56:37 : Verified GUID (d335f672267ddb3d0a99fb9bc10613e7) of player #6 Rain5120
+﻿22:57:44 : Player #7 Malinka (217.19.216.236:2304) connected
+﻿22:57:45 : Player #7 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿22:57:46 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #7 Malinka
+﻿22:59:22 : Player #8 egor (178.120.186.116:2304) connected
+﻿22:59:25 : Player #8 egor - BE GUID: 6df53d77e6d641de1c61481e59a51f3c
+﻿22:59:25 : Verified GUID (6df53d77e6d641de1c61481e59a51f3c) of player #8 egor
+﻿23:00:28 : RCon admin #0: (To TuneR) Do not use Global chat. Warnings left:3
+﻿23:03:36 : RCon admin #0: (To TuneR) Do not use Global chat. Warnings left:2
+﻿23:03:42 : Player #4 JleHuBblu disconnected
+﻿23:04:25 : Player #9 JleHuBblu (178.44.251.128:2304) connected
+﻿23:04:27 : Player #9 JleHuBblu - BE GUID: 21ad43df25ff280d21b8ffb22e2f4bdb
+﻿23:04:31 : Player #10 Teamix228 (91.122.56.123:2304) connected
+﻿23:04:32 : Player #10 Teamix228 - BE GUID: fff1236d5a643c5163f63a92a6f4bd0a
+﻿23:04:33 : Verified GUID (fff1236d5a643c5163f63a92a6f4bd0a) of player #10 Teamix228
+﻿23:05:15 : Verified GUID (21ad43df25ff280d21b8ffb22e2f4bdb) of player #9 JleHuBblu
+﻿23:11:25 : Player #0 TuneR disconnected
+﻿23:11:30 : Player #11 TuneR (31.13.144.126:15233) connected
+﻿23:11:38 : Player #11 TuneR - BE GUID: e95ddd8143b48b4c64930d910b776092
+﻿23:11:38 : Verified GUID (e95ddd8143b48b4c64930d910b776092) of player #11 TuneR
+﻿23:14:26 : Player #7 Malinka (61439fb3d1a7ec3ff8d673fa8c6773e8) has been kicked by BattlEye: Client not responding
+﻿23:14:31 : Player #12 Malinka (217.19.216.236:2304) connected
+﻿23:14:33 : Player #12 Malinka - BE GUID: 61439fb3d1a7ec3ff8d673fa8c6773e8
+﻿23:14:33 : Verified GUID (61439fb3d1a7ec3ff8d673fa8c6773e8) of player #12 Malinka
+﻿23:23:11 : RCon admin #0: (To TuneR) Do not use Global chat. Warnings left:4
+﻿23:24:03 : Player #9 JleHuBblu (21ad43df25ff280d21b8ffb22e2f4bdb) has been kicked by BattlEye: Client not responding
+﻿23:25:29 : Player #13 KekcFm (188.134.71.211:2304) connected
+﻿23:25:30 : Player #13 KekcFm - BE GUID: a7ca1dd7b314eea544f10fb596c7b604
+﻿23:25:31 : Verified GUID (a7ca1dd7b314eea544f10fb596c7b604) of player #13 KekcFm
+﻿23:28:48 : RCon admin #0: (To TuneR) Do not use Global chat. Warnings left:3
+﻿23:29:13 : RCon admin #0: (To TuneR) Do not use Global chat. Warnings left:2
+﻿23:31:00 : RCon admin #0: (To TuneR) Do not use Global chat. Warnings left:1
+﻿23:37:36 : RCon admin #0: (To TuneR) Do not use Global chat. No Warnings left, Next Global message will result in kick
+﻿23:40:51 : Player #14 Broguos Organa (37.190.12.57:2304) connected
+﻿23:40:53 : Player #14 Broguos Organa - BE GUID: e09a096283c2d5e2e2ea1435066d4585
+﻿23:40:53 : Verified GUID (e09a096283c2d5e2e2ea1435066d4585) of player #14 Broguos Organa
+﻿23:45:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 15 минут.
+﻿23:47:25 : Player #3 Arefs disconnected
+﻿23:49:46 : Player #1 Diezel disconnected
+﻿23:49:49 : Player #12 Malinka (61439fb3d1a7ec3ff8d673fa8c6773e8) has been kicked by BattlEye: Client not responding
+﻿23:51:11 : Player #15 Diezel (128.74.91.68:2304) connected
+﻿23:51:14 : Player #15 Diezel - BE GUID: a99da4426f9fe7cc16bcb939e306f2df
+﻿23:51:14 : Verified GUID (a99da4426f9fe7cc16bcb939e306f2df) of player #15 Diezel
+﻿23:53:17 : Player #10 Teamix228 disconnected
+﻿23:55:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 5 минут.
+﻿23:58:21 : Player #5 Professor disconnected
+﻿23:58:29 : Player #2 Sat-Ok(����) (8c1150f7bbf4e047782663bde0a70ce5) has been kicked by BattlEye: Client not responding
+﻿23:59:00 : RCon admin #0: (Global) BEC : Выброс произойдёт через 1 минуту.
