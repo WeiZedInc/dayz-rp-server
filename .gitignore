@@ -1,2 +1,9 @@
-
 serverDZ.cfg
+/addons
+/battleye
+/bliss
+/docs
+/dta
+/keys
+*.exe
+*.dll
