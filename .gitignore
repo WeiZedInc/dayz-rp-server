@@ -4,6 +4,9 @@ serverDZ.cfg
 /bliss
 /docs
 /dta
-/keys
+keys
 *.exe
 *.dll
+*.ADM
+*.RPC
+*.log
