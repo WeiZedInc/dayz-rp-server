@@ -4,7 +4,6 @@ serverDZ.cfg
 /bliss
 /docs
 /dta
-*.dll
-*.adm
-*.rpt
-*.log
+**/*.adm
+**/*.rpt
+**/*.log
