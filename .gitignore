@@ -4,7 +4,6 @@ serverDZ.cfg
 /bliss
 /docs
 /dta
-*.exe
 *.dll
 *.adm
 *.rpt
